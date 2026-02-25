@@ -1,6 +1,10 @@
 # Quick AlwaysOnTop
 ## 快速·窗口置顶
 
+<div style="text-align: center; margin: 1.5rem 0 2rem;">
+  <img src="/images/quick-logo/Quick AlwaysOnTop.svg" alt="Quick AlwaysOnTop" style="width: 96px; height: 96px;" />
+</div>
+
 **一键固定重要窗口在最前，多任务处理更从容。**
 
 ---
@@ -8,6 +12,12 @@
 ### 让重要窗口始终可见
 
 需要一边查看文档一边编写代码？想让计算器、翻译工具等工具窗口始终显示在最前？Quick AlwaysOnTop 让你一键将任意窗口置顶或取消置顶，保持关键信息始终可见，提高多任务处理效率。
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop 界面截图"
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · 界面预览</p>
+</div>
 
 ---
 

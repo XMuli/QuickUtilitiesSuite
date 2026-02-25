@@ -1,6 +1,10 @@
 # Quick DefenderToggle
 ## 快速·Defender 开关
 
+<div style="text-align: center; margin: 1.5rem 0 2rem;">
+  <img src="/images/quick-logo/Quick DefenderToggle.svg" alt="Quick DefenderToggle" style="width: 96px; height: 96px;" />
+</div>
+
 **快速控制系统防护，高级操作更便捷。**
 
 ---
@@ -8,6 +12,12 @@
 ### 为高级用户提供更多控制
 
 需要暂时关闭 Windows Defender 进行某些操作？Quick DefenderToggle 让你快速开启或关闭系统内置防病毒功能 (Microsoft Defender Antivirus)，适用于软件开发、系统调试等需要暂时关闭防护的场景。
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/snapshoot/Quick DefenderToggle.png" alt="Quick DefenderToggle 界面截图"
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick DefenderToggle · 界面预览</p>
+</div>
 
 ---
 

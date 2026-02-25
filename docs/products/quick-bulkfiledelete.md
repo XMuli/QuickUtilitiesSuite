@@ -1,6 +1,10 @@
 # Quick BulkFileDelete
 ## 快速·批量文件删除
 
+<div style="text-align: center; margin: 1.5rem 0 2rem;">
+  <img src="/images/quick-logo/Quick BulkFileDelete.svg" alt="Quick BulkFileDelete" style="width: 96px; height: 96px;" />
+</div>
+
 **极速删除巨型文件夹，告别漫长等待。**
 
 ---
@@ -8,6 +12,12 @@
 ### 让删除操作快如闪电
 
 删除一个巨大的 node_modules 文件夹，系统提示"正在计算时间"？Quick BulkFileDelete 采用高速删除算法，明显缩短删除时间，避免长时间等待，让你的工作流程更流畅。
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/snapshoot/Quick BulkFileDelete.png" alt="Quick BulkFileDelete 界面截图"
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick BulkFileDelete · 界面预览</p>
+</div>
 
 ---
 

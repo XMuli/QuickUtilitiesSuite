@@ -1,6 +1,10 @@
 # Quick SnapTranslate
 ## 快速·截图翻译
 
+<div style="text-align: center; margin: 1.5rem 0 2rem;">
+  <img src="/images/quick-logo/Quick SnapTranslate.svg" alt="Quick SnapTranslate" style="width: 96px; height: 96px;" />
+</div>
+
 **一键截图识别文字并翻译，跨语言工作更轻松。**
 
 ---
@@ -8,6 +12,12 @@
 ### 让语言不再是障碍
 
 看到外文图片、文档、网页想要理解内容？Quick SnapTranslate 让你一键截图，自动识别文字并翻译成你需要的语言，轻松跨语言查看图片里的说明文字。支持在线和离线 OCR，保护隐私的同时提供专业级识别精度。
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/snapshoot/Quick SnapTranslate.png" alt="Quick SnapTranslate 界面截图"
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick SnapTranslate · 界面预览</p>
+</div>
 
 ---
 

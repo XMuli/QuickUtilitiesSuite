@@ -1,6 +1,10 @@
 # Quick Utilities Suite
 ## 快速·实用工具箱
 
+<div style="text-align: center; margin: 1.5rem 0 2rem;">
+  <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
+</div>
+
 **多合一专业工具集，让工作效率翻倍。**
 
 ---
@@ -8,6 +12,12 @@
 ### 一个工具箱，满足所有需求
 
 Quick Utilities Suite 集成了多款精选的专业工具，涵盖屏幕取色、文件管理、截图翻译、窗口管理等常用场景。统一的界面和设置，让你的工作流程更流畅。
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite 界面截图"
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick Utilities Suite · 界面预览</p>
+</div>
 
 ---
 

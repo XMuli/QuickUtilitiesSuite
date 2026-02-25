@@ -1,6 +1,10 @@
 # Quick BulkFileCopy
 ## 快速·批量文件复制
 
+<div style="text-align: center; margin: 1.5rem 0 2rem;">
+  <img src="/images/quick-logo/Quick BulkFilecopy.svg" alt="Quick BulkFileCopy" style="width: 96px; height: 96px;" />
+</div>
+
 **高速复制大量小文件，节省等待时间。**
 
 ---
@@ -8,6 +12,12 @@
 ### 让文件复制不再漫长
 
 复制 node_modules 文件夹需要等待几分钟？Quick BulkFileCopy 专为处理大量小文件而优化，速度比系统自带复制快数倍，大幅节省宝贵的等待时间。拖放操作，实时进度，自动校验，让文件复制变得简单高效。
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/snapshoot/Quick BulkFileCopy.png" alt="Quick BulkFileCopy 界面截图"
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick BulkFileCopy · 界面预览</p>
+</div>
 
 ---
 

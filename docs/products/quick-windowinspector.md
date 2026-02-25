@@ -1,6 +1,10 @@
 # Quick WindowInspector
 ## 快速·窗口名侦探
 
+<div style="text-align: center; margin: 1.5rem 0 2rem;">
+  <img src="/images/quick-logo/Quick Windowinspector.svg" alt="Quick WindowInspector" style="width: 96px; height: 96px;" />
+</div>
+
 **获取任意窗口的详细信息，调试开发更高效。**
 
 ---
@@ -8,6 +12,12 @@
 ### 让窗口信息一目了然
 
 开发调试时需要获取窗口句柄？测试时需要查看窗口尺寸？Quick WindowInspector 让你轻松获取任意程序窗口的详细信息，包括句柄、进程 ID、窗口标题、尺寸、DPI 等，是开发者、测试人员和系统管理员的得力助手。
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/snapshoot/Quick WindowInspector.png" alt="Quick WindowInspector 界面截图"
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick WindowInspector · 界面预览</p>
+</div>
 
 ---
 

@@ -1,6 +1,10 @@
 # Quick ColorPicker
 ## 快速·屏幕取色器
 
+<div style="text-align: center; margin: 1.5rem 0 2rem;">
+  <img src="/images/quick-logo/Quick ColorPicker.svg" alt="Quick ColorPicker" style="width: 96px; height: 96px;" />
+</div>
+
 **精确拾取屏幕任意位置的颜色。**
 
 ---
@@ -8,6 +12,12 @@
 ### 让配色变得简单而精确
 
 无论是设计界面、调整配色，还是界面调试，Quick ColorPicker 都能帮你放大并精确拾取屏幕上任意位置的颜色值。放大镜实时跟随鼠标，让你看清每一个像素，多种颜色格式输出满足不同场景需求。
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/snapshoot/Quick ColorPicker.png" alt="Quick ColorPicker 界面截图"
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick ColorPicker · 界面预览</p>
+</div>
 
 ---
 
