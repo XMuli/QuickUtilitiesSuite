@@ -1,20 +1,53 @@
 import { defineConfig } from 'vitepress'
 
-// Shared nav/sidebars per locale (aligned with VitePress default theme config pattern)
+// Per-locale product item lists
+const productItems = {
+  root: [
+    { text: '实用工具箱', link: '/products/quick-utilities-suite' },
+    { text: '屏幕取色器', link: '/products/quick-colorpicker' },
+    { text: '批量文件复制', link: '/products/quick-bulkfilecopy' },
+    { text: '批量文件删除', link: '/products/quick-bulkfiledelete' },
+    { text: '截图翻译', link: '/products/quick-snaptranslate' },
+    { text: '窗口名侦探', link: '/products/quick-windowinspector' },
+    { text: '窗口置顶', link: '/products/quick-alwaysontop' },
+    { text: 'Defender 开关', link: '/products/quick-defendertoggle' }
+  ],
+  en: [
+    { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' },
+    { text: 'Quick ColorPicker', link: '/products/quick-colorpicker' },
+    { text: 'Quick BulkFileCopy', link: '/products/quick-bulkfilecopy' },
+    { text: 'Quick BulkFileDelete', link: '/products/quick-bulkfiledelete' },
+    { text: 'Quick SnapTranslate', link: '/products/quick-snaptranslate' },
+    { text: 'Quick WindowInspector', link: '/products/quick-windowinspector' },
+    { text: 'Quick AlwaysOnTop', link: '/products/quick-alwaysontop' },
+    { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
+  ],
+  'zh-tw': [
+    { text: '實用工具箱', link: '/products/quick-utilities-suite' },
+    { text: '螢幕取色器', link: '/products/quick-colorpicker' },
+    { text: '批量檔案複製', link: '/products/quick-bulkfilecopy' },
+    { text: '批量檔案刪除', link: '/products/quick-bulkfiledelete' },
+    { text: '截圖翻譯', link: '/products/quick-snaptranslate' },
+    { text: '視窗名偵探', link: '/products/quick-windowinspector' },
+    { text: '視窗置頂', link: '/products/quick-alwaysontop' },
+    { text: 'Defender 開關', link: '/products/quick-defendertoggle' }
+  ]
+}
+
 const nav = {
   root: [
     { text: '首页', link: '/' },
-    { text: '示例', link: '/markdown-examples' },
+    { text: '产品介绍', items: productItems.root },
     { text: '隐私协议', link: '/privacy/open-source-license' }
   ],
   en: [
     { text: 'Home', link: '/en/' },
-    { text: 'Examples', link: '/en/markdown-examples' },
+    { text: 'Products', items: productItems.en },
     { text: 'Privacy', link: '/en/privacy/open-source-license' }
   ],
   'zh-tw': [
     { text: '首頁', link: '/zh-tw/' },
-    { text: '範例', link: '/zh-tw/markdown-examples' },
+    { text: '產品介紹', items: productItems['zh-tw'] },
     { text: '隱私協議', link: '/zh-tw/privacy/open-source-license' }
   ]
 }
@@ -22,11 +55,8 @@ const nav = {
 const sidebar = {
   root: [
     {
-      text: '示例',
-      items: [
-        { text: 'Markdown 示例', link: '/markdown-examples' },
-        { text: '运行时 API 示例', link: '/api-examples' }
-      ]
+      text: '产品介绍',
+      items: productItems.root
     },
     {
       text: '隐私协议',
@@ -40,11 +70,8 @@ const sidebar = {
   ],
   en: [
     {
-      text: 'Examples',
-      items: [
-        { text: 'Markdown Examples', link: '/en/markdown-examples' },
-        { text: 'Runtime API Examples', link: '/en/api-examples' }
-      ]
+      text: 'Products',
+      items: productItems.en
     },
     {
       text: 'Privacy',
@@ -58,11 +85,8 @@ const sidebar = {
   ],
   'zh-tw': [
     {
-      text: '範例',
-      items: [
-        { text: 'Markdown 範例', link: '/zh-tw/markdown-examples' },
-        { text: '運行時 API 範例', link: '/zh-tw/api-examples' }
-      ]
+      text: '產品介紹',
+      items: productItems['zh-tw']
     },
     {
       text: '隱私協議',

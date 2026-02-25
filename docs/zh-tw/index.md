@@ -22,42 +22,42 @@ hero:
 
 features:
   - title: 快速·螢幕取色器
-    details: 放大並拾取螢幕任意位置的顏色；輕鬆取得游標所在像素的色值，方便設計、配色、介面調試。
+    details: 精確拾取螢幕任意位置的顏色，支援多種格式輸出。
     icon: 
       light: /images/home_features/QuickColorPicker.svg
       dark:  /images/home_features/QuickColorPicker.svg
   - title: 快速·批次檔案複製
-    details: 迅速複製包含大量小檔案的資料夾（如 node_modules），比系統複製更快，減少等待時間。
+    details: 高速複製大量小檔案，比系統自帶快數倍。
     icon:
       light: /images/home_features/QuickBulkFileCopy.svg
       dark: /images/home_features/QuickBulkFileCopy.svg
   - title: 快速·批次檔案刪除
-    details: 極速刪除包含大量小檔案或巨型資料夾，明顯縮短刪除時間，避免長時間等待。
+    details: 極速刪除巨型資料夾，節省寶貴時間。
     icon:
       light: /images/home_features/QuickBulkFileDelete.svg
       dark: /images/home_features/QuickBulkFileDelete.svg
   - title: 快速·截圖取字 (OCR)
-    details: 一鍵截圖並提取圖片中的文字；不論圖片、網頁或文件，都能快速辨識並複製文字。
+    details: 一鍵截圖提取文字，快速辨識並複製圖片、網頁或文件中的文字。
     icon: 
       light: /images/home_features/QuickSnapOCR.svg
       dark:  /images/home_features/QuickSnapOCR.svg
   - title: 快速·截圖翻譯
-    details: 支援截圖並翻譯圖片內容為其他語言—自動辨識文字並翻譯，方便跨語言查看圖片裡的說明／文字。
+    details: 一鍵截圖辨識文字並翻譯，跨語言工作更輕鬆。
     icon: 
       light: /images/home_features/QuickSnapTranslate.svg
       dark:  /images/home_features/QuickSnapTranslate.svg
   - title: 快速·視窗偵查
-    details: 取得任意程式視窗的詳細資訊，包括視窗控制代碼 (handle)、PID、標題、客戶端區域尺寸 (矩形)、裝置像素比 (DPR)、程式路徑等—適合查詢視窗資訊、偵錯、管理。
+    details: 取得任意視窗的詳細資訊，偵錯開發更高效。
     icon: 
       light: /images/home_features/QuickWindowInspector.svg
       dark:  /images/home_features/QuickWindowInspector.svg
   - title: 快速·視窗置頂
-    details: 一鍵將任何視窗置頂或取消置頂，輕鬆固定重要視窗／工具視窗在最前。
+    details: 一鍵固定重要視窗在最前，多工處理更從容。
     icon: 
       light: /images/home_features/QuickAlwaysOnTop.svg
       dark:  /images/home_features/QuickAlwaysOnTop.svg
   - title: 快速·Defender 開關
-    details: 快速開啟或關閉系統內建防毒 (Microsoft Defender Antivirus)。適用於需暫時關閉防護進行操作的進階用戶（請以系統管理員權限執行）。
+    details: 快速控制系統防護，進階操作更便捷。
     icon: 
       light: /images/home_features/QuickDefenderToggle.svg
       dark:  /images/home_features/QuickDefenderToggle.svg
