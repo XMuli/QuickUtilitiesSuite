@@ -3,14 +3,14 @@ import { defineConfig } from 'vitepress'
 // Per-locale product item lists
 const productItems = {
   root: [
-    { text: '实用工具箱', link: '/products/quick-utilities-suite' },
-    { text: '屏幕取色器', link: '/products/quick-colorpicker' },
-    { text: '批量文件复制', link: '/products/quick-bulkfilecopy' },
-    { text: '批量文件删除', link: '/products/quick-bulkfiledelete' },
-    { text: '截图翻译', link: '/products/quick-snaptranslate' },
-    { text: '窗口名侦探', link: '/products/quick-windowinspector' },
-    { text: '窗口置顶', link: '/products/quick-alwaysontop' },
-    { text: 'Defender 开关', link: '/products/quick-defendertoggle' }
+    { text: '快速·实用工具箱', link: '/products/quick-utilities-suite' },
+    { text: '快速·屏幕取色器', link: '/products/quick-colorpicker' },
+    { text: '快速·批量文件复制', link: '/products/quick-bulkfilecopy' },
+    { text: '快速·批量文件删除', link: '/products/quick-bulkfiledelete' },
+    { text: '快速·截图翻译', link: '/products/quick-snaptranslate' },
+    { text: '快速·窗口名侦探', link: '/products/quick-windowinspector' },
+    { text: '快速·窗口置顶', link: '/products/quick-alwaysontop' },
+    { text: '快速·Defender 开关', link: '/products/quick-defendertoggle' }
   ],
   en: [
     { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' },
@@ -23,14 +23,14 @@ const productItems = {
     { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
   ],
   'zh-tw': [
-    { text: '實用工具箱', link: '/products/quick-utilities-suite' },
-    { text: '螢幕取色器', link: '/products/quick-colorpicker' },
-    { text: '批量檔案複製', link: '/products/quick-bulkfilecopy' },
-    { text: '批量檔案刪除', link: '/products/quick-bulkfiledelete' },
-    { text: '截圖翻譯', link: '/products/quick-snaptranslate' },
-    { text: '視窗名偵探', link: '/products/quick-windowinspector' },
-    { text: '視窗置頂', link: '/products/quick-alwaysontop' },
-    { text: 'Defender 開關', link: '/products/quick-defendertoggle' }
+    { text: '快速·實用工具箱', link: '/products/quick-utilities-suite' },
+    { text: '快速·螢幕取色器', link: '/products/quick-colorpicker' },
+    { text: '快速·批量檔案複製', link: '/products/quick-bulkfilecopy' },
+    { text: '快速·批量檔案刪除', link: '/products/quick-bulkfiledelete' },
+    { text: '快速·截圖翻譯', link: '/products/quick-snaptranslate' },
+    { text: '快速·視窗名偵探', link: '/products/quick-windowinspector' },
+    { text: '快速·視窗置頂', link: '/products/quick-alwaysontop' },
+    { text: '快速·Defender 開關', link: '/products/quick-defendertoggle' }
   ]
 }
 
