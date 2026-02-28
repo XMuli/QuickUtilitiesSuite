@@ -1,41 +1,36 @@
 
+
 <div align="center">
 
 <img src="./docs/public/images/quick-logo/Quick Utilities Suite.svg" width="120" />
 
 # Quick Utilities Suite
 
-# 快速 · 实用工具箱
+**8 curated Windows desktop utilities to supercharge your workflow.**
 
-**精选 8 款 Windows 桌面效率工具，让你的工作流程更快、更顺畅。**
+[![Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
 
-[![Microsoft Store](https://get.microsoft.com/images/zh-cn%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
+[Official Website](https://quickutilitiessuite.xmuli.tech)   ·    [GitHub Releases](https://github.com/XMuli/QuickUtilitiesSuite/releases)
 
-[官方网站](https://quickutilitiessuite.xmuli.tech)   ·    [GitHub Releases](https://github.com/XMuli/QuickUtilitiesSuite/releases)
+</div>
 
-
-
-[toc]
-
-
+<br>
 
 ---
 
 <br>
 
-## Quick ColorPicker · 屏幕取色器
+## <img src="./docs/public/images/quick-logo/Quick ColorPicker.svg" width="64" align="left" style="margin-right: 16px;" /> Quick ColorPicker
 
-<img src="./docs/public/images/quick-logo/Quick ColorPicker.svg" width="64" align="left" style="margin-right: 16px;" />
+**Capture precise colors from anywhere on your screen.**
 
-**放大并拾取屏幕上任意位置的颜色，精确到像素级。**
-
-无论是设计配色、前端调试，还是提取灵感色彩——放大镜实时跟随鼠标，多种格式输出（RGB / HEX / RGB+HEX），多显示器完美支持，一个快捷键即可获取色值并自动复制到剪贴板。
+Whether you're designing interfaces, fine-tuning color schemes, or debugging UI elements, Quick ColorPicker helps you magnify and precisely capture color values from any location on your screen. A real-time magnifier follows your cursor, revealing every pixel in detail. Multiple output formats (RGB / HEX / RGB+HEX) and seamless multi-monitor support make color picking fast and accurate.
 
 <br>
 
 <div align="center">
   <img src="./docs/public/images/snapshoot/Quick ColorPicker.png" width="80%" style="border-radius: 10px;" />
-  <p><sub>Quick ColorPicker · 界面预览</sub></p>
+  <p><sub>Quick ColorPicker · Interface Preview</sub></p>
 </div>
 
 <br>
@@ -44,19 +39,17 @@
 
 <br>
 
-## Quick BulkFileCopy · 批量文件复制
+## <img src="./docs/public/images/quick-logo/Quick BulkFilecopy.svg" width="64" align="left" style="margin-right: 16px;" /> Quick BulkFileCopy
 
-<img src="./docs/public/images/quick-logo/Quick BulkFilecopy.svg" width="64" align="left" style="margin-right: 16px;" />
+**High-speed bulk file copying — stop waiting, start working.**
 
-**高速复制包含海量小文件的文件夹，比系统复制快数倍。**
-
-复制 `node_modules` 不再需要苦等几分钟。专为大量小文件优化的复制引擎，拖放即可开始，实时进度显示，复制完成后自动校验数据完整性。历史路径记录让重复操作一键完成。
+Tired of watching Windows Explorer take minutes to copy a `node_modules` folder? Quick BulkFileCopy is purpose-built for handling directories containing massive numbers of small files, copying several times faster than the built-in system tool. Drag-and-drop operation, real-time progress tracking, and automatic integrity verification make file copying simple and reliable.
 
 <br>
 
 <div align="center">
   <img src="./docs/public/images/snapshoot/Quick BulkFileCopy.png" width="80%" style="border-radius: 10px;" />
-  <p><sub>Quick BulkFileCopy · 界面预览</sub></p>
+  <p><sub>Quick BulkFileCopy · Interface Preview</sub></p>
 </div>
 
 <br>
@@ -65,19 +58,17 @@
 
 <br>
 
-## Quick BulkFileDelete · 批量文件删除
+## <img src="./docs/public/images/quick-logo/Quick BulkFileDelete.svg" width="64" align="left" style="margin-right: 16px;" /> Quick BulkFileDelete
 
-<img src="./docs/public/images/quick-logo/Quick BulkFileDelete.svg" width="64" align="left" style="margin-right: 16px;" />
+**Blazing-fast deletion of massive directories — no more endless waiting.**
 
-**极速删除巨型文件夹，告别"正在计算时间"的漫长等待。**
-
-系统删除 `node_modules` 等大文件夹经常卡死？高效删除引擎让操作快如闪电。删除前验证避免误操作，详细日志记录每一步，拖放操作即可完成。清理 build、dist、缓存等临时目录的最佳选择。
+Does Windows Explorer hang with "Calculating time remaining" when you try to delete a bloated `node_modules` folder? Quick BulkFileDelete employs a high-performance deletion algorithm that dramatically reduces removal time and eliminates system freezes. Pre-deletion verification prevents accidental removal, and detailed logs record every step for full traceability.
 
 <br>
 
 <div align="center">
   <img src="./docs/public/images/snapshoot/Quick BulkFileDelete.png" width="80%" style="border-radius: 10px;" />
-  <p><sub>Quick BulkFileDelete · 界面预览</sub></p>
+  <p><sub>Quick BulkFileDelete · Interface Preview</sub></p>
 </div>
 
 <br>
@@ -86,19 +77,17 @@
 
 <br>
 
-## Quick SnapOCR · 提取图片文本
+## <img src="./docs/public/images/quick-logo/Quick snapOCR.svg" width="64" align="left" style="margin-right: 16px;" /> Quick SnapOCR
 
-<img src="./docs/public/images/quick-logo/Quick snapOCR.svg" width="64" align="left" style="margin-right: 16px;" />
+**One-click screenshot + OCR — extract text from any image, webpage, or document.**
 
-**一键截图 + OCR，从任何图片、网页、文档中快速提取文字。**
-
-看到图片里的文字想要复制？无需手动输入。一键截图后自动识别图片中的文字内容，识别结果直接复制到剪贴板，无论是 PDF 截图、网页图片还是视频字幕，统统轻松搞定。
+Spot text in an image that you need to copy? No need to type it manually. Take a screenshot and Quick SnapOCR automatically recognizes the text content within the captured area, copying the result straight to your clipboard. Whether it's a PDF screenshot, a webpage graphic, or video subtitles, extracting text is effortless.
 
 <br>
 
 <div align="center">
   <img src="./docs/public/images/snapshoot/Quick SnapOCR.png" width="80%" style="border-radius: 10px;" />
-  <p><sub>Quick SnapOCR · 界面预览</sub></p>
+  <p><sub>Quick SnapOCR · Interface Preview</sub></p>
 </div>
 
 <br>
@@ -107,19 +96,17 @@
 
 <br>
 
-## Quick SnapTranslate · 截图翻译
+## <img src="./docs/public/images/quick-logo/Quick SnapTranslate.svg" width="64" align="left" style="margin-right: 16px;" /> Quick SnapTranslate
 
-<img src="./docs/public/images/quick-logo/Quick SnapTranslate.svg" width="64" align="left" style="margin-right: 16px;" />
+**Capture, recognize, and translate text in one click — work across languages effortlessly.**
 
-**截图即翻译，让语言不再是障碍。**
-
-遇到外文图片、文档、网页？一键截图自动识别文字并翻译成目标语言。支持在线 OCR（腾讯云 API）和离线 OCR（PaddleOCR），兼顾速度与隐私保护。还支持钉图功能，将翻译结果固定在屏幕上随时查看。
+Encountered foreign text in an image, document, or webpage? Quick SnapTranslate lets you capture a screenshot, automatically recognize the text, and translate it into your preferred language — all with a single action. Supports both online OCR (Tencent Cloud API) and offline OCR (PaddleOCR) to balance speed with privacy, and includes a pin-to-screen feature for easy reference.
 
 <br>
 
 <div align="center">
   <img src="./docs/public/images/snapshoot/Quick SnapTranslate.png" width="80%" style="border-radius: 10px;" />
-  <p><sub>Quick SnapTranslate · 界面预览</sub></p>
+  <p><sub>Quick SnapTranslate · Interface Preview</sub></p>
 </div>
 
 <br>
@@ -128,19 +115,17 @@
 
 <br>
 
-## Quick WindowInspector · 窗口名侦探
+## <img src="./docs/public/images/quick-logo/Quick Windowinspector.svg" width="64" align="left" style="margin-right: 16px;" /> Quick WindowInspector
 
-<img src="./docs/public/images/quick-logo/Quick Windowinspector.svg" width="64" align="left" style="margin-right: 16px;" />
+**Retrieve detailed information about any window — simpler and more intuitive than Spy++.**
 
-**获取任意窗口的详细信息，比 Spy++ 更简单直观。**
-
-鼠标悬停即可查看窗口句柄（Handle）、PID、标题、客户端区域尺寸、设备像素比（DPR）、程序路径等信息。目标窗口自动高亮显示边框，全局快捷键快速激活。软件开发、UI 自动化测试、系统管理的得力助手。
+Hover over any window to instantly view its handle, PID, title, client area dimensions, device pixel ratio (DPR), application path, and more. The target window is automatically highlighted with a customizable border, and a global hotkey provides instant activation. An indispensable tool for software development, UI automation testing, and system administration.
 
 <br>
 
 <div align="center">
   <img src="./docs/public/images/snapshoot/Quick WindowInspector.png" width="80%" style="border-radius: 10px;" />
-  <p><sub>Quick WindowInspector · 界面预览</sub></p>
+  <p><sub>Quick WindowInspector · Interface Preview</sub></p>
 </div>
 
 <br>
@@ -149,19 +134,17 @@
 
 <br>
 
-## Quick AlwaysOnTop · 窗口置顶
+## <img src="./docs/public/images/quick-logo/Quick AlwaysOnTop.svg" width="64" align="left" style="margin-right: 16px;" /> Quick AlwaysOnTop
 
-<img src="./docs/public/images/quick-logo/Quick AlwaysOnTop.svg" width="64" align="left" style="margin-right: 16px;" />
+**Pin any window to the front with a single keystroke — multitasking made effortless.**
 
-**一键将任意窗口固定在最前，多任务处理更从容。**
-
-想让文档、计算器、翻译工具始终可见？全局快捷键（默认 `Ctrl+Shift+T`）一键置顶/取消置顶，支持任意程序窗口。置顶时显示可自定义的高亮边框，搭配提示音反馈，窗口状态一目了然。
+Need to reference documentation while writing code? Want your calculator or translator to stay visible? A global hotkey (default `Ctrl+Shift+T`) instantly pins or unpins any window, keeping essential information always on top. Pinned windows display a customizable highlighted border with optional sound cues, so you always know the current state at a glance.
 
 <br>
 
 <div align="center">
   <img src="./docs/public/images/snapshoot/Quick AlwaysOnTop.png" width="80%" style="border-radius: 10px;" />
-  <p><sub>Quick AlwaysOnTop · 界面预览</sub></p>
+  <p><sub>Quick AlwaysOnTop · Interface Preview</sub></p>
 </div>
 
 <br>
@@ -170,21 +153,19 @@
 
 <br>
 
-## Quick DefenderToggle · Defender 开关
+## <img src="./docs/public/images/quick-logo/Quick DefenderToggle.svg" width="64" align="left" style="margin-right: 16px;" /> Quick DefenderToggle
 
-<img src="./docs/public/images/quick-logo/Quick DefenderToggle.svg" width="64" align="left" style="margin-right: 16px;" />
+**Quickly enable or disable Windows Defender — full control for power users.**
 
-**快速开启/关闭 Windows Defender，高级用户的必备控制工具。**
+No need to navigate Group Policy Editor or the Registry — three control modes (STOP / START / FORCE ENABLE) let you manage Microsoft Defender Antivirus with a single click. Real-time status feedback and detailed operation logs keep you informed at every step. Uses standard Group Policy mechanisms for safe, reliable control.
 
-无需进入组策略编辑器或注册表，三种控制模式（STOP / START / FORCE ENABLE）一键完成操作。实时状态反馈 + 详细操作日志，通过标准组策略方式控制，安全可靠。适用于软件开发、系统调试等需要暂时关闭防护的场景。
-
-> 需要以管理员身份运行。关闭 Defender 会降低系统安全性，请仅在必要时使用，完成后及时重新启用。
+> Requires administrator privileges. Disabling Defender reduces system security — use only when necessary and re-enable protection promptly.
 
 <br>
 
 <div align="center">
   <img src="./docs/public/images/snapshoot/Quick DefenderToggle.png" width="80%" style="border-radius: 10px;" />
-  <p><sub>Quick DefenderToggle · 界面预览</sub></p>
+  <p><sub>Quick DefenderToggle · Interface Preview</sub></p>
 </div>
 
 <br>
@@ -195,17 +176,17 @@
 
 <div align="center">
 
-## 立即体验
+## Get Started
 
-**所有工具均支持免费试用 30 天，体验完整功能，无任何限制。**
+**All tools include a free 30-day trial with full functionality — no restrictions.**
 
-**套装购买可享 50%+ 优惠，比单独购买更划算。**
+**Save 50%+ when you purchase the full suite — better value than buying individually.**
 
 <br>
 
-[![Microsoft Store](https://get.microsoft.com/images/zh-cn%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
+[![Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
 
-[官方网站](https://quickutilitiessuite.xmuli.tech) · [GitHub Releases](https://github.com/XMuli/QuickUtilitiesSuite/releases)
+[Official Website](https://quickutilitiessuite.xmuli.tech) · [GitHub Releases](https://github.com/XMuli/QuickUtilitiesSuite/releases)
 
 </div>
 
@@ -214,7 +195,6 @@
 <div align="center">
   <img src="./docs/public/images/snapshoot/Quick About.png" width="80%" style="border-radius: 10px;" />
 </div>
-
 
 
 
