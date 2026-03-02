@@ -1,89 +1,88 @@
 # Quick ColorPicker
-## 快速·屏幕取色器
 
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <img src="/images/quick-logo/Quick ColorPicker.svg" alt="Quick ColorPicker" style="width: 96px; height: 96px;" />
 </div>
 
-**精确拾取屏幕任意位置的颜色。**
+**Capture precise colors from anywhere on your screen.**
 
 ---
 
-### 让配色变得简单而精确
+### Make Color Selection Simple and Accurate
 
-无论是设计界面、调整配色，还是界面调试，Quick ColorPicker 都能帮你放大并精确拾取屏幕上任意位置的颜色值。放大镜实时跟随鼠标，让你看清每一个像素，多种颜色格式输出满足不同场景需求。
+Whether you're designing interfaces, fine-tuning color schemes, or debugging UI elements, Quick ColorPicker helps you magnify and precisely capture color values from any location on your screen. A real-time magnifier follows your cursor, revealing every pixel in detail. Multiple output formats support diverse workflows across design, development, and creative work.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick ColorPicker.png" alt="Quick ColorPicker 界面截图"
+  <img src="/images/snapshoot/Quick ColorPicker.png" alt="Quick ColorPicker Screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick ColorPicker · 界面预览</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick ColorPicker · Interface Preview</p>
 </div>
 
 ---
 
-### 核心功能
+### Key Features
 
-**像素级精确取色**
-放大镜实时显示鼠标位置的像素，让你精确定位到想要的颜色。支持多显示器环境，放大镜无缝跟随光标移动。
+**Pixel-Perfect Color Capture**
+A real-time magnifier displays the pixels beneath your cursor, enabling precise targeting of the exact color you need. Seamlessly supports multi-monitor setups with smooth cursor tracking across displays.
 
-**多种颜色格式**
-支持 RGB、HEX、RGB+HEX、HEX+RGB 等多种格式输出，满足设计、开发、配色等不同场景需求。
+**Multiple Color Formats**
+Output colors in RGB, HEX, RGB+HEX, HEX+RGB, and other formats to suit design, development, and color-matching scenarios.
 
-**智能辅助功能**
-十字准线精确定位，键盘方向键微调移动，全局快捷键快速激活。每一个细节都为效率而设计。
-
----
-
-### 为什么选择 Quick ColorPicker
-
-**比截图更快**
-无需截图、打开图片、再用其他工具取色。一个快捷键，直接获取颜色值。
-
-**比系统工具更专业**
-可自定义放大镜外观，支持十六进制大小写切换，提供更多专业选项。
-
-**多屏幕完美支持**
-在多显示器环境下，放大镜准确跟随光标到任意屏幕，不会出现错位问题。
+**Smart Assistance Tools**
+Crosshair overlay for pinpoint accuracy, keyboard arrow keys for fine-tuned positioning, and global hotkeys for instant activation. Every detail is designed for efficiency.
 
 ---
 
-### 使用场景
+### Why Choose Quick ColorPicker
 
-**UI 设计师**
-快速获取设计稿或参考网站的配色方案，保持设计风格一致。
+**Faster Than Screenshots**
+No need to capture a screenshot, open it in an image editor, and then use a separate color picker. One hotkey gives you the color value instantly.
 
-**前端开发者**
-调试界面时精确获取元素颜色，确保实现效果与设计稿完全一致。
+**More Professional Than System Tools**
+Customizable magnifier appearance, support for uppercase/lowercase HEX output, and additional professional-grade options.
 
-**配色爱好者**
-从喜欢的图片、网站、应用中提取配色灵感，建立自己的色彩库。
-
----
-
-### 快速开始
-
-1. **启动工具**
-   运行 Quick ColorPicker 或使用全局快捷键激活
-
-2. **移动鼠标**
-   将鼠标移动到想要取色的位置，放大镜会实时显示像素
-
-3. **获取颜色**
-   点击鼠标或按空格键，颜色值自动复制到剪贴板
+**Flawless Multi-Monitor Support**
+In multi-display environments, the magnifier accurately follows your cursor across all screens without misalignment or offset issues.
 
 ---
 
-### 立即体验
+### Use Cases
 
-**免费试用 30 天**
-体验完整功能，无任何限制
+**UI Designers**
+Quickly extract color palettes from design mockups or reference websites to maintain consistent visual style.
 
-[立即下载](#) | [查看定价](#) | [使用文档](#)
+**Front-End Developers**
+Capture precise element colors during UI debugging to ensure implementation matches design specifications exactly.
+
+**Color Enthusiasts**
+Extract color inspiration from favorite images, websites, and applications to build your own curated color library.
 
 ---
 
-### 需要帮助？
+### Getting Started
 
-- **使用文档**: [查看完整使用指南](#)
-- **问题反馈**: [提交问题或建议](#)
-- **联系我们**: support@quickutilitiessuite.com
+1. **Launch the Tool**
+   Run Quick ColorPicker or activate it with a global hotkey
+
+2. **Move Your Cursor**
+   Position your mouse over the area you want to sample — the magnifier displays pixels in real time
+
+3. **Capture the Color**
+   Click or press the spacebar to copy the color value directly to your clipboard
+
+---
+
+### Try It Free
+
+**30-Day Free Trial**
+Full functionality with no restrictions
+
+[Download Now](#) | [View Pricing](#) | [Documentation](#)
+
+---
+
+### Need Help?
+
+- **Documentation**: [View Full User Guide](#)
+- **Feedback**: [Submit an Issue or Suggestion](#)
+- **Contact Us**: support@quickutilitiessuite.com

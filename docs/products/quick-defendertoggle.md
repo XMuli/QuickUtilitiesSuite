@@ -1,101 +1,100 @@
 # Quick DefenderToggle
-## 快速·Defender 开关
 
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <img src="/images/quick-logo/Quick DefenderToggle.svg" alt="Quick DefenderToggle" style="width: 96px; height: 96px;" />
 </div>
 
-**快速控制系统防护，高级操作更便捷。**
+**Quickly control system protection for advanced operations.**
 
 ---
 
-### 为高级用户提供更多控制
+### More Control for Power Users
 
-需要暂时关闭 Windows Defender 进行某些操作？Quick DefenderToggle 让你快速开启或关闭系统内置防病毒功能 (Microsoft Defender Antivirus)，适用于软件开发、系统调试等需要暂时关闭防护的场景。
+Need to temporarily disable Windows Defender for specific tasks? Quick DefenderToggle lets you quickly enable or disable the built-in Microsoft Defender Antivirus, ideal for software development, system debugging, and other scenarios where temporary suspension of real-time protection is necessary.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick DefenderToggle.png" alt="Quick DefenderToggle 界面截图"
+  <img src="/images/snapshoot/Quick DefenderToggle.png" alt="Quick DefenderToggle Screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick DefenderToggle · 界面预览</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick DefenderToggle · Interface Preview</p>
 </div>
 
 ---
 
-### 核心功能
+### Key Features
 
-**三种控制模式**
-- STOP：完全停止 Defender
-- START：启动 Defender（Windows 自动管理）
-- FORCE ENABLE：强制启用 Defender
+**Three Control Modes**
+- STOP: Completely stop Defender
+- START: Start Defender (Windows manages automatically)
+- FORCE ENABLE: Force Defender to enable
 
-**实时状态反馈**
-清晰显示当前 Defender 的运行状态，操作结果一目了然。
+**Real-Time Status Feedback**
+Clearly displays the current operational state of Defender, making the result of each action immediately visible.
 
-**详细操作日志**
-记录每一步操作，方便追踪和问题排查。
-
----
-
-### 为什么选择 Quick DefenderToggle
-
-**比手动操作更快**
-无需进入组策略编辑器或注册表，一键完成操作。
-
-**操作更安全**
-通过标准的组策略方式控制，不会破坏系统设置。
-
-**状态更清晰**
-实时显示 Defender 状态，避免不确定性。
+**Detailed Operation Logs**
+Records every step for easy tracking and troubleshooting.
 
 ---
 
-### 使用场景
+### Why Choose Quick DefenderToggle
 
-**软件开发者**
-开发或测试软件时暂时关闭 Defender，避免误报或性能影响。
+**Faster Than Manual Methods**
+No need to navigate Group Policy Editor or Registry Editor — accomplish the task with a single click.
 
-**系统管理员**
-批量部署软件或配置系统时临时关闭防护，提高效率。
+**Safer Operation**
+Uses standard Group Policy mechanisms to control Defender without damaging system settings.
 
-**高级用户**
-进行系统优化、清理或特殊操作时需要暂时关闭防护。
-
----
-
-### 快速开始
-
-1. **以管理员身份运行**
-   右键点击程序，选择"以管理员身份运行"
-
-2. **选择操作**
-   选择 STOP、START 或 FORCE ENABLE
-
-3. **执行操作**
-   点击执行，查看操作结果和状态
+**Clear Status Display**
+Real-time status updates eliminate uncertainty about whether Defender is active or disabled.
 
 ---
 
-### 重要提示
+### Use Cases
 
-> **安全警告**
-> 关闭 Windows Defender 会降低系统安全性。请仅在必要时使用，操作完成后及时重新启用防护。
+**Software Developers**
+Temporarily disable Defender during development or testing to avoid false positives or performance impacts.
 
-> **管理员权限**
-> 此工具需要管理员权限才能运行。
+**System Administrators**
+Suspend protection temporarily during bulk software deployment or system configuration to improve efficiency.
 
----
-
-### 立即体验
-
-**免费试用 30 天**
-体验便捷的系统控制
-
-[立即下载](#) | [查看定价](#) | [使用文档](#)
+**Power Users**
+Disable protection for system optimization, cleanup, or specialized operations that may trigger false alarms.
 
 ---
 
-### 需要帮助？
+### Getting Started
 
-- **使用文档**: [查看完整使用指南](#)
-- **问题反馈**: [提交问题或建议](#)
-- **联系我们**: support@quickutilitiessuite.com
+1. **Run as Administrator**
+   Right-click the program and select "Run as administrator"
+
+2. **Choose an Action**
+   Select STOP, START, or FORCE ENABLE
+
+3. **Execute the Operation**
+   Click Execute and review the operation result and status
+
+---
+
+### Important Notice
+
+> **Security Warning**
+> Disabling Windows Defender reduces system security. Use this tool only when necessary and re-enable protection immediately after completing your task.
+
+> **Administrator Privileges Required**
+> This tool requires administrator privileges to function.
+
+---
+
+### Try It Free
+
+**30-Day Free Trial**
+Experience convenient system control
+
+[Download Now](#) | [View Pricing](#) | [Documentation](#)
+
+---
+
+### Need Help?
+
+- **Documentation**: [View Full User Guide](#)
+- **Feedback**: [Submit an Issue or Suggestion](#)
+- **Contact Us**: support@quickutilitiessuite.com

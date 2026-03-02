@@ -1,116 +1,115 @@
 # Quick Utilities Suite
-## 快速·实用工具箱
 
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**多合一专业工具集，让工作效率翻倍。**
+**An all-in-one professional toolkit — double your productivity.**
 
 ---
 
-### 一个工具箱，满足所有需求
+### One Toolkit, Every Need Covered
 
-Quick Utilities Suite 集成了多款精选的专业工具，涵盖屏幕取色、文件管理、截图翻译、窗口管理等常用场景。统一的界面和设置，让你的工作流程更流畅。
+Quick Utilities Suite integrates a curated collection of professional tools covering screen color picking, file management, screenshot translation, window management, and other common workflows. Unified interface and settings make your work process smoother and more efficient.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite 界面截图"
+  <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite Screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick Utilities Suite · 界面预览</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick Utilities Suite · Interface Preview</p>
 </div>
 
 ---
 
-### 包含的工具
+### Included Tools
 
-**Quick ColorPicker - 屏幕取色器**
-精确拾取屏幕任意位置的颜色，支持多种格式输出。
+**Quick ColorPicker - Screen Color Picker**
+Precisely capture colors from anywhere on your screen with support for multiple output formats.
 
-**Quick BulkFileCopy - 批量文件复制**
-高速复制大量小文件，比系统自带快数倍。
+**Quick BulkFileCopy - Bulk File Copy**
+High-speed copying of large numbers of small files — several times faster than the built-in system utility.
 
-**Quick BulkFileDelete - 批量文件删除**
-极速删除巨型文件夹，节省宝贵时间。
+**Quick BulkFileDelete - Bulk File Delete**
+Blazing-fast deletion of massive directories, saving valuable time.
 
-**Quick SnapTranslate - 截图翻译**
-一键截图识别文字并翻译，跨语言工作更轻松。
+**Quick SnapTranslate - Screenshot Translator**
+Capture, recognize, and translate text in one click for effortless cross-language work.
 
-**Quick WindowInspector - 窗口名侦探**
-获取任意窗口的详细信息，调试开发更高效。
+**Quick WindowInspector - Window Inspector**
+Retrieve detailed information about any window for more efficient debugging and development.
 
-**Quick AlwaysOnTop - 窗口置顶**
-一键固定重要窗口在最前，多任务处理更从容。
+**Quick AlwaysOnTop - Always On Top**
+Pin critical windows to the front with a single keystroke for more confident multitasking.
 
-**Quick DefenderToggle - Defender 开关**
-快速控制系统防护，高级操作更便捷。
-
----
-
-### 为什么选择全功能版
-
-**更优惠的价格**
-购买全功能版比单独购买各工具节省超过 50%。
-
-**统一的体验**
-所有工具共享设置和快捷键配置，学习成本更低。
-
-**一站式解决方案**
-无需安装多个软件，一个工具箱满足所有需求。
-
-**持续更新**
-购买一次，享受所有工具的持续更新和新功能。
+**Quick DefenderToggle - Defender Toggle**
+Quickly control system protection for more convenient advanced operations.
 
 ---
 
-### 适用人群
+### Why Choose the Full Suite
 
-**设计师和开发者**
-取色、截图翻译、窗口调试，开发设计必备工具。
+**Better Value**
+Purchasing the full suite saves over 50% compared to buying each tool individually.
 
-**IT 管理员**
-文件管理、系统控制，提高运维效率。
+**Unified Experience**
+All tools share settings and hotkey configurations, reducing the learning curve.
 
-**效率追求者**
-多任务处理、快速操作，让工作更高效。
+**One-Stop Solution**
+No need to install multiple applications — one toolkit meets all your needs.
 
----
-
-### 快速开始
-
-1. **安装并启动**
-   运行安装程序，工具箱自动驻留系统托盘
-
-2. **配置快捷键**
-   在设置中配置各工具的全局快捷键
-
-3. **开始使用**
-   使用快捷键或托盘菜单快速启动各个工具
+**Continuous Updates**
+Purchase once and enjoy ongoing updates and new features for all tools.
 
 ---
 
-### 立即体验
+### Who It's For
 
-**免费试用 30 天**
-体验完整的多合一工具集
+**Designers and Developers**
+Color picking, screenshot translation, window debugging — essential tools for design and development work.
 
-[立即下载](#) | [查看定价](#) | [使用文档](#)
+**IT Administrators**
+File management and system control to improve operational efficiency.
 
-**特别优惠**
-购买全功能版，比单独购买节省 50% 以上
-
----
-
-### 需要帮助？
-
-- **使用文档**: [查看完整使用指南](#)
-- **视频教程**: [观看功能演示](#)
-- **问题反馈**: [提交问题或建议](#)
-- **联系我们**: support@quickutilitiessuite.com
+**Efficiency Seekers**
+Multitasking and rapid operations to make work more productive.
 
 ---
 
-### 企业授权
+### Getting Started
 
-为企业用户提供批量许可证和定制服务。
+1. **Install and Launch**
+   Run the installer — the toolkit automatically resides in the system tray
 
-[联系销售](#) | [企业方案](#)
+2. **Configure Hotkeys**
+   Set global hotkeys for each tool in the settings panel
+
+3. **Start Using**
+   Launch any tool quickly via hotkeys or the tray menu
+
+---
+
+### Try It Free
+
+**30-Day Free Trial**
+Experience the complete all-in-one toolkit
+
+[Download Now](#) | [View Pricing](#) | [Documentation](#)
+
+**Special Offer**
+Purchase the full suite and save over 50% compared to buying tools individually
+
+---
+
+### Need Help?
+
+- **Documentation**: [View Full User Guide](#)
+- **Video Tutorials**: [Watch Feature Demos](#)
+- **Feedback**: [Submit an Issue or Suggestion](#)
+- **Contact Us**: support@quickutilitiessuite.com
+
+---
+
+### Enterprise Licensing
+
+Volume licenses and custom services available for enterprise customers.
+
+[Contact Sales](#) | [Enterprise Plans](#)

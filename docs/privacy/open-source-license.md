@@ -1,19 +1,21 @@
-# 开源许可协议 (Open Source Licenses)
+# Open Source Licenses
 
 ::: info
 Copyright (c) 2024-2026 Wengeng Zhang. All rights reserved.
 
-本项目的诞生离不开这些优秀的开源软件。The open-source portion is shared to give back to the community—enjoy it.
+This project exists thanks to the open-source community.
 :::
 
 ::: tip
-本项目的开源代码
-
-开源部分旨在回馈开源社区，欢迎使用并分享。
+Open-source code from this project—shared to give back to the community. Enjoy and contribute!
 :::
 
-## MyApp-Template
-> 一个通用的最小桌面应用程序模板示例，支持 Windows、MacOS 和 Linux 平台。通过省去设置基本代码的基础工作，它可以帮助构建一个完整、通用的桌面应用程序。该模板支持 Qt 5 和 6 版本。   [GitHub](https://github.com/XMuli/myapp-template)
+
+## Project Components
+
+### MyApp-Template
+
+> A cross-platform desktop app template for Qt 5/6 on Windows, macOS, and Linux. [GitHub](https://github.com/XMuli/myapp-template)
 
 ````html
 MIT License
@@ -40,8 +42,9 @@ SOFTWARE.
 ````
 
 
-## Windows-Defender-Close 
-> 亦极简的电脑管家，一键关闭 Microsoft Defender Anti-Virus。 [GitHub](https://github.com/XMuli/windows-defender-close)
+### Windows-Defender-Close
+
+> One-click to disable Windows Defender (Anti-Virus). [GitHub](https://github.com/XMuli/windows-defender-close)
 
 ```html
 MIT License
@@ -68,8 +71,9 @@ SOFTWARE.
 ```
 
 
-## ShortcutInput
-> 多种方法实现 快捷键输入框控件，且跨平台。 [GitHub](https://github.com/SunnyCapturer/ShortcutInput)
+### ShortcutInput
+
+> Cross-platform shortcut input control. [GitHub](https://github.com/SunnyCapturer/ShortcutInput)
 
 ```html
 MIT License
@@ -96,8 +100,9 @@ SOFTWARE.
 ```
 
 
-## WindowRect
-> Get windows rect information. [GitHub](https://github.com/SunnyCapturer/WindowRect)
+### WindowRect
+
+> Retrieves window rectangle information. [GitHub](https://github.com/SunnyCapturer/WindowRect)
 
 ```html
 MIT License
@@ -124,8 +129,9 @@ SOFTWARE.
 ```
 
 
-## AcrylicWindow
-> Qt/C++ 使用亚克力的透明磨砂效果的窗口思路和解决方案 | 跨平台方案  [GitHub](https://github.com/SunnyCapturer/AcrylicWindow)
+### AcrylicWindow
+
+> Acrylic-blur window solution for Qt Widgets. [GitHub](https://github.com/SunnyCapturer/AcrylicWindow)
 
 ```html
 MIT License
@@ -153,12 +159,14 @@ SOFTWARE.
 
 
 ::: tip
-第三方库 (Tripartite Library)
+Third-Party Libraries
 
-本项目使用的第三方库列表。
+External dependencies used by this project.
 :::
 
-## Qt
+## Third-Party Libraries
+
+### Qt
 
 > [https://www.qt.io](https://www.qt.io)
 
@@ -167,9 +175,9 @@ Licensed under GNU Lesser General Public License (LGPL) version 3.
 ```
 
 
-## QHotkey
+### QHotkey
 
-> A global shortcut/hotkey for Desktop Qt-Applications [GitHub](https://github.com/Skycoder42/QHotkey)
+> Global shortcut/hotkey for Qt desktop apps. [GitHub](https://github.com/Skycoder42/QHotkey)
 
 ```html
 Copyright (c) 2016, Felix Barz
@@ -202,9 +210,9 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
 
 
-## SingleApplication
+### SingleApplication
 
-> Replacement of QtSingleApplication for Qt 5 and Qt 6 with support for inter-instance communication. [GitHub](https://github.com/itay-grudev/SingleApplication)
+> QtSingleApplication replacement with inter-instance communication. [GitHub](https://github.com/itay-grudev/SingleApplication)
 
 ```html
 Copyright (c) Itay Grudev 2015 - 2023
@@ -230,14 +238,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-Note: Some of the examples include code not distributed under the terms of the
+Note: Some examples include code not distributed under the terms of the
 MIT License.
 ```
 
 
-## Qt-AES
+### Qt-AES
 
-> Native Qt AES encryption class [GitHub](https://github.com/bricke/Qt-AES)
+> Native Qt AES encryption class. [GitHub](https://github.com/bricke/Qt-AES)
 
 ```html
 This is free and unencumbered software released into the public domain.
@@ -267,9 +275,9 @@ For more information, please refer to <http://unlicense.org>
 ```
 
 
-## json
+### json
 
-> JSON for Modern C++ [GitHub](https://github.com/nlohmann/json)
+> JSON for Modern C++. [GitHub](https://github.com/nlohmann/json)
 
 ```html
 MIT License 

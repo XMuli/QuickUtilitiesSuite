@@ -1,93 +1,92 @@
 # Quick SnapTranslate
-## 快速·截图翻译
 
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <img src="/images/quick-logo/Quick SnapTranslate.svg" alt="Quick SnapTranslate" style="width: 96px; height: 96px;" />
 </div>
 
-**一键截图识别文字并翻译，跨语言工作更轻松。**
+**Capture, recognize, and translate text in one click — work across languages effortlessly.**
 
 ---
 
-### 让语言不再是障碍
+### Break Down Language Barriers
 
-看到外文图片、文档、网页想要理解内容？Quick SnapTranslate 让你一键截图，自动识别文字并翻译成你需要的语言，轻松跨语言查看图片里的说明文字。支持在线和离线 OCR，保护隐私的同时提供专业级识别精度。
+Encountered foreign text in an image, document, or webpage? Quick SnapTranslate lets you capture a screenshot, automatically recognize the text, and translate it into your preferred language — all with a single action. Easily understand text embedded in images. Supports both online and offline OCR to balance speed with privacy, delivering professional-grade recognition accuracy.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick SnapTranslate.png" alt="Quick SnapTranslate 界面截图"
+  <img src="/images/snapshoot/Quick SnapTranslate.png" alt="Quick SnapTranslate Screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick SnapTranslate · 界面预览</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick SnapTranslate · Interface Preview</p>
 </div>
 
 ---
 
-### 核心功能
+### Key Features
 
-**智能截图识别**
-一键截图，自动识别图片中的文字。支持智能窗口识别，精确捕获你需要的内容。
+**Smart Screenshot Recognition**
+Capture a screenshot with one click and automatically recognize text within the image. Intelligent window detection ensures you capture exactly what you need.
 
-**即时翻译**
-识别文字后自动翻译成目标语言，支持多种语言互译，让跨语言阅读变得简单。
+**Instant Translation**
+Recognized text is automatically translated into your target language. Supports multiple language pairs, making cross-language reading simple and efficient.
 
-**灵活的识别方式**
-支持在线 OCR（腾讯云 API）和离线 OCR（PaddleOCR），根据需求选择速度或隐私。
+**Flexible Recognition Options**
+Choose between online OCR (Tencent Cloud API) for speed or offline OCR (PaddleOCR) for privacy, depending on your needs.
 
-**实用的辅助功能**
-截图工具栏支持保存、复制、钉图等操作。钉图功能让你将重要内容固定在屏幕上随时查看。
-
----
-
-### 为什么选择 Quick SnapTranslate
-
-**比手动输入快 10 倍**
-无需手动输入外文内容到翻译软件，截图即可自动识别和翻译。
-
-**支持离线识别**
-内置 PaddleOCR 引擎，即使没有网络也能识别文字，保护隐私数据。
-
-**多场景适用**
-图片、网页、PDF、视频字幕，任何包含文字的内容都能识别和翻译。
+**Practical Auxiliary Functions**
+Screenshot toolbar supports save, copy, and pin-to-screen actions. The pin feature keeps important content visible on your desktop for easy reference.
 
 ---
 
-### 使用场景
+### Why Choose Quick SnapTranslate
 
-**跨语言工作者**
-快速理解外文文档、邮件、网页内容，提高工作效率。
+**10x Faster Than Manual Input**
+No need to manually type foreign text into a translation tool — screenshot and get instant recognition and translation.
 
-**学习者**
-阅读外文教材、论文时快速翻译不认识的段落，辅助学习。
+**Offline Recognition Supported**
+Built-in PaddleOCR engine enables text recognition even without an internet connection, protecting sensitive data.
 
-**开发者**
-查看外文技术文档、错误信息、界面文本，快速定位问题。
-
----
-
-### 快速开始
-
-1. **激活截图**
-   使用全局快捷键或点击托盘图标激活截图功能
-
-2. **选择区域**
-   框选要识别的文字区域，支持智能窗口识别
-
-3. **查看结果**
-   自动识别文字并翻译，结果可复制、保存或钉在屏幕上
+**Works in Multiple Scenarios**
+Images, webpages, PDFs, video subtitles — any content containing text can be recognized and translated.
 
 ---
 
-### 立即体验
+### Use Cases
 
-**免费试用 30 天**
-体验智能识别和翻译的便捷
+**Cross-Language Professionals**
+Quickly understand foreign documents, emails, and web content to improve work efficiency.
 
-[立即下载](#) | [查看定价](#) | [使用文档](#)
+**Students and Learners**
+Translate unfamiliar passages in foreign textbooks or research papers to support learning.
+
+**Developers**
+View foreign technical documentation, error messages, and UI text to quickly identify and resolve issues.
 
 ---
 
-### 需要帮助？
+### Getting Started
 
-- **使用文档**: [查看完整使用指南](#)
-- **API 配置**: [如何配置腾讯云 API](#)
-- **问题反馈**: [提交问题或建议](#)
-- **联系我们**: support@quickutilitiessuite.com
+1. **Activate Screenshot**
+   Use a global hotkey or click the system tray icon to activate the screenshot function
+
+2. **Select Region**
+   Draw a box around the text you want to recognize — intelligent window detection is supported
+
+3. **View Results**
+   Text is automatically recognized and translated — results can be copied, saved, or pinned to the screen
+
+---
+
+### Try It Free
+
+**30-Day Free Trial**
+Experience the convenience of intelligent recognition and translation
+
+[Download Now](#) | [View Pricing](#) | [Documentation](#)
+
+---
+
+### Need Help?
+
+- **Documentation**: [View Full User Guide](#)
+- **API Configuration**: [How to Configure Tencent Cloud API](#)
+- **Feedback**: [Submit an Issue or Suggestion](#)
+- **Contact Us**: support@quickutilitiessuite.com

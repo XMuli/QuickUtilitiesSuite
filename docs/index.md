@@ -3,62 +3,62 @@
 layout: home
 
 hero:
-  name: "快速·实用工具箱"
+  name: "Quick Utilities Suite"
   text: "Quick Utilities Suite"
-  tagline: 精选窗口工具，让工作更高效
+  tagline: Curated window utilities to boost your workflow
   image:
     src: /home_page/home_page.png
     alt: Quick Utilities Suite logo
   actions:
     - theme: brand
-      text: 微软商店下载 ↓
+      text: Microsoft Store ↓
       link: https://apps.microsoft.com/detail/9PGNXC5HJMCV
     - theme: alt
-      text: GitHub 下载
+      text: GitHub Releases
       link: https://github.com/XMuli/QuickUtilitiesSuite/releases
     - theme: alt
-      text: 建议 & 缺陷报告
+      text: Feedback & Issues
       link: https://github.com/XMuli/QuickUtilitiesSuite/issues
 
 features:
-  - title: 快速·屏幕取色器
-    details: 精确拾取屏幕任意位置的颜色，支持多种格式输出。
+  - title: Quick ColorPicker
+    details: Precisely pick any on-screen color with multiple format output.
     icon: 
       light: /images/home_features/QuickColorPicker.svg
       dark:  /images/home_features/QuickColorPicker.svg
-  - title: 快速·批量文件复制
-    details: 高速复制大量小文件，比系统自带快数倍。
-    icon: 
+  - title: Quick BulkFileCopy
+    details: High-speed copy of large numbers of small files—several times faster than the OS.
+    icon:
       light: /images/home_features/QuickBulkFileCopy.svg
-      dark:  /images/home_features/QuickBulkFileCopy.svg
-  - title: 快速·批量文件删除
-    details: 极速删除巨型文件夹，节省宝贵时间。
-    icon: 
+      dark: /images/home_features/QuickBulkFileCopy.svg
+  - title: Quick BulkFileDelete
+    details: Blazing-fast deletion of huge folders—save precious time.
+    icon:
       light: /images/home_features/QuickBulkFileDelete.svg
-      dark:  /images/home_features/QuickBulkFileDelete.svg
-  - title: 快速·提取图片文本 (OCR)
-    details: 一键截图提取文字，快速识别并复制图片、网页或文档中的文本。
+      dark: /images/home_features/QuickBulkFileDelete.svg
+  - title: Quick SnapOCR
+    details: One-click screenshot OCR—instantly extract and copy text from images, webpages, or documents.
     icon: 
       light: /images/home_features/QuickSnapOCR.svg
       dark:  /images/home_features/QuickSnapOCR.svg
-  - title: 快速·截图翻译
-    details: 一键截图识别文字并翻译，跨语言工作更轻松。
+  - title: Quick SnapTranslate
+    details: One-click screenshot, OCR, and translation—work across languages effortlessly.
     icon: 
       light: /images/home_features/QuickSnapTranslate.svg
       dark:  /images/home_features/QuickSnapTranslate.svg
-  - title: 快速·窗口名侦探
-    details: 获取任意窗口的详细信息，调试开发更高效。
+  - title: Quick WindowInspector
+    details: Inspect any window's details instantly—debug and develop more efficiently.
     icon: 
       light: /images/home_features/QuickWindowInspector.svg
       dark:  /images/home_features/QuickWindowInspector.svg
-  - title: 快速·窗口置顶
-    details: 一键固定重要窗口在最前，多任务处理更从容。
-    icon: 
+  - title: Quick AlwaysOnTop
+    details: Pin any important window to the front with one click—multitask with ease.
+    icon:
       light: /images/home_features/QuickAlwaysOnTop.svg
-      dark:  /images/home_features/QuickAlwaysOnTop.svg
-  - title: 快速·Defender 开关
-    details: 快速控制系统防护，高级操作更便捷。
-    icon: 
+      dark: /images/home_features/QuickAlwaysOnTop.svg
+  - title: Quick DefenderToggle
+    details: Quickly toggle system protection on or off—advanced operations made simple.
+    icon:
       light: /images/home_features/QuickDefenderToggle.svg
-      dark:  /images/home_features/QuickDefenderToggle.svg
----
+      dark: /images/home_features/QuickDefenderToggle.svg
+--- 
