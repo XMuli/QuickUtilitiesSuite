@@ -19,6 +19,9 @@ hero:
     - theme: alt
       text: 建議與問題回報
       link: https://github.com/XMuli/QuickUtilitiesSuite/issues
+    - theme: alt
+      text: 立即購買
+      link: /zh-tw/pricing
 
 features:
   - title: 快速·螢幕取色器

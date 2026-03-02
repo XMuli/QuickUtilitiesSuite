@@ -19,6 +19,9 @@ hero:
     - theme: alt
       text: Feedback & Issues
       link: https://github.com/XMuli/QuickUtilitiesSuite/issues
+    - theme: alt
+      text: Buy Now
+      link: /pricing
 
 features:
   - title: Quick ColorPicker

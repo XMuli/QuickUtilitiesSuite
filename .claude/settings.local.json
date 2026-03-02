@@ -3,7 +3,8 @@
     "allow": [
       "Bash(ls:*)",
       "Bash(mv:*)",
-      "Bash(npx vitepress:*)"
+      "Bash(npx vitepress:*)",
+      "WebSearch"
     ]
   }
 }

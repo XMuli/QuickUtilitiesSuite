@@ -38,16 +38,19 @@ const nav = {
   root: [
     { text: 'Home', link: '/' },
     { text: 'Products', items: productItems.root },
+    { text: 'Pricing', link: '/pricing' },
     { text: 'Privacy', link: '/privacy/open-source-license' }
   ],
   'zh-cn': [
     { text: '首页', link: '/zh-cn/' },
     { text: '产品介绍', items: productItems['zh-cn'] },
+    { text: '价格', link: '/zh-cn/pricing' },
     { text: '隐私协议', link: '/zh-cn/privacy/open-source-license' }
   ],
   'zh-tw': [
     { text: '首頁', link: '/zh-tw/' },
     { text: '產品介紹', items: productItems['zh-tw'] },
+    { text: '價格', link: '/zh-tw/pricing' },
     { text: '隱私協議', link: '/zh-tw/privacy/open-source-license' }
   ]
 }
@@ -57,6 +60,13 @@ const sidebar = {
     {
       text: 'Products',
       items: productItems.root
+    },
+    {
+      text: 'Pricing',
+      items: [
+        { text: 'Pricing', link: '/pricing' },
+        { text: 'Buy', link: '/buy' }
+      ]
     },
     {
       text: 'Privacy',
@@ -74,6 +84,13 @@ const sidebar = {
       items: productItems['zh-cn']
     },
     {
+      text: '价格',
+      items: [
+        { text: '价格方案', link: '/zh-cn/pricing' },
+        { text: '购买', link: '/zh-cn/buy' }
+      ]
+    },
+    {
       text: '隐私协议',
       items: [
         { text: '开源许可协议', link: '/zh-cn/privacy/open-source-license' },
@@ -87,6 +104,13 @@ const sidebar = {
     {
       text: '產品介紹',
       items: productItems['zh-tw']
+    },
+    {
+      text: '價格',
+      items: [
+        { text: '價格方案', link: '/zh-tw/pricing' },
+        { text: '購買', link: '/zh-tw/buy' }
+      ]
     },
     {
       text: '隱私協議',
