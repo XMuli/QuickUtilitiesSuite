@@ -78,7 +78,7 @@
 **免費試用 30 天**
 體驗專業的視窗檢查工具
 
-[立即下載](#) | [查看定價](#) | [使用文件](#)
+[立即下載](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [查看定價](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [使用文件](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
 
 ---
 

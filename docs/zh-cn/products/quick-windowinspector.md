@@ -78,7 +78,7 @@
 **免费试用 30 天**
 体验专业的窗口检查工具
 
-[立即下载](#) | [查看定价](#) | [使用文档](#)
+[立即下载](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [查看定价](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [使用文档](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
 
 ---
 

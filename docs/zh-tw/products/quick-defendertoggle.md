@@ -90,7 +90,7 @@
 **免費試用 30 天**
 體驗便捷的系統控制
 
-[立即下載](#) | [查看定價](#) | [使用文件](#)
+[立即下載](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [查看定價](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [使用文件](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
 
 ---
 

@@ -93,7 +93,7 @@ Quick Utilities Suite 集成了多款精选的专业工具，涵盖屏幕取色�
 **免费试用 30 天**
 体验完整的多合一工具集
 
-[立即下载](#) | [查看定价](#) | [使用文档](#)
+[立即下载](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [查看定价](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [使用文档](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
 
 **特别优惠**
 购买全功能版，比单独购买节省 50% 以上
@@ -113,4 +113,4 @@ Quick Utilities Suite 集成了多款精选的专业工具，涵盖屏幕取色�
 
 为企业用户提供批量许可证和定制服务。
 
-[联系销售](#) | [企业方案](#)
+[联系销售](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [企业方案](https://apps.microsoft.com/detail/9PGNXC5HJMCV)

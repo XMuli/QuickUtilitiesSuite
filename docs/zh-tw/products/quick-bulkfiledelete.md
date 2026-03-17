@@ -78,7 +78,7 @@
 **免費試用 30 天**
 體驗極速刪除的效率
 
-[立即下載](#) | [查看定價](#) | [使用文件](#)
+[立即下載](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [查看定價](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [使用文件](https://apps.microsoft.com/detail/9NFTW7D786CZ)
 
 ---
 

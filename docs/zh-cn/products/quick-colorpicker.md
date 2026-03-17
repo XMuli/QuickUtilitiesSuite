@@ -78,7 +78,7 @@
 **免费试用 30 天**
 体验完整功能，无任何限制
 
-[立即下载](#) | [查看定价](#) | [使用文档](#)
+[立即下载](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [查看定价](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [使用文档](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
 
 ---
 

@@ -81,7 +81,7 @@
 **免費試用 30 天**
 體驗智慧識別和翻譯的便捷
 
-[立即下載](#) | [查看定價](#) | [使用文件](#)
+[立即下載](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [查看定價](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [使用文件](https://apps.microsoft.com/detail/9NJJX8KCGVN9)
 
 ---
 

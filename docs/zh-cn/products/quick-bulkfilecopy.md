@@ -78,7 +78,7 @@
 **免费试用 30 天**
 体验极速复制的快感
 
-[立即下载](#) | [查看定价](#) | [使用文档](#)
+[立即下载](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [查看定价](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [使用文档](https://apps.microsoft.com/detail/9P0MCT80QQTL)
 
 ---
 

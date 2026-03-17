@@ -3,6 +3,16 @@ import { defineConfig } from 'vitepress'
 // Per-locale product item lists
 const productItems = {
   root: [
+    { text: '快速·实用工具箱', link: '/products/quick-utilities-suite' },
+    { text: '快速·屏幕取色器', link: '/products/quick-colorpicker' },
+    { text: '快速·批量文件复制', link: '/products/quick-bulkfilecopy' },
+    { text: '快速·批量文件删除', link: '/products/quick-bulkfiledelete' },
+    { text: '快速·截图翻译', link: '/products/quick-snaptranslate' },
+    { text: '快速·窗口名侦探', link: '/products/quick-windowinspector' },
+    { text: '快速·窗口置顶', link: '/products/quick-alwaysontop' },
+    { text: '快速·Defender 开关', link: '/products/quick-defendertoggle' }
+  ],
+  en: [
     { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' },
     { text: 'Quick ColorPicker', link: '/products/quick-colorpicker' },
     { text: 'Quick BulkFileCopy', link: '/products/quick-bulkfilecopy' },
@@ -12,46 +22,168 @@ const productItems = {
     { text: 'Quick AlwaysOnTop', link: '/products/quick-alwaysontop' },
     { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
   ],
-  'zh-cn': [
-    { text: '快速·实用工具箱', link: '/zh-cn/products/quick-utilities-suite' },
-    { text: '快速·屏幕取色器', link: '/zh-cn/products/quick-colorpicker' },
-    { text: '快速·批量文件复制', link: '/zh-cn/products/quick-bulkfilecopy' },
-    { text: '快速·批量文件删除', link: '/zh-cn/products/quick-bulkfiledelete' },
-    { text: '快速·截图翻译', link: '/zh-cn/products/quick-snaptranslate' },
-    { text: '快速·窗口名侦探', link: '/zh-cn/products/quick-windowinspector' },
-    { text: '快速·窗口置顶', link: '/zh-cn/products/quick-alwaysontop' },
-    { text: '快速·Defender 开关', link: '/zh-cn/products/quick-defendertoggle' }
-  ],
   'zh-tw': [
-    { text: '快速·實用工具箱', link: '/zh-tw/products/quick-utilities-suite' },
-    { text: '快速·螢幕取色器', link: '/zh-tw/products/quick-colorpicker' },
-    { text: '快速·批量檔案複製', link: '/zh-tw/products/quick-bulkfilecopy' },
-    { text: '快速·批量檔案刪除', link: '/zh-tw/products/quick-bulkfiledelete' },
-    { text: '快速·截圖翻譯', link: '/zh-tw/products/quick-snaptranslate' },
-    { text: '快速·視窗名偵探', link: '/zh-tw/products/quick-windowinspector' },
-    { text: '快速·視窗置頂', link: '/zh-tw/products/quick-alwaysontop' },
-    { text: '快速·Defender 開關', link: '/zh-tw/products/quick-defendertoggle' }
+    { text: '快速·實用工具箱', link: '/products/quick-utilities-suite' },
+    { text: '快速·螢幕取色器', link: '/products/quick-colorpicker' },
+    { text: '快速·批量檔案複製', link: '/products/quick-bulkfilecopy' },
+    { text: '快速·批量檔案刪除', link: '/products/quick-bulkfiledelete' },
+    { text: '快速·截圖翻譯', link: '/products/quick-snaptranslate' },
+    { text: '快速·視窗名偵探', link: '/products/quick-windowinspector' },
+    { text: '快速·視窗置頂', link: '/products/quick-alwaysontop' },
+    { text: '快速·Defender 開關', link: '/products/quick-defendertoggle' }
+  ],
+  ja: [
+    { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' },
+    { text: 'Quick ColorPicker', link: '/products/quick-colorpicker' },
+    { text: 'Quick BulkFileCopy', link: '/products/quick-bulkfilecopy' },
+    { text: 'Quick BulkFileDelete', link: '/products/quick-bulkfiledelete' },
+    { text: 'Quick SnapTranslate', link: '/products/quick-snaptranslate' },
+    { text: 'Quick WindowInspector', link: '/products/quick-windowinspector' },
+    { text: 'Quick AlwaysOnTop', link: '/products/quick-alwaysontop' },
+    { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
+  ],
+  ko: [
+    { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' },
+    { text: 'Quick ColorPicker', link: '/products/quick-colorpicker' },
+    { text: 'Quick BulkFileCopy', link: '/products/quick-bulkfilecopy' },
+    { text: 'Quick BulkFileDelete', link: '/products/quick-bulkfiledelete' },
+    { text: 'Quick SnapTranslate', link: '/products/quick-snaptranslate' },
+    { text: 'Quick WindowInspector', link: '/products/quick-windowinspector' },
+    { text: 'Quick AlwaysOnTop', link: '/products/quick-alwaysontop' },
+    { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
+  ],
+  de: [
+    { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' },
+    { text: 'Quick ColorPicker', link: '/products/quick-colorpicker' },
+    { text: 'Quick BulkFileCopy', link: '/products/quick-bulkfilecopy' },
+    { text: 'Quick BulkFileDelete', link: '/products/quick-bulkfiledelete' },
+    { text: 'Quick SnapTranslate', link: '/products/quick-snaptranslate' },
+    { text: 'Quick WindowInspector', link: '/products/quick-windowinspector' },
+    { text: 'Quick AlwaysOnTop', link: '/products/quick-alwaysontop' },
+    { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
+  ],
+  fr: [
+    { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' },
+    { text: 'Quick ColorPicker', link: '/products/quick-colorpicker' },
+    { text: 'Quick BulkFileCopy', link: '/products/quick-bulkfilecopy' },
+    { text: 'Quick BulkFileDelete', link: '/products/quick-bulkfiledelete' },
+    { text: 'Quick SnapTranslate', link: '/products/quick-snaptranslate' },
+    { text: 'Quick WindowInspector', link: '/products/quick-windowinspector' },
+    { text: 'Quick AlwaysOnTop', link: '/products/quick-alwaysontop' },
+    { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
+  ],
+  es: [
+    { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' },
+    { text: 'Quick ColorPicker', link: '/products/quick-colorpicker' },
+    { text: 'Quick BulkFileCopy', link: '/products/quick-bulkfilecopy' },
+    { text: 'Quick BulkFileDelete', link: '/products/quick-bulkfiledelete' },
+    { text: 'Quick SnapTranslate', link: '/products/quick-snaptranslate' },
+    { text: 'Quick WindowInspector', link: '/products/quick-windowinspector' },
+    { text: 'Quick AlwaysOnTop', link: '/products/quick-alwaysontop' },
+    { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
+  ],
+  'pt-br': [
+    { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' },
+    { text: 'Quick ColorPicker', link: '/products/quick-colorpicker' },
+    { text: 'Quick BulkFileCopy', link: '/products/quick-bulkfilecopy' },
+    { text: 'Quick BulkFileDelete', link: '/products/quick-bulkfiledelete' },
+    { text: 'Quick SnapTranslate', link: '/products/quick-snaptranslate' },
+    { text: 'Quick WindowInspector', link: '/products/quick-windowinspector' },
+    { text: 'Quick AlwaysOnTop', link: '/products/quick-alwaysontop' },
+    { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
+  ],
+  ru: [
+    { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' },
+    { text: 'Quick ColorPicker', link: '/products/quick-colorpicker' },
+    { text: 'Quick BulkFileCopy', link: '/products/quick-bulkfilecopy' },
+    { text: 'Quick BulkFileDelete', link: '/products/quick-bulkfiledelete' },
+    { text: 'Quick SnapTranslate', link: '/products/quick-snaptranslate' },
+    { text: 'Quick WindowInspector', link: '/products/quick-windowinspector' },
+    { text: 'Quick AlwaysOnTop', link: '/products/quick-alwaysontop' },
+    { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
+  ],
+  it: [
+    { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' },
+    { text: 'Quick ColorPicker', link: '/products/quick-colorpicker' },
+    { text: 'Quick BulkFileCopy', link: '/products/quick-bulkfilecopy' },
+    { text: 'Quick BulkFileDelete', link: '/products/quick-bulkfiledelete' },
+    { text: 'Quick SnapTranslate', link: '/products/quick-snaptranslate' },
+    { text: 'Quick WindowInspector', link: '/products/quick-windowinspector' },
+    { text: 'Quick AlwaysOnTop', link: '/products/quick-alwaysontop' },
+    { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
+  ],
+  ar: [
+    { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' },
+    { text: 'Quick ColorPicker', link: '/products/quick-colorpicker' },
+    { text: 'Quick BulkFileCopy', link: '/products/quick-bulkfilecopy' },
+    { text: 'Quick BulkFileDelete', link: '/products/quick-bulkfiledelete' },
+    { text: 'Quick SnapTranslate', link: '/products/quick-snaptranslate' },
+    { text: 'Quick WindowInspector', link: '/products/quick-windowinspector' },
+    { text: 'Quick AlwaysOnTop', link: '/products/quick-alwaysontop' },
+    { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
   ]
 }
 
 const nav = {
   root: [
     { text: 'Home', link: '/' },
-    { text: 'Products', items: productItems.root },
-    { text: 'Pricing', link: '/pricing' },
+    { text: 'Products', items: productItems.en },
     { text: 'Privacy', link: '/privacy/open-source-license' }
   ],
   'zh-cn': [
     { text: '首页', link: '/zh-cn/' },
-    { text: '产品介绍', items: productItems['zh-cn'] },
-    { text: '价格', link: '/zh-cn/pricing' },
+    { text: '产品介绍', items: productItems.root },
     { text: '隐私协议', link: '/zh-cn/privacy/open-source-license' }
   ],
   'zh-tw': [
     { text: '首頁', link: '/zh-tw/' },
     { text: '產品介紹', items: productItems['zh-tw'] },
-    { text: '價格', link: '/zh-tw/pricing' },
     { text: '隱私協議', link: '/zh-tw/privacy/open-source-license' }
+  ],
+  ja: [
+    { text: 'ホーム', link: '/ja/' },
+    { text: '製品紹介', items: productItems.ja },
+    { text: 'プライバシー', link: '/ja/privacy/open-source-license' }
+  ],
+  ko: [
+    { text: '홈', link: '/ko/' },
+    { text: '제품 소개', items: productItems.ko },
+    { text: '개인정보', link: '/ko/privacy/open-source-license' }
+  ],
+  de: [
+    { text: 'Startseite', link: '/de/' },
+    { text: 'Produkte', items: productItems.de },
+    { text: 'Datenschutz', link: '/de/privacy/open-source-license' }
+  ],
+  fr: [
+    { text: 'Accueil', link: '/fr/' },
+    { text: 'Produits', items: productItems.fr },
+    { text: 'Confidentialité', link: '/fr/privacy/open-source-license' }
+  ],
+  es: [
+    { text: 'Inicio', link: '/es/' },
+    { text: 'Productos', items: productItems.es },
+    { text: 'Privacidad', link: '/es/privacy/open-source-license' }
+  ],
+  'pt-br': [
+    { text: 'Início', link: '/pt-br/' },
+    { text: 'Produtos', items: productItems['pt-br'] },
+    { text: 'Privacidade', link: '/pt-br/privacy/open-source-license' }
+  ],
+  ru: [
+    { text: 'Главная', link: '/ru/' },
+    { text: 'Продукты', items: productItems.ru },
+    { text: 'Конфиденциальность', link: '/ru/privacy/open-source-license' }
+  ],
+  it: [
+    { text: 'Home', link: '/it/' },
+    { text: 'Prodotti', items: productItems.it },
+    { text: 'Privacy', link: '/it/privacy/open-source-license' }
+  ],
+  ar: [
+    { text: 'الرئيسية', link: '/ar/' },
+    { text: 'المنتجات', items: productItems.ar },
+    { text: 'الخصوصية', link: '/ar/privacy/open-source-license' }
   ]
 }
 
@@ -59,14 +191,7 @@ const sidebar = {
   root: [
     {
       text: 'Products',
-      items: productItems.root
-    },
-    {
-      text: 'Pricing',
-      items: [
-        { text: 'Pricing', link: '/pricing' },
-        { text: 'Buy', link: '/buy' }
-      ]
+      items: productItems.en
     },
     {
       text: 'Privacy',
@@ -81,14 +206,7 @@ const sidebar = {
   'zh-cn': [
     {
       text: '产品介绍',
-      items: productItems['zh-cn']
-    },
-    {
-      text: '价格',
-      items: [
-        { text: '价格方案', link: '/zh-cn/pricing' },
-        { text: '购买', link: '/zh-cn/buy' }
-      ]
+      items: productItems.root
     },
     {
       text: '隐私协议',
@@ -106,19 +224,147 @@ const sidebar = {
       items: productItems['zh-tw']
     },
     {
-      text: '價格',
-      items: [
-        { text: '價格方案', link: '/zh-tw/pricing' },
-        { text: '購買', link: '/zh-tw/buy' }
-      ]
-    },
-    {
       text: '隱私協議',
       items: [
         { text: '開源許可協議', link: '/zh-tw/privacy/open-source-license' },
         { text: '軟體許可協議', link: '/zh-tw/privacy/license' },
         { text: '隱私與資料保護', link: '/zh-tw/privacy/privacy-and-data-protection' },
         { text: '功能介紹', link: '/zh-tw/privacy/functions' }
+      ]
+    }
+  ],
+  ja: [
+    {
+      text: '製品紹介',
+      items: productItems.ja
+    },
+    {
+      text: 'プライバシー',
+      items: [
+        { text: 'オープンソースライセンス', link: '/ja/privacy/open-source-license' },
+        { text: 'ソフトウェアライセンス', link: '/ja/privacy/license' },
+        { text: 'プライバシーとデータ保護', link: '/ja/privacy/privacy-and-data-protection' },
+        { text: '機能紹介', link: '/ja/privacy/functions' }
+      ]
+    }
+  ],
+  ko: [
+    {
+      text: '제품 소개',
+      items: productItems.ko
+    },
+    {
+      text: '개인정보',
+      items: [
+        { text: '오픈소스 라이선스', link: '/ko/privacy/open-source-license' },
+        { text: '소프트웨어 라이선스', link: '/ko/privacy/license' },
+        { text: '개인정보 보호', link: '/ko/privacy/privacy-and-data-protection' },
+        { text: '기능 소개', link: '/ko/privacy/functions' }
+      ]
+    }
+  ],
+  de: [
+    {
+      text: 'Produkte',
+      items: productItems.de
+    },
+    {
+      text: 'Datenschutz',
+      items: [
+        { text: 'Open-Source-Lizenzen', link: '/de/privacy/open-source-license' },
+        { text: 'Softwarelizenz', link: '/de/privacy/license' },
+        { text: 'Datenschutz & Datensicherheit', link: '/de/privacy/privacy-and-data-protection' },
+        { text: 'Funktionsübersicht', link: '/de/privacy/functions' }
+      ]
+    }
+  ],
+  fr: [
+    {
+      text: 'Produits',
+      items: productItems.fr
+    },
+    {
+      text: 'Confidentialité',
+      items: [
+        { text: 'Licences open source', link: '/fr/privacy/open-source-license' },
+        { text: 'Licence logicielle', link: '/fr/privacy/license' },
+        { text: 'Confidentialité et protection des données', link: '/fr/privacy/privacy-and-data-protection' },
+        { text: 'Présentation des fonctionnalités', link: '/fr/privacy/functions' }
+      ]
+    }
+  ],
+  es: [
+    {
+      text: 'Productos',
+      items: productItems.es
+    },
+    {
+      text: 'Privacidad',
+      items: [
+        { text: 'Licencias de código abierto', link: '/es/privacy/open-source-license' },
+        { text: 'Licencia de software', link: '/es/privacy/license' },
+        { text: 'Privacidad y protección de datos', link: '/es/privacy/privacy-and-data-protection' },
+        { text: 'Descripción de funciones', link: '/es/privacy/functions' }
+      ]
+    }
+  ],
+  'pt-br': [
+    {
+      text: 'Produtos',
+      items: productItems['pt-br']
+    },
+    {
+      text: 'Privacidade',
+      items: [
+        { text: 'Licenças de código aberto', link: '/pt-br/privacy/open-source-license' },
+        { text: 'Licença de software', link: '/pt-br/privacy/license' },
+        { text: 'Privacidade e proteção de dados', link: '/pt-br/privacy/privacy-and-data-protection' },
+        { text: 'Visão geral das funções', link: '/pt-br/privacy/functions' }
+      ]
+    }
+  ],
+  ru: [
+    {
+      text: 'Продукты',
+      items: productItems.ru
+    },
+    {
+      text: 'Конфиденциальность',
+      items: [
+        { text: 'Лицензии открытого ПО', link: '/ru/privacy/open-source-license' },
+        { text: 'Лицензия на ПО', link: '/ru/privacy/license' },
+        { text: 'Конфиденциальность и защита данных', link: '/ru/privacy/privacy-and-data-protection' },
+        { text: 'Обзор функций', link: '/ru/privacy/functions' }
+      ]
+    }
+  ],
+  it: [
+    {
+      text: 'Prodotti',
+      items: productItems.it
+    },
+    {
+      text: 'Privacy',
+      items: [
+        { text: 'Licenze open source', link: '/it/privacy/open-source-license' },
+        { text: 'Licenza software', link: '/it/privacy/license' },
+        { text: 'Privacy e protezione dei dati', link: '/it/privacy/privacy-and-data-protection' },
+        { text: 'Panoramica delle funzioni', link: '/it/privacy/functions' }
+      ]
+    }
+  ],
+  ar: [
+    {
+      text: 'المنتجات',
+      items: productItems.ar
+    },
+    {
+      text: 'الخصوصية',
+      items: [
+        { text: 'تراخيص المصادر المفتوحة', link: '/ar/privacy/open-source-license' },
+        { text: 'ترخيص البرنامج', link: '/ar/privacy/license' },
+        { text: 'الخصوصية وحماية البيانات', link: '/ar/privacy/privacy-and-data-protection' },
+        { text: 'نظرة عامة على الوظائف', link: '/ar/privacy/functions' }
       ]
     }
   ]
@@ -172,6 +418,106 @@ export default defineConfig({
       themeConfig: {
         nav: nav['zh-tw'],
         sidebar: sidebar['zh-tw']
+      }
+    },
+    ja: {
+      label: '日本語',
+      lang: 'ja-JP',
+      link: '/ja/',
+      title: 'Quick Utilities Suite',
+      description: 'Windows 生産性ツール：常に最前面、Spy++、カラーピッカーなど。',
+      themeConfig: {
+        nav: nav.ja,
+        sidebar: sidebar.ja
+      }
+    },
+    ko: {
+      label: '한국어',
+      lang: 'ko-KR',
+      link: '/ko/',
+      title: 'Quick Utilities Suite',
+      description: 'Windows 생산성 도구: 항상 위에, Spy++, 색상 선택기 등.',
+      themeConfig: {
+        nav: nav.ko,
+        sidebar: sidebar.ko
+      }
+    },
+    de: {
+      label: 'Deutsch',
+      lang: 'de-DE',
+      link: '/de/',
+      title: 'Quick Utilities Suite',
+      description: 'Windows-Produktivitätswerkzeuge: Immer im Vordergrund, Spy++, Farbwähler und mehr.',
+      themeConfig: {
+        nav: nav.de,
+        sidebar: sidebar.de
+      }
+    },
+    fr: {
+      label: 'Français',
+      lang: 'fr-FR',
+      link: '/fr/',
+      title: 'Quick Utilities Suite',
+      description: 'Outils de productivité Windows : toujours au premier plan, Spy++, pipette de couleurs et plus.',
+      themeConfig: {
+        nav: nav.fr,
+        sidebar: sidebar.fr
+      }
+    },
+    es: {
+      label: 'Español',
+      lang: 'es-ES',
+      link: '/es/',
+      title: 'Quick Utilities Suite',
+      description: 'Herramientas de productividad para Windows: siempre en primer plano, Spy++, selector de colores y más.',
+      themeConfig: {
+        nav: nav.es,
+        sidebar: sidebar.es
+      }
+    },
+    'pt-br': {
+      label: 'Português (Brasil)',
+      lang: 'pt-BR',
+      link: '/pt-br/',
+      title: 'Quick Utilities Suite',
+      description: 'Ferramentas de produtividade para Windows: sempre no topo, Spy++, seletor de cores e mais.',
+      themeConfig: {
+        nav: nav['pt-br'],
+        sidebar: sidebar['pt-br']
+      }
+    },
+    ru: {
+      label: 'Русский',
+      lang: 'ru-RU',
+      link: '/ru/',
+      title: 'Quick Utilities Suite',
+      description: 'Инструменты продуктивности для Windows: поверх всех окон, Spy++, пипетка цвета и другое.',
+      themeConfig: {
+        nav: nav.ru,
+        sidebar: sidebar.ru
+      }
+    },
+    it: {
+      label: 'Italiano',
+      lang: 'it-IT',
+      link: '/it/',
+      title: 'Quick Utilities Suite',
+      description: 'Strumenti di produttività per Windows: sempre in primo piano, Spy++, selettore colori e altro.',
+      themeConfig: {
+        nav: nav.it,
+        sidebar: sidebar.it
+      }
+    },
+    ar: {
+      label: 'العربية',
+      lang: 'ar-SA',
+      dir: 'rtl',
+      link: '/ar/',
+      title: 'Quick Utilities Suite',
+      description: 'أدوات إنتاجية لنظام Windows: النافذة دائمًا في المقدمة، Spy++، منتقي الألوان والمزيد.',
+      themeConfig: {
+        nav: nav.ar,
+        sidebar: sidebar.ar
       }
     }
   },

@@ -78,7 +78,7 @@
 **免費試用 30 天**
 體驗便捷的視窗管理
 
-[立即下載](#) | [查看定價](#) | [使用文件](#)
+[立即下載](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [查看定價](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [使用文件](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
 
 ---
 
