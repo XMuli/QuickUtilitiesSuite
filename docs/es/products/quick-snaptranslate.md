@@ -89,4 +89,4 @@ Experimenta la comodidad del reconocimiento y traducción inteligente
 - **Documentación**: [Ver guía de usuario completa](#)
 - **Configuración de API**: [Cómo configurar la API de Tencent Cloud](#)
 - **Comentarios**: [Enviar un problema o sugerencia](#)
-- **Contáctanos**: support@quickutilitiessuite.com
+- **Contáctanos**: xmulitech@gmail.com

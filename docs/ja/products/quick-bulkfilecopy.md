@@ -85,4 +85,4 @@ Windows エクスプローラーで `node_modules` フォルダのコピーに�
 
 - **ドキュメント**：[ユーザーガイドを見る](#)
 - **フィードバック**：[問題・提案を送信](#)
-- **お問い合わせ**：support@quickutilitiessuite.com
+- **お問い合わせ**：xmulitech@gmail.com

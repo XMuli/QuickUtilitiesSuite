@@ -85,4 +85,4 @@ Sperimenta la gestione finestre fluida a costo zero
 
 - **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
 - **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: support@quickutilitiessuite.com
+- **Contattaci**: xmulitech@gmail.com

@@ -85,4 +85,4 @@ Funzionalità complete senza restrizioni
 
 - **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
 - **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: support@quickutilitiessuite.com
+- **Contattaci**: xmulitech@gmail.com

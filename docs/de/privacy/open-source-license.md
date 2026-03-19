@@ -20,7 +20,7 @@ Open-Source-Code aus diesem Projekt — geteilt, um der Community etwas zurückz
 ````html
 MIT License
 
-Copyright (c) 2024-2025 Wengeng Zhang <xmulitech@gmail.com>
+Copyright (c) 2024-2026 WENGENG ZHANG <xmulitech@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -49,7 +49,7 @@ SOFTWARE.
 ```html
 MIT License
 
-Copyright (c) 2022-2025 Wengeng Zhang <xmulitech@gmail.com>
+Copyright (c) 2022-2026 WENGENG ZHANG <xmulitech@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -136,7 +136,7 @@ SOFTWARE.
 ```html
 MIT License
 
-Copyright (c) 2022-2025 Wengeng Zhang <xmulitech@gmail.com>
+Copyright (c) 2022-2026 WENGENG ZHANG <xmulitech@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -85,4 +85,4 @@ Sperimenta la velocità dell'eliminazione file di livello professionale
 
 - **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9NFTW7D786CZ)
 - **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: support@quickutilitiessuite.com
+- **Contattaci**: xmulitech@gmail.com

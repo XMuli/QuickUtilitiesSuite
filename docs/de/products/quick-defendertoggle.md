@@ -97,4 +97,4 @@ Erleben Sie komfortable Systemsteuerung
 
 - **Dokumentation**: [Vollständige Benutzeranleitung anzeigen](#)
 - **Feedback**: [Problem oder Vorschlag einreichen](#)
-- **Kontakt**: support@quickutilitiessuite.com
+- **Kontakt**: xmulitech@gmail.com

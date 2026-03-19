@@ -104,7 +104,7 @@ Quick Utilities Suite는 화면 색상 추출, 파일 관리, 스크린샷 번�
 - **문서**: [전체 사용자 가이드 보기](#)
 - **비디오 튜토리얼**: [기능 데모 보기](#)
 - **피드백**: [이슈 또는 제안 제출](#)
-- **문의하기**: support@quickutilitiessuite.com
+- **문의하기**: xmulitech@gmail.com
 
 ---
 

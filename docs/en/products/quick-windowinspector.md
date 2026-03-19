@@ -85,4 +85,4 @@ Experience a professional window inspection tool
 
 - **Documentation**: [View Full User Guide](#)
 - **Feedback**: [Submit an Issue or Suggestion](#)
-- **Contact Us**: support@quickutilitiessuite.com
+- **Contact Us**: xmulitech@gmail.com

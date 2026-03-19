@@ -104,7 +104,7 @@ Quick Utilities Suite は、画面の色取得、ファイル管理、スクリ�
 - **ドキュメント**：[ユーザーガイドを見る](#)
 - **動画チュートリアル**：[機能デモを見る](#)
 - **フィードバック**：[問題・提案を送信](#)
-- **お問い合わせ**：support@quickutilitiessuite.com
+- **お問い合わせ**：xmulitech@gmail.com
 
 ---
 

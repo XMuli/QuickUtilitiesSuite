@@ -85,4 +85,4 @@ Sperimenta uno strumento professionale di ispezione finestre
 
 - **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
 - **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: support@quickutilitiessuite.com
+- **Contattaci**: xmulitech@gmail.com

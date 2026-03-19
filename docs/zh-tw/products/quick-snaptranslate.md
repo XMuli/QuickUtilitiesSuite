@@ -90,4 +90,4 @@
 - **使用文件**: [查看完整使用指南](#)
 - **API 設定**: [如何設定騰訊雲 API](#)
 - **問題回饋**: [提交問題或建議](#)
-- **聯絡我們**: support@quickutilitiessuite.com
+- **聯絡我們**: xmulitech@gmail.com

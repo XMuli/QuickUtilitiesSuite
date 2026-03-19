@@ -104,7 +104,7 @@ Adquira o suite completo e economize mais de 50% em comparacao com a compra indi
 - **Documentacao**: [Ver Guia Completo do Usuario](#)
 - **Tutoriais em Video**: [Assistir Demonstracoes de Recursos](#)
 - **Feedback**: [Enviar um Problema ou Sugestao](#)
-- **Contato**: support@quickutilitiessuite.com
+- **Contato**: xmulitech@gmail.com
 
 ---
 

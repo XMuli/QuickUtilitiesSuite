@@ -104,7 +104,7 @@ Das Gesamtpaket kaufen und über 50 % sparen im Vergleich zum Einzelkauf der Wer
 - **Dokumentation**: [Vollständige Benutzeranleitung anzeigen](#)
 - **Video-Tutorials**: [Feature-Demos ansehen](#)
 - **Feedback**: [Problem oder Vorschlag einreichen](#)
-- **Kontakt**: support@quickutilitiessuite.com
+- **Kontakt**: xmulitech@gmail.com
 
 ---
 

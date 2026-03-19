@@ -85,4 +85,4 @@ Voller Funktionsumfang ohne Einschränkungen
 
 - **Dokumentation**: [Vollständige Benutzeranleitung anzeigen](#)
 - **Feedback**: [Problem oder Vorschlag einreichen](#)
-- **Kontakt**: support@quickutilitiessuite.com
+- **Kontakt**: xmulitech@gmail.com

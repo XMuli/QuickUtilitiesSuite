@@ -85,4 +85,4 @@ Experimenta la diferencia de velocidad por ti mismo
 
 - **Documentación**: [Ver guía de usuario completa](#)
 - **Comentarios**: [Enviar un problema o sugerencia](#)
-- **Contáctanos**: support@quickutilitiessuite.com
+- **Contáctanos**: xmulitech@gmail.com

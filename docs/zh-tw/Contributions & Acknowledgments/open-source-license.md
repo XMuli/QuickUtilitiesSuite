@@ -16,7 +16,7 @@ Copyright (c) 2024-2026 Wengeng Zhang. All rights reserved.
 ````html
 MIT License
 
-Copyright (c) 2024-2025 Wengeng Zhang <xmulitech@gmail.com>
+Copyright (c) 2024-2026 WENGENG ZHANG <xmulitech@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -45,7 +45,7 @@ SOFTWARE.
 ```html
 MIT License
 
-Copyright (c) 2022-2025 Wengeng Zhang <xmulitech@gmail.com>
+Copyright (c) 2022-2026 WENGENG ZHANG <xmulitech@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -132,7 +132,7 @@ SOFTWARE.
 ```html
 MIT License
 
-Copyright (c) 2022-2025 Wengeng Zhang <xmulitech@gmail.com>
+Copyright (c) 2022-2026 WENGENG ZHANG <xmulitech@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -85,4 +85,4 @@ Erleben Sie die Geschwindigkeit professioneller Dateilöschung
 
 - **Dokumentation**: [Vollständige Benutzeranleitung anzeigen](#)
 - **Feedback**: [Problem oder Vorschlag einreichen](#)
-- **Kontakt**: support@quickutilitiessuite.com
+- **Kontakt**: xmulitech@gmail.com

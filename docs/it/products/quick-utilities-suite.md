@@ -104,7 +104,7 @@ Acquista la suite completa e risparmia oltre il 50% rispetto all'acquisto dei si
 - **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
 - **Video Tutorial**: [Guarda le Demo delle Funzionalità](#)
 - **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: support@quickutilitiessuite.com
+- **Contattaci**: xmulitech@gmail.com
 
 ---
 

@@ -85,4 +85,4 @@ Experimenta una herramienta profesional de inspección de ventanas
 
 - **Documentación**: [Ver guía de usuario completa](#)
 - **Comentarios**: [Enviar un problema o sugerencia](#)
-- **Contáctanos**: support@quickutilitiessuite.com
+- **Contáctanos**: xmulitech@gmail.com

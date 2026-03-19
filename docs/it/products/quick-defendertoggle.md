@@ -97,4 +97,4 @@ Sperimenta un comodo controllo di sistema
 
 - **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
 - **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: support@quickutilitiessuite.com
+- **Contattaci**: xmulitech@gmail.com

@@ -89,4 +89,4 @@
 - **ドキュメント**：[ユーザーガイドを見る](#)
 - **API設定**：[Tencent Cloud APIの設定方法](#)
 - **フィードバック**：[問題・提案を送信](#)
-- **お問い合わせ**：support@quickutilitiessuite.com
+- **お問い合わせ**：xmulitech@gmail.com

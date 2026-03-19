@@ -104,7 +104,7 @@ Compra el paquete completo y ahorra más del 50% en comparación con comprar las
 - **Documentación**: [Ver guía de usuario completa](#)
 - **Tutoriales en vídeo**: [Ver demostraciones de funciones](#)
 - **Comentarios**: [Enviar un problema o sugerencia](#)
-- **Contáctanos**: support@quickutilitiessuite.com
+- **Contáctanos**: xmulitech@gmail.com
 
 ---
 

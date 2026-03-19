@@ -105,7 +105,7 @@ Quick Utilities Suite 集成了多款精选的专业工具，涵盖屏幕取色�
 - **使用文档**: [查看完整使用指南](#)
 - **视频教程**: [观看功能演示](#)
 - **问题反馈**: [提交问题或建议](#)
-- **联系我们**: support@quickutilitiessuite.com
+- **联系我们**: xmulitech@gmail.com
 
 ---
 

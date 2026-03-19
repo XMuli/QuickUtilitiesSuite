@@ -90,4 +90,4 @@
 - **使用文档**: [查看完整使用指南](#)
 - **API 配置**: [如何配置腾讯云 API](#)
 - **问题反馈**: [提交问题或建议](#)
-- **联系我们**: support@quickutilitiessuite.com
+- **联系我们**: xmulitech@gmail.com

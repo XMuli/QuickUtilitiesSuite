@@ -85,4 +85,4 @@ Funcionalidade completa sem restricoes
 
 - **Documentacao**: [Ver Guia Completo do Usuario](#)
 - **Feedback**: [Enviar um Problema ou Sugestao](#)
-- **Contato**: support@quickutilitiessuite.com
+- **Contato**: xmulitech@gmail.com

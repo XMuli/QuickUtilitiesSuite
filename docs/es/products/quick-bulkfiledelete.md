@@ -85,4 +85,4 @@ Experimenta la velocidad de eliminación de archivos de nivel profesional
 
 - **Documentación**: [Ver guía de usuario completa](#)
 - **Comentarios**: [Enviar un problema o sugerencia](#)
-- **Contáctanos**: support@quickutilitiessuite.com
+- **Contáctanos**: xmulitech@gmail.com

@@ -89,4 +89,4 @@ Sperimenta la comodità del riconoscimento e della traduzione intelligente
 - **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9NJJX8KCGVN9)
 - **Configurazione API**: [Come Configurare le API Tencent Cloud](#)
 - **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: support@quickutilitiessuite.com
+- **Contattaci**: xmulitech@gmail.com

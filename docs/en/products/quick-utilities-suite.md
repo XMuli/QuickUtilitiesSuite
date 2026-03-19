@@ -104,7 +104,7 @@ Purchase the full suite and save over 50% compared to buying tools individually
 - **Documentation**: [View Full User Guide](#)
 - **Video Tutorials**: [Watch Feature Demos](#)
 - **Feedback**: [Submit an Issue or Suggestion](#)
-- **Contact Us**: support@quickutilitiessuite.com
+- **Contact Us**: xmulitech@gmail.com
 
 ---
 

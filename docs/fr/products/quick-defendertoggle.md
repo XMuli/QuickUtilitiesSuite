@@ -97,4 +97,4 @@ Découvrez un contrôle système pratique
 
 - **Documentation** : [Consulter le guide utilisateur complet](#)
 - **Commentaires** : [Soumettre un problème ou une suggestion](#)
-- **Nous contacter** : support@quickutilitiessuite.com
+- **Nous contacter** : xmulitech@gmail.com
