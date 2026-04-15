@@ -21,6 +21,11 @@ hero:
       link: https://github.com/XMuli/QuickUtilitiesSuite/issues
 
 features:
+  - title: Quick BrightnessSync 🔥
+    details: 一鍵硬體級同步所有顯示器亮度 (DDC/CI)，告別逐個調節的煩惱。
+    icon:
+      light: /images/quick-logo/Quick%20BrightnessSync.svg
+      dark: /images/quick-logo/Quick%20BrightnessSync.svg
   - title: 快速·螢幕取色器
     details: 精確拾取螢幕任意位置的顏色，支援多種格式輸出。
     icon: 

@@ -1,17 +1,16 @@
 # Quick BulkFileDelete
-## 快速·批量文件删除
 
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <img src="/images/quick-logo/Quick BulkFileDelete.svg" alt="Quick BulkFileDelete" style="width: 96px; height: 96px;" />
 </div>
 
-**极速删除巨型文件夹，告别漫长等待。**
+**清理庞大目录，不该再被“正在计算”拖住节奏。**
 
 ---
 
-### 让删除操作快如闪电
+### 专为 Windows 难删目录准备
 
-删除一个巨大的 node_modules 文件夹，系统提示"正在计算时间"？Quick BulkFileDelete 采用高速删除算法，明显缩短删除时间，避免长时间等待，让你的工作流程更流畅。
+Quick BulkFileDelete 针对系统默认删除路径最容易卡顿的目录结构进行了优化。无论是构建输出、依赖文件夹、缓存目录还是历史归档，都能以更快、更清晰、更少打断的方式完成清理。
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick BulkFileDelete.png" alt="Quick BulkFileDelete 界面截图"
@@ -21,60 +20,47 @@
 
 ---
 
-### 核心功能
+### 为什么它更值得信赖
 
-**极速删除引擎**
-专门优化的删除算法，处理大量小文件或巨型文件夹时速度远超系统自带功能。
+**更高效的删除引擎**  
+面对海量小文件目录时，比系统默认流程更快，也更少陷入长时间计算。
 
-**安全删除机制**
-删除前验证功能，避免误删重要文件。详细日志记录每一步操作。
+**删除前确认，删除后留痕**  
+先检查目标路径，再通过日志记录操作过程，降低误删风险。
 
-**简洁的操作界面**
-拖放即可删除，实时显示进度，历史路径记录，让重复操作更便捷。
-
----
-
-### 为什么选择 Quick BulkFileDelete
-
-**节省大量时间**
-系统删除需要几分钟甚至卡死？Quick BulkFileDelete 可能只需要几秒钟。
-
-**避免系统卡顿**
-高效的删除算法不会让系统资源管理器卡死或无响应。
-
-**操作更安全**
-删除前验证和详细日志，让你清楚知道删除了什么，避免误操作。
+**让清理工作更有秩序**  
+把原本容易打断节奏的维护动作，变成可预期的标准流程。
 
 ---
 
-### 使用场景
+### 哪些场景更能体现价值
 
-**开发者**
-快速清理项目中的 node_modules、build、dist 等临时文件夹，释放磁盘空间。
+**开发环境维护**  
+快速移除 build、dist、缓存和依赖目录，为下一轮迭代腾出空间。
 
-**系统管理员**
-批量清理临时文件、日志文件、缓存文件，维护系统性能。
+**运维与 IT 清理**  
+批量清除临时文件、归档、旧部署残留，提高维护效率。
 
-**普通用户**
-删除下载的大型软件安装包、旧的备份文件夹，整理磁盘空间。
+**日常空间回收**  
+面对体积大、层级深的陈旧目录时，更从容地释放磁盘空间。
 
 ---
 
 ### 快速开始
 
-1. **选择要删除的内容**
-   拖放或点击选择文件或文件夹
+1. **选择目标文件或目录**  
+   通过拖拽或手动方式加入需要删除的内容。
 
-2. **验证删除内容**
-   确认要删除的路径，避免误操作
+2. **核对目标路径**  
+   执行前再次确认列表，避免误删无关文件。
 
-3. **开始删除**
-   点击开始，实时查看进度，快速完成
+3. **开始清理**  
+   启动删除流程，实时查看进度并快速完成任务。
 
 <br>
 
 ## Download
 
-[⬇️ 立即前往微软商店下载安装](https://apps.microsoft.com/detail/9NFTW7D786CZ){.vp-button.brand}
+[前往 Microsoft Store 下载](https://apps.microsoft.com/detail/9NFTW7D786CZ){.vp-button.brand}
 
-[📧 联系商业团队反馈支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+[联系商业支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

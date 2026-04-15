@@ -1,17 +1,16 @@
 # Quick Utilities Suite
-## 快速·实用工具箱
 
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**多合一专业工具集，让工作效率翻倍。**
+**一套经过筛选的 Windows 实用工具，服务更顺滑的专业日常。**
 
 ---
 
-### 一个工具箱，满足所有需求
+### 一套工具，减少重复摩擦
 
-Quick Utilities Suite 集成了多款精选的专业工具，涵盖屏幕取色、文件管理、截图翻译、窗口管理等常用场景。统一的界面和设置，让你的工作流程更流畅。
+Quick Utilities Suite 把显示控制、窗口管理、重度文件操作、屏幕取色和截图翻译等常用能力整合在同一产品家族中。相比零散收集单点工具，它提供了更统一的使用体验，也更适合长期稳定地融入桌面工作流。
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite 界面截图"
@@ -21,75 +20,47 @@ Quick Utilities Suite 集成了多款精选的专业工具，涵盖屏幕取色�
 
 ---
 
-### 包含的工具
+### 这套组合真正带来了什么
 
-**Quick ColorPicker - 屏幕取色器**
-精确拾取屏幕任意位置的颜色，支持多种格式输出。
+**围绕高频工作场景构建**  
+包含 Quick BrightnessSync、Quick AlwaysOnTop、Quick WindowInspector、Quick BulkFileCopy、Quick BulkFileDelete、Quick DefenderToggle、Quick SnapTranslate、Quick SnapOCR 与 Quick ColorPicker。
 
-**Quick BulkFileCopy - 批量文件复制**
-高速复制大量小文件，比系统自带快数倍。
+**更统一的使用感受**  
+托盘入口、熟悉的交互习惯和一致的产品语言，让多工具切换更自然。
 
-**Quick BulkFileDelete - 批量文件删除**
-极速删除巨型文件夹，节省宝贵时间。
-
-**Quick SnapTranslate - 截图翻译**
-一键截图识别文字并翻译，跨语言工作更轻松。
-
-**Quick WindowInspector - 窗口名侦探**
-获取任意窗口的详细信息，调试开发更高效。
-
-**Quick AlwaysOnTop - 窗口置顶**
-一键固定重要窗口在最前，多任务处理更从容。
-
-**Quick DefenderToggle - Defender 开关**
-快速控制系统防护，高级操作更便捷。
+**比临时拼凑更有长期价值**  
+用一套紧凑实用的工具支持日常效率，而不是管理大量分散应用。
 
 ---
 
-### 为什么选择全功能版
+### 它更适合哪些人
 
-**更优惠的价格**
-购买全功能版比单独购买各工具节省超过 50%。
+**开发与技术团队**  
+把调试、清理、捕获、翻译和多屏管理纳入同一工作环境。
 
-**统一的体验**
-所有工具共享设置和快捷键配置，学习成本更低。
+**IT 与运维岗位**  
+用更快可重复的方式处理常见 Windows 任务。
 
-**一站式解决方案**
-无需安装多个软件，一个工具箱满足所有需求。
-
-**持续更新**
-购买一次，享受所有工具的持续更新和新功能。
-
----
-
-### 适用人群
-
-**设计师和开发者**
-取色、截图翻译、窗口调试，开发设计必备工具。
-
-**IT 管理员**
-文件管理、系统控制，提高运维效率。
-
-**效率追求者**
-多任务处理、快速操作，让工作更高效。
+**重度 Windows 桌面用户**  
+为专业工作站减少常见摩擦点，保持桌面更高效。
 
 ---
 
 ### 快速开始
 
-1. **安装并启动**
-   运行安装程序，工具箱自动驻留系统托盘
+1. **安装套装**  
+   从 Microsoft Store 部署后，通过托盘入口统一启动各项工具。
 
-2. **配置快捷键**
-   在设置中配置各工具的全局快捷键
+2. **配置常用能力**  
+   为高频工具设置快捷键，让访问路径更短。
 
-3. **开始使用**
-   使用快捷键或托盘菜单快速启动各个工具
+3. **建立更顺手的桌面流程**  
+   把文件、窗口、屏幕与翻译类任务收拢为一套一致的操作体系。
 
 <br>
 
 ## Download
 
-[⬇️ 立即前往微软商店下载安装](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
+[前往 Microsoft Store 下载](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
 
-[📧 联系商业团队反馈支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+[联系商业支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

@@ -4,76 +4,63 @@
   <img src="/images/quick-logo/Quick BulkFilecopy.svg" alt="Quick BulkFileCopy" style="width: 96px; height: 96px;" />
 </div>
 
-**High-speed bulk file copying — stop waiting, start working.**
+**Move large collections of small files at a pace that respects your time.**
 
 ---
 
-### Copy Thousands of Files Without the Wait
+### Purpose-built for heavy file workflows
 
-Tired of watching Windows Explorer take minutes to copy a `node_modules` folder? Quick BulkFileCopy is purpose-built for handling directories containing massive numbers of small files. It copies several times faster than the built-in system tool, saving you valuable time. Drag-and-drop operation, real-time progress tracking, and automatic integrity verification make file copying simple and reliable.
+Quick BulkFileCopy is designed for the moments when Windows Explorer becomes the bottleneck. Large dependency trees, mirrored asset folders, software packages, and archive sets can be copied with less waiting, clearer progress visibility, and a workflow that feels dependable under pressure.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick BulkFileCopy.png" alt="Quick BulkFileCopy Screenshot"
+  <img src="/images/snapshoot/Quick BulkFileCopy.png" alt="Quick BulkFileCopy screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
   <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick BulkFileCopy · Interface Preview</p>
 </div>
 
 ---
 
-### Key Features
+### Why it earns a place in the toolkit
 
-**High-Performance Copy Engine**
-Specifically optimized for directories containing large numbers of small files — such as `node_modules`, `.git`, and similar structures — delivering measurably faster copy speeds than the native system utility.
+**Optimized for high file-count directories**  
+Handles folders such as `node_modules`, vendor packages, caches, and generated assets more efficiently than general-purpose copy tools.
 
-**Automatic Integrity Verification**
-After copying, the tool automatically compares source and destination files to confirm data integrity, giving you complete peace of mind.
+**Integrity verification after transfer**  
+Automatic verification helps confirm that what arrived at the destination matches the source.
 
-**Intuitive User Experience**
-Drag-and-drop support, live progress display with detailed logs, and path history for quick re-selection of frequently used locations.
-
----
-
-### Why Choose Quick BulkFileCopy
-
-**Reclaim Your Time**
-What takes the system 5 minutes, Quick BulkFileCopy can often accomplish in under 1 minute.
-
-**Guaranteed Data Integrity**
-Automatic verification ensures that every copied file matches its source exactly, eliminating the risk of data corruption or silent failure.
-
-**Effortless Operation**
-Drop a folder to start — no complex configuration required. History shortcuts make repetitive tasks a single click.
+**Simple operation, professional confidence**  
+Drag-and-drop, progress feedback, and path history help teams repeat file operations with less friction.
 
 ---
 
-### Use Cases
+### Where it pays off
 
-**Developers**
-Quickly back up or migrate project directories, especially those containing large dependency trees such as `node_modules` or `vendor`.
+**Developers**  
+Duplicate large project trees for testing, backup, packaging, or migration without wasting cycles.
 
-**IT Administrators**
-Efficiently deploy software packages and configuration files across multiple machines to streamline provisioning workflows.
+**IT deployment teams**  
+Prepare software payloads and configuration bundles with a faster repeatable copy workflow.
 
-**Content Creators**
-Safely back up project folders containing large volumes of media assets to ensure data security.
+**Content and media teams**  
+Move asset-heavy working folders while keeping confidence in the final result.
 
 ---
 
-### Getting Started
+### Get started in seconds
 
-1. **Select the Source Folder**
-   Drag and drop or click to browse for the folder you wish to copy
+1. **Choose the source**  
+   Drag in the folder you want to copy or browse to it manually.
 
-2. **Choose the Destination**
-   Specify where the files should be copied to
+2. **Set the destination**  
+   Point the job to the target path you want to populate.
 
-3. **Start Copying**
-   Click Start, monitor real-time progress, and let automatic verification confirm a successful transfer
+3. **Run and verify**  
+   Start the copy, monitor the progress, and let the post-copy checks confirm completion.
 
 <br>
 
 ## Download
 
-[⬇️ Download from Microsoft Store](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
+[Download from Microsoft Store](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
 
-[📧 Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+[Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

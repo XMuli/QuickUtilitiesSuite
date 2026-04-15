@@ -4,73 +4,64 @@
   <img src="/images/quick-logo/Quick BulkFileDelete.svg" alt="Quick BulkFileDelete" style="width: 96px; height: 96px;" />
 </div>
 
-**Blazing-fast deletion of massive directories — no more endless waiting.**
+**Clear oversized folders fast without letting cleanup stall the rest of your day.**
 
 ---
 
-### Delete at Lightning Speed
+### Built for the folders Windows struggles with
 
-Does Windows Explorer hang with "Calculating time remaining" when you try to delete a bloated `node_modules` folder? Quick BulkFileDelete employs a high-performance deletion algorithm that dramatically reduces removal time, eliminates system freezes, and keeps your workflow moving.
+Quick BulkFileDelete is tuned for directory trees that are painful to remove through the default file explorer. Temporary builds, dependency folders, stale caches, and large archives can be cleared with better speed, clearer verification, and less of the freezing that slows down cleanup work.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick BulkFileDelete.png" alt="Quick BulkFileDelete Screenshot"
+  <img src="/images/snapshoot/Quick BulkFileDelete.png" alt="Quick BulkFileDelete screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
   <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick BulkFileDelete · Interface Preview</p>
 </div>
 
 ---
 
-### Key Features
+### Why it feels more professional
 
-**High-Performance Deletion Engine**
-A purpose-built deletion algorithm handles directories with enormous numbers of small files far more efficiently than the native system utility, completing operations that would otherwise cause Explorer to freeze.
+**High-speed deletion engine**  
+Processes large numbers of small files faster than the standard path that often gets stuck calculating.
 
-**Safe Deletion Mechanism**
-Pre-deletion path verification helps prevent accidental removal of important files. Detailed operation logs record every step for full traceability.
+**Pre-delete review and logging**  
+Review the target path before execution and keep an operation record for traceability.
 
-**Clean, Minimal Interface**
-Drag-and-drop to queue files for deletion, real-time progress display, and path history for convenient re-selection of frequently targeted directories.
-
----
-
-### Why Choose Quick BulkFileDelete
-
-**Save Significant Time**
-What takes the system several minutes — or causes it to hang entirely — Quick BulkFileDelete handles in seconds.
-
-**Prevent System Freezes**
-The efficient deletion engine processes files without causing Windows Explorer or the system to become unresponsive.
-
-**Operate With Confidence**
-Pre-deletion verification and comprehensive logs ensure you always know exactly what was removed, reducing the risk of costly mistakes.
+**A cleaner way to keep systems tidy**  
+Makes routine cleanup work feel deliberate instead of disruptive.
 
 ---
 
-### Use Cases
+### Where it earns its keep
 
-**Developers**
-Rapidly clean up `node_modules`, `build`, `dist`, and other temporary output directories to free disk space between project iterations.
+**Development environments**  
+Remove build folders, package caches, and dependency trees quickly between iterations.
 
-**System Administrators**
-Bulk-remove temporary files, log archives, and cache directories to maintain optimal system performance.
+**Operations and IT**  
+Clean temporary payloads, archives, and old deployment outputs more efficiently.
 
-**General Users**
-Clear out large installer packages, outdated backup folders, and other accumulated clutter to reclaim disk space.
+**General maintenance**  
+Reclaim disk space from large stale folders without fighting the file explorer.
 
 ---
 
-### Getting Started
+### Get started in seconds
 
-1. **Select What to Delete**
-   Drag and drop or click to select the files or folders to remove
+1. **Select the folder or files**  
+   Add the items you intend to remove by drag-and-drop or manual selection.
 
-2. **Verify the Target**
-   Review the listed paths to confirm no unintended items are included
+2. **Confirm the target**  
+   Review the path list carefully before running a permanent cleanup.
 
-3. **Execute Deletion**
-   Click Start and watch real-time progress as files are swiftly removed
+3. **Execute the deletion**  
+   Start the operation and watch progress complete with far less waiting.
 
 <br>
 
-[⬇️ Download from Microsoft Store](https://apps.microsoft.com/detail/9NFTW7D786CZ){.vp-button.brand}
-[📧 Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+## Download
+
+[Download from Microsoft Store](https://apps.microsoft.com/detail/9NFTW7D786CZ){.vp-button.brand}
+
+[Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+

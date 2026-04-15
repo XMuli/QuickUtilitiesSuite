@@ -1,17 +1,16 @@
 # Quick DefenderToggle
-## 快速·Defender 开关
 
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <img src="/images/quick-logo/Quick DefenderToggle.svg" alt="Quick DefenderToggle" style="width: 96px; height: 96px;" />
 </div>
 
-**快速控制系统防护，高级操作更便捷。**
+**在受控前提下，为高级 Windows 工作流提供更直接的防护状态管理。**
 
 ---
 
-### 为高级用户提供更多控制
+### 控制应当明确，而不是绕路
 
-需要暂时关闭 Windows Defender 进行某些操作？Quick DefenderToggle 让你快速开启或关闭系统内置防病毒功能 (Microsoft Defender Antivirus)，适用于软件开发、系统调试等需要暂时关闭防护的场景。
+Quick DefenderToggle 面向高级用户、IT 管理员和实验环境，帮助你在确有需要时更高效地调整 Microsoft Defender 状态。相比层层进入系统管理界面，它让状态查看与操作执行更集中、更清晰。
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick DefenderToggle.png" alt="Quick DefenderToggle 界面截图"
@@ -21,72 +20,53 @@
 
 ---
 
-### 核心功能
+### 为什么资深用户会使用它
 
-**三种控制模式**
-- STOP：完全停止 Defender
-- START：启动 Defender（Windows 自动管理）
-- FORCE ENABLE：强制启用 Defender
+**三种实用控制模式**  
+支持 STOP、START 与 FORCE ENABLE，覆盖常见的临时管理需求。
 
-**实时状态反馈**
-清晰显示当前 Defender 的运行状态，操作结果一目了然。
+**状态反馈更明确**  
+在执行前后都能清楚看到当前保护状态，避免结果不确定。
 
-**详细操作日志**
-记录每一步操作，方便追踪和问题排查。
+**适合行政级工作流**  
+在测试、部署、兼容性验证等受控操作中更节省时间。
 
 ---
 
-### 为什么选择 Quick DefenderToggle
+### 它适合出现在哪些环境
 
-**比手动操作更快**
-无需进入组策略编辑器或注册表，一键完成操作。
+**软件测试与实验室**  
+在打包、兼容性验证和隔离测试流程中减少不必要的跳转。
 
-**操作更安全**
-通过标准的组策略方式控制，不会破坏系统设置。
+**IT 运维**  
+在受控部署或维护场景下，更高效地完成临时环境调整。
 
-**状态更清晰**
-实时显示 Defender 状态，避免不确定性。
-
----
-
-### 使用场景
-
-**软件开发者**
-开发或测试软件时暂时关闭 Defender，避免误报或性能影响。
-
-**系统管理员**
-批量部署软件或配置系统时临时关闭防护，提高效率。
-
-**高级用户**
-进行系统优化、清理或特殊操作时需要暂时关闭防护。
+**经验型 Windows 用户**  
+把系统控制能力保留在更直接的入口里。
 
 ---
 
 ### 快速开始
 
-1. **以管理员身份运行**
-   右键点击程序，选择"以管理员身份运行"
+1. **以管理员身份运行**  
+   使用提升权限启动工具，确保防护状态操作可以正确执行。
 
-2. **选择操作**
-   选择 STOP、START 或 FORCE ENABLE
+2. **选择需要的模式**  
+   根据当前任务选择 STOP、START 或 FORCE ENABLE。
 
-3. **执行操作**
-   点击执行，查看操作结果和状态
+3. **任务完成后及时恢复**  
+   确认执行结果，并在工作结束后尽快恢复到合适的防护状态。
 
 ---
 
-### 重要提示
+### 安全提示
 
-> **安全警告**
-> 关闭 Windows Defender 会降低系统安全性。请仅在必要时使用，操作完成后及时重新启用防护。
-
-> **管理员权限**
-> 此工具需要管理员权限才能运行。
+> 关闭 Windows Defender 会降低设备的防护能力。请仅在受控场景中使用，并在操作完成后及时恢复防护。
 
 <br>
 
 ## Download
 
-[⬇️ 立即前往微软商店下载安装](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
+[前往 Microsoft Store 下载](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
 
-[📧 联系商业团队反馈支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+[联系商业支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

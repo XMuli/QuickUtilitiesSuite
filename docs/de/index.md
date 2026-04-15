@@ -21,6 +21,11 @@ hero:
       link: https://github.com/XMuli/QuickUtilitiesSuite/issues
 
 features:
+  - title: Quick BrightnessSync 🔥
+    details: Echte Hardware-Helligkeitssynchronisation mit einem Klick für mehrere Monitore (DDC/CI). Verabschieden Sie sich von der Einzelanpassung der Displays.
+    icon:
+      light: /images/quick-logo/Quick%20BrightnessSync.svg
+      dark: /images/quick-logo/Quick%20BrightnessSync.svg
   - title: Quick ColorPicker
     details: Präzise Farbauswahl von jedem Bildschirmbereich mit Ausgabe in mehreren Formaten.
     icon:

@@ -1,111 +1,72 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "Quick Utilities Suite"
-  text: "Quick Utilities Suite"
-  tagline: Professional system enhancement suite for multi-display and bulk-processing
+  text: "Professional Windows Utilities"
+  tagline: "A curated toolkit for sharper multi-monitor control, faster file work, and smoother desktop execution."
   image:
     src: /home_page/home_page.png
-    alt: Quick Utilities Suite logo
+    alt: Quick Utilities Suite
   actions:
     - theme: brand
-      text: Microsoft Store ↓
+      text: Download on Microsoft Store
       link: https://apps.microsoft.com/detail/9PGNXC5HJMCV
-    - theme: alt
-      text: Contact & Feedback
-      link: https://github.com/XMuli/QuickUtilitiesSuite/issues
     - theme: alt
       text: GitHub Releases
       link: https://github.com/XMuli/QuickUtilitiesSuite/releases
+    - theme: alt
+      text: Feedback & Support
+      link: https://github.com/XMuli/QuickUtilitiesSuite/issues
 
 features:
-  - title: Quick BrightnessSync 🔥
-    details: One-click true hardware brightness sync for multiple monitors (DDC/CI). Say goodbye to adjusting displays one by one.
+  - title: Quick BrightnessSync
+    details: Real hardware brightness control for external monitors through one unified workflow.
     icon:
-      light: /images/home_features/QuickBrightnessSync.svg
-      dark: /images/home_features/QuickBrightnessSync.svg
+      light: /images/quick-logo/Quick%20BrightnessSync.svg
+      dark: /images/quick-logo/Quick%20BrightnessSync.svg
+  - title: Quick ColorPicker
+    details: Capture precise on-screen colors for design, implementation, and visual QA work.
+    icon:
+      light: /images/home_features/QuickColorPicker.svg
+      dark: /images/home_features/QuickColorPicker.svg
   - title: Quick AlwaysOnTop
-    details: Pin any important window to the front with one click—multitask with ease.
+    details: Keep reference windows visible while the rest of your desktop keeps moving.
     icon:
       light: /images/home_features/QuickAlwaysOnTop.svg
       dark: /images/home_features/QuickAlwaysOnTop.svg
   - title: Quick WindowInspector
-    details: Inspect any window's details instantly—debug and develop more efficiently.
-    icon: 
+    details: Surface the window details you need without the complexity of heavier inspection tools.
+    icon:
       light: /images/home_features/QuickWindowInspector.svg
-      dark:  /images/home_features/QuickWindowInspector.svg
+      dark: /images/home_features/QuickWindowInspector.svg
   - title: Quick BulkFileCopy
-    details: High-speed copy of large numbers of small files—several times faster than the OS. Perfect for massive projects.
+    details: Move high file-count folders faster, with clearer progress and post-copy verification.
     icon:
       light: /images/home_features/QuickBulkFileCopy.svg
       dark: /images/home_features/QuickBulkFileCopy.svg
   - title: Quick BulkFileDelete
-    details: Blazing-fast deletion of huge folders—save precious time and eliminate system freezes.
+    details: Remove oversized folders more efficiently and keep cleanup from interrupting the day.
     icon:
       light: /images/home_features/QuickBulkFileDelete.svg
       dark: /images/home_features/QuickBulkFileDelete.svg
   - title: Quick DefenderToggle
-    details: Quickly toggle system protection on or off—advanced operations made simple.
+    details: Give advanced Windows workflows a more direct way to manage Defender state when policy allows it.
     icon:
       light: /images/home_features/QuickDefenderToggle.svg
       dark: /images/home_features/QuickDefenderToggle.svg
-  - title: Quick SnapTranslate
-    details: One-click screenshot, OCR, and translation—work across languages effortlessly.
-    icon: 
-      light: /images/home_features/QuickSnapTranslate.svg
-      dark:  /images/home_features/QuickSnapTranslate.svg
   - title: Quick SnapOCR
-    details: One-click screenshot OCR—instantly extract and copy text from images, webpages, or documents.
-    icon: 
+    details: Extract text from screenshots, webpages, and documents without rebuilding the content by hand.
+    icon:
       light: /images/home_features/QuickSnapOCR.svg
-      dark:  /images/home_features/QuickSnapOCR.svg
-  - title: Quick ColorPicker
-    details: Precisely pick any on-screen color with multiple format output.
-    icon: 
-      light: /images/home_features/QuickColorPicker.svg
-      dark:  /images/home_features/QuickColorPicker.svg
+      dark: /images/home_features/QuickSnapOCR.svg
+  - title: Quick SnapTranslate
+    details: Capture, recognize, and translate text from the screen in one uninterrupted flow.
+    icon:
+      light: /images/home_features/QuickSnapTranslate.svg
+      dark: /images/home_features/QuickSnapTranslate.svg
 ---
 
-## Why Choose Quick Utilities Suite?
+## Built for serious Windows workflows
 
-<div class="comparison-section">
-  <div class="comparison-card">
-    <h3>The Old Way ❌</h3>
-    <p>Manually pressing physical buttons to adjust the brightness on 3 different monitors.</p>
-    <p>Waiting forever for Windows to copy 100,000 small project files.</p>
-  </div>
-  <div class="comparison-card success">
-    <h3>The Quick Utilities Way ✅</h3>
-    <p><strong>One-click perfectly synced hardware brightness</strong> across all your screens.</p>
-    <p><strong>Blazing-fast bulk copying</strong> utilizing maximum I/O bandwidth.</p>
-  </div>
-</div>
-
-> **Note on BrightnessSync:** This feature relies on the DDC/CI protocol to directly control monitor hardware. Compatibility may vary depending on your specific monitors and certain budget USB-C hubs/docks. 
-
-<style>
-.comparison-section {
-  display: flex;
-  gap: 20px;
-  margin: 40px 0;
-  flex-wrap: wrap;
-}
-.comparison-card {
-  flex: 1;
-  min-width: 300px;
-  padding: 24px;
-  border-radius: 12px;
-  background-color: var(--vp-c-bg-soft);
-  border: 1px solid var(--vp-c-border);
-}
-.comparison-card.success {
-  border-color: var(--vp-c-brand);
-  background-color: var(--vp-c-brand-dimm);
-}
-.comparison-card h3 {
-  margin-top: 0;
-  font-weight: bold;
-}
-</style> 
+Quick Utilities Suite focuses on the friction points that slow down modern desktop work: uneven monitor control, repetitive file operations, scattered utility apps, and slower cross-language handling. Each tool is designed to stay practical, lightweight, and ready when work gets busy.

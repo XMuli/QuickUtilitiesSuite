@@ -4,88 +4,69 @@
   <img src="/images/quick-logo/Quick DefenderToggle.svg" alt="Quick DefenderToggle" style="width: 96px; height: 96px;" />
 </div>
 
-**Quickly control system protection for advanced operations.**
+**Give advanced Windows workflows a faster way to manage real-time protection when policy allows it.**
 
 ---
 
-### More Control for Power Users
+### Control that is direct and deliberate
 
-Need to temporarily disable Windows Defender for specific tasks? Quick DefenderToggle lets you quickly enable or disable the built-in Microsoft Defender Antivirus, ideal for software development, system debugging, and other scenarios where temporary suspension of real-time protection is necessary.
+Quick DefenderToggle helps advanced users, IT staff, and lab environments change Microsoft Defender status more efficiently when a workflow requires it. Instead of navigating multiple administrative layers, you can review state clearly and apply the action you need from one focused utility.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick DefenderToggle.png" alt="Quick DefenderToggle Screenshot"
+  <img src="/images/snapshoot/Quick DefenderToggle.png" alt="Quick DefenderToggle screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
   <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick DefenderToggle · Interface Preview</p>
 </div>
 
 ---
 
-### Key Features
+### Why power users adopt it
 
-**Three Control Modes**
-- STOP: Completely stop Defender
-- START: Start Defender (Windows manages automatically)
-- FORCE ENABLE: Force Defender to enable
+**Three practical control modes**  
+Switch between STOP, START, and FORCE ENABLE depending on the operation you need to complete.
 
-**Real-Time Status Feedback**
-Clearly displays the current operational state of Defender, making the result of each action immediately visible.
+**Clear state visibility**  
+Review the current protection status before and after changes so the result is never ambiguous.
 
-**Detailed Operation Logs**
-Records every step for easy tracking and troubleshooting.
+**Made for administrative workflows**  
+Useful when testing, deployment, or specialized compatibility work requires a temporary change.
 
 ---
 
-### Why Choose Quick DefenderToggle
+### Where it belongs
 
-**Faster Than Manual Methods**
-No need to navigate Group Policy Editor or Registry Editor — accomplish the task with a single click.
+**Software labs and testing**  
+Reduce friction during packaging, compatibility checks, or isolated validation workflows.
 
-**Safer Operation**
-Uses standard Group Policy mechanisms to control Defender without damaging system settings.
+**IT operations**  
+Handle temporary environment changes more quickly during controlled deployment or maintenance tasks.
 
-**Clear Status Display**
-Real-time status updates eliminate uncertainty about whether Defender is active or disabled.
-
----
-
-### Use Cases
-
-**Software Developers**
-Temporarily disable Defender during development or testing to avoid false positives or performance impacts.
-
-**System Administrators**
-Suspend protection temporarily during bulk software deployment or system configuration to improve efficiency.
-
-**Power Users**
-Disable protection for system optimization, cleanup, or specialized operations that may trigger false alarms.
+**Experienced Windows users**  
+Keep system control accessible without digging through multiple administrative tools.
 
 ---
 
-### Getting Started
+### Get started in seconds
 
-1. **Run as Administrator**
-   Right-click the program and select "Run as administrator"
+1. **Run as administrator**  
+   Open the tool with elevated permissions so Defender operations can be applied correctly.
 
-2. **Choose an Action**
-   Select STOP, START, or FORCE ENABLE
+2. **Choose the required mode**  
+   Select STOP, START, or FORCE ENABLE based on your task.
 
-3. **Execute the Operation**
-   Click Execute and review the operation result and status
+3. **Confirm and restore when finished**  
+   Review the result and return protection to the desired state as soon as the task is complete.
 
 ---
 
-### Important Notice
+### Security note
 
-> **Security Warning**
-> Disabling Windows Defender reduces system security. Use this tool only when necessary and re-enable protection immediately after completing your task.
-
-> **Administrator Privileges Required**
-> This tool requires administrator privileges to function.
+> Disabling Windows Defender reduces protection on the device. Use Quick DefenderToggle only in controlled scenarios and re-enable protection promptly after the task is complete.
 
 <br>
 
 ## Download
 
-[⬇️ Download from Microsoft Store](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
+[Download from Microsoft Store](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
 
-[📧 Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+[Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

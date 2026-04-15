@@ -70,3 +70,4 @@ Change a full monitor wall quickly as ambient light shifts during the day.
 [Download from Microsoft Store](https://apps.microsoft.com/detail/9P90PPWL7VDJ){.vp-button.brand}
 
 [Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+

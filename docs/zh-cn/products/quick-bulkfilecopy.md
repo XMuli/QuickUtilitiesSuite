@@ -1,17 +1,16 @@
 # Quick BulkFileCopy
-## 快速·批量文件复制
 
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <img src="/images/quick-logo/Quick BulkFilecopy.svg" alt="Quick BulkFileCopy" style="width: 96px; height: 96px;" />
 </div>
 
-**高速复制大量小文件，节省等待时间。**
+**面对海量零碎文件，也能用更专业的速度完成复制。**
 
 ---
 
-### 让文件复制不再漫长
+### 为重度文件操作而优化
 
-复制 node_modules 文件夹需要等待几分钟？Quick BulkFileCopy 专为处理大量小文件而优化，速度比系统自带复制快数倍，大幅节省宝贵的等待时间。拖放操作，实时进度，自动校验，让文件复制变得简单高效。
+当 Windows 资源管理器成为等待的来源时，Quick BulkFileCopy 提供了更适合高文件数量目录的复制体验。无论是依赖树、构建产物、软件包还是素材目录，都能以更清晰、更可靠、更节省时间的方式完成传输。
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick BulkFileCopy.png" alt="Quick BulkFileCopy 界面截图"
@@ -21,60 +20,47 @@
 
 ---
 
-### 核心功能
+### 它为什么更像专业工具
 
-**极速复制算法**
-专门优化处理包含大量小文件的目录，如 node_modules、.git 等。复制速度明显快于系统自带功能。
+**针对高文件数量目录优化**  
+面对 `node_modules`、`vendor`、缓存目录和生成资源时表现更高效。
 
-**智能校验机制**
-复制完成后自动对比源文件和目标文件，确保数据完整性，让你放心使用。
+**复制后自动校验完整性**  
+在速度之外，进一步确认目标内容与源文件保持一致。
 
-**友好的操作体验**
-支持拖放操作，实时显示复制进度和日志，历史路径记录，让重复操作更便捷。
-
----
-
-### 为什么选择 Quick BulkFileCopy
-
-**节省宝贵时间**
-系统复制 node_modules 需要 5 分钟？Quick BulkFileCopy 可能只需要 1 分钟。
-
-**确保数据安全**
-自动校验功能确保复制的文件与源文件完全一致，避免数据损坏或丢失。
-
-**操作更简单**
-拖放即可开始复制，无需复杂设置，历史记录让重复操作一键完成。
+**操作简单，但结果更可控**  
+拖拽、进度反馈和路径历史让重复复制任务更顺手。
 
 ---
 
-### 使用场景
+### 适合哪些团队和任务
 
-**开发者**
-快速备份或迁移项目文件，尤其是包含大量依赖的 node_modules、vendor 等目录。
+**开发团队**  
+快速复制项目目录、依赖树、测试副本和交付包。
 
-**IT 管理员**
-批量部署软件或配置文件到多台电脑，提高工作效率。
+**IT 部署与交付**  
+更高效地准备软件载荷、配置目录与分发文件。
 
-**内容创作者**
-备份包含大量素材文件的项目文件夹，确保数据安全。
+**内容与媒体工作流**  
+迁移素材密集型文件夹时保留对结果的信心。
 
 ---
 
 ### 快速开始
 
-1. **选择源文件夹**
-   拖放或点击选择要复制的文件夹
+1. **选择源目录**  
+   拖入需要复制的文件夹，或手动浏览指定路径。
 
-2. **选择目标位置**
-   指定复制到哪里
+2. **设置目标位置**  
+   指定要写入的目标目录。
 
-3. **开始复制**
-   点击开始，实时查看进度，完成后自动校验
+3. **执行并校验**  
+   开始复制，查看进度，并让完整性校验确认结果。
 
 <br>
 
 ## Download
 
-[⬇️ 立即前往微软商店下载安装](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
+[前往 Microsoft Store 下载](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
 
-[📧 联系商业团队反馈支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+[联系商业支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

@@ -21,6 +21,11 @@ hero:
       link: https://github.com/XMuli/QuickUtilitiesSuite/issues
 
 features:
+  - title: Quick BrightnessSync 🔥
+    details: 다중 모니터를 위한 원클릭 실제 하드웨어 밝기 동기화 (DDC/CI). 화면을 하나씩 조정하는 것과 작별하세요.
+    icon:
+      light: /images/quick-logo/Quick%20BrightnessSync.svg
+      dark: /images/quick-logo/Quick%20BrightnessSync.svg
   - title: Quick ColorPicker
     details: 다양한 형식으로 화면의 모든 색상을 정밀하게 추출합니다.
     icon:

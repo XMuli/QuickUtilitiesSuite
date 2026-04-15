@@ -21,6 +21,11 @@ hero:
       link: https://github.com/XMuli/QuickUtilitiesSuite/issues
 
 features:
+  - title: Quick BrightnessSync 🔥
+    details: مزامنة حقيقية لسطوع الأجهزة بنقرة واحدة لشاشات متعددة (DDC/CI). قل وداعًا لضبط الشاشات واحدة تلو الأخرى.
+    icon:
+      light: /images/quick-logo/Quick%20BrightnessSync.svg
+      dark: /images/quick-logo/Quick%20BrightnessSync.svg
   - title: Quick ColorPicker
     details: التقاط ألوان دقيقة من أي مكان على الشاشة مع إخراج بتنسيقات متعددة.
     icon:

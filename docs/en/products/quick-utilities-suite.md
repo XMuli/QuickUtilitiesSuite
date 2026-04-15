@@ -4,88 +4,64 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**An all-in-one professional toolkit — double your productivity.**
+**A curated suite of focused Windows utilities for teams that want smoother everyday execution.**
 
 ---
 
-### One Toolkit, Every Need Covered
+### One suite, less operational friction
 
-Quick Utilities Suite integrates a curated collection of professional tools covering screen color picking, file management, screenshot translation, window management, and other common workflows. Unified interface and settings make your work process smoother and more efficient.
+Quick Utilities Suite brings together practical utilities for display control, window management, file-intensive work, on-screen color capture, and screenshot translation. Instead of collecting disconnected tools, you get a more consistent experience with one product family built around fast access and dependable daily use.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite Screenshot"
+  <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
   <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick Utilities Suite · Interface Preview</p>
 </div>
 
 ---
 
-### Included Tools
+### What the suite brings together
 
-**Quick ColorPicker - Screen Color Picker**
-Precisely capture colors from anywhere on your screen with support for multiple output formats.
+**A focused set of workflow tools**  
+Includes Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker.
 
-**Quick BulkFileCopy - Bulk File Copy**
-High-speed copying of large numbers of small files — several times faster than the built-in system utility.
+**A more unified experience**  
+Tray access, familiar interaction patterns, and shared product language reduce the friction of switching tools.
 
-**Quick BulkFileDelete - Bulk File Delete**
-Blazing-fast deletion of massive directories, saving valuable time.
-
-**Quick SnapTranslate - Screenshot Translator**
-Capture, recognize, and translate text in one click for effortless cross-language work.
-
-**Quick WindowInspector - Window Inspector**
-Retrieve detailed information about any window for more efficient debugging and development.
-
-**Quick AlwaysOnTop - Always On Top**
-Pin critical windows to the front with a single keystroke for more confident multitasking.
-
-**Quick DefenderToggle - Defender Toggle**
-Quickly control system protection for more convenient advanced operations.
+**Stronger value than buying ad hoc utilities**  
+Adopt a compact toolset that supports daily productivity without the overhead of managing many separate apps.
 
 ---
 
-### Why Choose the Full Suite
+### Who it is built for
 
-**Better Value**
-Purchasing the full suite saves over 50% compared to buying each tool individually.
+**Developers and technical teams**  
+Support coding, debugging, cleanup, capture, and translation workflows from a single toolkit.
 
-**Unified Experience**
-All tools share settings and hotkey configurations, reducing the learning curve.
+**IT and operations**  
+Handle repetitive Windows tasks with utilities that are faster to access and easier to repeat.
 
-**One-Stop Solution**
-No need to install multiple applications — one toolkit meets all your needs.
-
-**Continuous Updates**
-Purchase once and enjoy ongoing updates and new features for all tools.
+**Power users and professional desktops**  
+Keep a serious workstation responsive with utilities that solve common friction points cleanly.
 
 ---
 
-### Who It's For
+### Get started in seconds
 
-**Designers and Developers**
-Color picking, screenshot translation, window debugging — essential tools for design and development work.
+1. **Install the suite**  
+   Deploy from Microsoft Store and open the tray-based launcher.
 
-**IT Administrators**
-File management and system control to improve operational efficiency.
+2. **Choose the utilities you use most**  
+   Configure shortcuts and keep the tools you rely on ready for immediate access.
 
-**Efficiency Seekers**
-Multitasking and rapid operations to make work more productive.
-
----
-
-### Getting Started
-
-1. **Install and Launch**
-   Run the installer — the toolkit automatically resides in the system tray
-
-2. **Configure Hotkeys**
-   Set global hotkeys for each tool in the settings panel
-
-3. **Start Using**
-   Launch any tool quickly via hotkeys or the tray menu
+3. **Build a smoother desktop routine**  
+   Bring file, window, screen, and translation tasks into one coherent working setup.
 
 <br>
 
-[⬇️ Download from Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
-[📧 Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+## Download
+
+[Download from Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
+
+[Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+
