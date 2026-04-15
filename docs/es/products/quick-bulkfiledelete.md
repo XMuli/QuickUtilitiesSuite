@@ -70,19 +70,7 @@ Elimina paquetes de instalación grandes, carpetas de respaldo obsoletas y otros
 3. **Ejecuta la eliminación**
    Haz clic en Iniciar y observa el progreso en tiempo real mientras los archivos se eliminan rápidamente
 
----
+<br>
 
-### Pruébalo gratis
-
-**Prueba gratuita de 30 días**
-Experimenta la velocidad de eliminación de archivos de nivel profesional
-
-[Descargar ahora](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [Ver precios](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [Documentación](https://apps.microsoft.com/detail/9NFTW7D786CZ)
-
----
-
-### ¿Necesitas ayuda?
-
-- **Documentación**: [Ver guía de usuario completa](#)
-- **Comentarios**: [Enviar un problema o sugerencia](#)
-- **Contáctanos**: xmulitech@gmail.com
+[⬇️ Descargar desde Microsoft Store](https://apps.microsoft.com/detail/9NFTW7D786CZ){.vp-button.brand}
+[📧 Contactar con soporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

@@ -73,20 +73,7 @@
 3. **عرض النتائج**
    يتم التعرف على النص وترجمته تلقائياً — يمكن نسخ النتائج أو حفظها أو تثبيتها على الشاشة
 
----
+<br>
 
-### جرّبه مجاناً
-
-**تجربة مجانية لمدة 30 يوماً**
-اختبر سهولة التعرف والترجمة الذكية
-
-[تحميل الآن](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [عرض الأسعار](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [التوثيق](https://apps.microsoft.com/detail/9NJJX8KCGVN9)
-
----
-
-### هل تحتاج مساعدة؟
-
-- **التوثيق**: [عرض دليل المستخدم الكامل](#)
-- **تكوين API**: [كيفية تكوين Tencent Cloud API](#)
-- **الملاحظات**: [تقديم مشكلة أو اقتراح](#)
-- **تواصل معنا**: xmulitech@gmail.com
+[⬇️ التنزيل من Microsoft Store](https://apps.microsoft.com/detail/9NJJX8KCGVN9){.vp-button.brand}
+[📧 اتصل بالدعم التجاري للتعليقات](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

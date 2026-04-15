@@ -70,19 +70,7 @@ Keep your meeting window on top while handling other tasks without missing impor
 3. **Unpin When Done**
    Press the hotkey again to release the window from the top position
 
----
+<br>
 
-### Try It Free
-
-**30-Day Free Trial**
-Experience seamless window management at no cost
-
-[Download Now](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [View Pricing](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [Documentation](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
-
----
-
-### Need Help?
-
-- **Documentation**: [View Full User Guide](#)
-- **Feedback**: [Submit an Issue or Suggestion](#)
-- **Contact Us**: xmulitech@gmail.com
+[⬇️ Download from Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
+[📧 Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

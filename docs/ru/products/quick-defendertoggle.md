@@ -82,19 +82,7 @@
 > **Требуются права администратора**
 > Для работы этого инструмента необходимы права администратора.
 
----
+<br>
 
-### Попробуйте бесплатно
-
-**30-дневная бесплатная пробная версия**
-Оцените удобное управление системой
-
-[Скачать](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [Цены](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [Документация](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
-
----
-
-### Нужна помощь?
-
-- **Документация**: [Полное руководство пользователя](#)
-- **Обратная связь**: [Отправить отзыв или предложение](#)
-- **Связаться с нами**: xmulitech@gmail.com
+[⬇️ Скачать из Microsoft Store](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
+[📧 Обратиться в коммерческую поддержку](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

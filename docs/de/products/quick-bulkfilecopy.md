@@ -70,19 +70,7 @@ Projektordner mit großen Mengen an Mediendateien sicher sichern, um Datensicher
 3. **Kopieren starten**
    Start klicken, Echtzeit-Fortschritt verfolgen und die automatische Überprüfung bestätigt einen erfolgreichen Transfer
 
----
+<br>
 
-### Kostenlos testen
-
-**30-Tage-Testversion**
-Erleben Sie den Geschwindigkeitsunterschied selbst
-
-[Jetzt herunterladen](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [Preise anzeigen](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [Dokumentation](https://apps.microsoft.com/detail/9P0MCT80QQTL)
-
----
-
-### Hilfe benötigt?
-
-- **Dokumentation**: [Vollständige Benutzeranleitung anzeigen](#)
-- **Feedback**: [Problem oder Vorschlag einreichen](#)
-- **Kontakt**: xmulitech@gmail.com
+[⬇️ Im Microsoft Store herunterladen](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
+[📧 Kontaktieren Sie den kommerziellen Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

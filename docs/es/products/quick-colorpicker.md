@@ -70,19 +70,7 @@ Extrae inspiración de color de tus imágenes, sitios web y aplicaciones favorit
 3. **Captura el color**
    Haz clic o pulsa la barra espaciadora para copiar el valor del color directamente al portapapeles
 
----
+<br>
 
-### Pruébalo gratis
-
-**Prueba gratuita de 30 días**
-Funcionalidad completa sin restricciones
-
-[Descargar ahora](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [Ver precios](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [Documentación](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
-
----
-
-### ¿Necesitas ayuda?
-
-- **Documentación**: [Ver guía de usuario completa](#)
-- **Comentarios**: [Enviar un problema o sugerencia](#)
-- **Contáctanos**: xmulitech@gmail.com
+[⬇️ Descargar desde Microsoft Store](https://apps.microsoft.com/detail/9N2XV7TJTN2J){.vp-button.brand}
+[📧 Contactar con soporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

@@ -70,19 +70,7 @@ Consulta la información de ventanas de aplicaciones para localizar programas o 
 3. **Consulta la información**
    Los detalles de la ventana se muestran automáticamente, con un borde resaltado identificando la ventana objetivo
 
----
+<br>
 
-### Pruébalo gratis
-
-**Prueba gratuita de 30 días**
-Experimenta una herramienta profesional de inspección de ventanas
-
-[Descargar ahora](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [Ver precios](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [Documentación](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
-
----
-
-### ¿Necesitas ayuda?
-
-- **Documentación**: [Ver guía de usuario completa](#)
-- **Comentarios**: [Enviar un problema o sugerencia](#)
-- **Contáctanos**: xmulitech@gmail.com
+[⬇️ Descargar desde Microsoft Store](https://apps.microsoft.com/detail/9N8MVQV88Z2T){.vp-button.brand}
+[📧 Contactar con soporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

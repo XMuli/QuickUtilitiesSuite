@@ -70,19 +70,7 @@
 3. **Выполните удаление**
    Нажмите «Старт» и наблюдайте за прогрессом в реальном времени
 
----
+<br>
 
-### Попробуйте бесплатно
-
-**30-дневная бесплатная пробная версия**
-Оцените скорость профессионального удаления файлов
-
-[Скачать](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [Цены](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [Документация](https://apps.microsoft.com/detail/9NFTW7D786CZ)
-
----
-
-### Нужна помощь?
-
-- **Документация**: [Полное руководство пользователя](#)
-- **Обратная связь**: [Отправить отзыв или предложение](#)
-- **Связаться с нами**: xmulitech@gmail.com
+[⬇️ Скачать из Microsoft Store](https://apps.microsoft.com/detail/9NFTW7D786CZ){.vp-button.brand}
+[📧 Обратиться в коммерческую поддержку](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

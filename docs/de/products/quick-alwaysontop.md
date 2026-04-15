@@ -70,19 +70,7 @@ Ihr Meeting-Fenster im Vordergrund halten, während Sie andere Aufgaben erledige
 3. **Fixierung aufheben**
    Tastenkürzel erneut drücken, um das Fenster aus der Vordergrundposition zu lösen
 
----
+<br>
 
-### Kostenlos testen
-
-**30-Tage-Testversion**
-Erleben Sie nahtloses Fenstermanagement kostenlos
-
-[Jetzt herunterladen](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [Preise anzeigen](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [Dokumentation](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
-
----
-
-### Hilfe benötigt?
-
-- **Dokumentation**: [Vollständige Benutzeranleitung anzeigen](#)
-- **Feedback**: [Problem oder Vorschlag einreichen](#)
-- **Kontakt**: xmulitech@gmail.com
+[⬇️ Im Microsoft Store herunterladen](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
+[📧 Kontaktieren Sie den kommerziellen Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

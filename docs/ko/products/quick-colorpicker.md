@@ -70,19 +70,7 @@ UI 디버깅 시 정확한 요소 색상을 캡처하여 구현이 디자인 사
 3. **색상 캡처**
    클릭하거나 스페이스바를 눌러 색상 값을 클립보드에 직접 복사합니다
 
----
+<br>
 
-### 무료 체험
-
-**30일 무료 체험**
-제한 없이 전체 기능을 사용할 수 있습니다
-
-[지금 다운로드](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [가격 보기](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [문서](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
-
----
-
-### 도움이 필요하신가요?
-
-- **문서**: [전체 사용자 가이드 보기](#)
-- **피드백**: [이슈 또는 제안 제출](#)
-- **문의하기**: xmulitech@gmail.com
+[⬇️ Microsoft Store에서 다운로드](https://apps.microsoft.com/detail/9N2XV7TJTN2J){.vp-button.brand}
+[📧 상업용 지원팀에 문의](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

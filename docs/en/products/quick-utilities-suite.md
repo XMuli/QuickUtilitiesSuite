@@ -85,31 +85,7 @@ Multitasking and rapid operations to make work more productive.
 3. **Start Using**
    Launch any tool quickly via hotkeys or the tray menu
 
----
+<br>
 
-### Try It Free
-
-**30-Day Free Trial**
-Experience the complete all-in-one toolkit
-
-[Download Now](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [View Pricing](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Documentation](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
-
-**Special Offer**
-Purchase the full suite and save over 50% compared to buying tools individually
-
----
-
-### Need Help?
-
-- **Documentation**: [View Full User Guide](#)
-- **Video Tutorials**: [Watch Feature Demos](#)
-- **Feedback**: [Submit an Issue or Suggestion](#)
-- **Contact Us**: xmulitech@gmail.com
-
----
-
-### Enterprise Licensing
-
-Volume licenses and custom services available for enterprise customers.
-
-[Contact Sales](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Enterprise Plans](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
+[⬇️ Download from Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
+[📧 Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

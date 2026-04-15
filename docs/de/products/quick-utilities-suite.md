@@ -85,31 +85,7 @@ Multitasking und schnelle Operationen für produktiveres Arbeiten.
 3. **Loslegen**
    Jedes Werkzeug schnell über Tastenkürzel oder das Taskleistenmenü starten
 
----
+<br>
 
-### Kostenlos testen
-
-**30-Tage-Testversion**
-Erleben Sie das komplette All-in-One-Toolkit
-
-[Jetzt herunterladen](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Preise anzeigen](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Dokumentation](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
-
-**Sonderangebot**
-Das Gesamtpaket kaufen und über 50 % sparen im Vergleich zum Einzelkauf der Werkzeuge
-
----
-
-### Hilfe benötigt?
-
-- **Dokumentation**: [Vollständige Benutzeranleitung anzeigen](#)
-- **Video-Tutorials**: [Feature-Demos ansehen](#)
-- **Feedback**: [Problem oder Vorschlag einreichen](#)
-- **Kontakt**: xmulitech@gmail.com
-
----
-
-### Unternehmenslizenzen
-
-Volumenlizenzen und individuelle Dienstleistungen für Unternehmenskunden verfügbar.
-
-[Vertrieb kontaktieren](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Unternehmenspläne](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
+[⬇️ Im Microsoft Store herunterladen](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
+[📧 Kontaktieren Sie den kommerziellen Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

@@ -73,20 +73,7 @@ Consultez la documentation technique étrangère, les messages d'erreur et les t
 3. **Consultez les résultats**
    Le texte est automatiquement reconnu et traduit — les résultats peuvent être copiés, enregistrés ou épinglés à l'écran
 
----
+<br>
 
-### Essai gratuit
-
-**Essai gratuit de 30 jours**
-Découvrez la commodité de la reconnaissance et traduction intelligentes
-
-[Télécharger maintenant](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [Voir les tarifs](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [Documentation](https://apps.microsoft.com/detail/9NJJX8KCGVN9)
-
----
-
-### Besoin d'aide ?
-
-- **Documentation** : [Consulter le guide utilisateur complet](#)
-- **Configuration API** : [Comment configurer l'API Tencent Cloud](#)
-- **Commentaires** : [Soumettre un problème ou une suggestion](#)
-- **Nous contacter** : xmulitech@gmail.com
+[⬇️ Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9NJJX8KCGVN9){.vp-button.brand}
+[📧 Contacter le support commercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

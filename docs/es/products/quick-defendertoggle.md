@@ -82,19 +82,7 @@ Desactiva la protección para optimización del sistema, limpieza u operaciones 
 > **Se requieren privilegios de administrador**
 > Esta herramienta requiere privilegios de administrador para funcionar.
 
----
+<br>
 
-### Pruébalo gratis
-
-**Prueba gratuita de 30 días**
-Experimenta un control del sistema conveniente
-
-[Descargar ahora](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [Ver precios](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [Documentación](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
-
----
-
-### ¿Necesitas ayuda?
-
-- **Documentación**: [Ver guía de usuario completa](#)
-- **Comentarios**: [Enviar un problema o sugerencia](#)
-- **Contáctanos**: xmulitech@gmail.com
+[⬇️ Descargar desde Microsoft Store](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
+[📧 Contactar con soporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

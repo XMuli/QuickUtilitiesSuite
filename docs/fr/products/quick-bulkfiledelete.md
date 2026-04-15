@@ -70,19 +70,7 @@ Videz les gros packages d'installation, les dossiers de sauvegarde obsolètes et
 3. **Exécutez la suppression**
    Cliquez sur Démarrer et observez la progression en temps réel pendant que les fichiers sont rapidement supprimés
 
----
+<br>
 
-### Essai gratuit
-
-**Essai gratuit de 30 jours**
-Découvrez la vitesse d'une suppression de fichiers de qualité professionnelle
-
-[Télécharger maintenant](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [Voir les tarifs](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [Documentation](https://apps.microsoft.com/detail/9NFTW7D786CZ)
-
----
-
-### Besoin d'aide ?
-
-- **Documentation** : [Consulter le guide utilisateur complet](#)
-- **Commentaires** : [Soumettre un problème ou une suggestion](#)
-- **Nous contacter** : xmulitech@gmail.com
+[⬇️ Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9NFTW7D786CZ){.vp-button.brand}
+[📧 Contacter le support commercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

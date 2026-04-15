@@ -85,31 +85,7 @@ Multitarefa e operacoes rapidas para tornar o trabalho mais produtivo.
 3. **Comece a Usar**
    Inicie qualquer ferramenta rapidamente pelos atalhos ou pelo menu da bandeja
 
----
+<br>
 
-### Experimente Gratuitamente
-
-**30 Dias de Teste Gratuito**
-Experimente o kit de ferramentas completo
-
-[Baixar agora](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Ver precos](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Documentacao](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
-
-**Oferta Especial**
-Adquira o suite completo e economize mais de 50% em comparacao com a compra individual das ferramentas
-
----
-
-### Precisa de Ajuda?
-
-- **Documentacao**: [Ver Guia Completo do Usuario](#)
-- **Tutoriais em Video**: [Assistir Demonstracoes de Recursos](#)
-- **Feedback**: [Enviar um Problema ou Sugestao](#)
-- **Contato**: xmulitech@gmail.com
-
----
-
-### Licenciamento Empresarial
-
-Licencas por volume e servicos personalizados disponiveis para clientes empresariais.
-
-[Contatar Vendas](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Planos Empresariais](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
+[⬇️ Baixar da Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
+[📧 Contatar o suporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

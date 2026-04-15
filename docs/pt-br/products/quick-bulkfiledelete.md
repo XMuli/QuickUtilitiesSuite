@@ -70,19 +70,7 @@ Limpe grandes pacotes de instaladores, pastas de backup obsoletas e outros acumu
 3. **Execute a Exclusao**
    Clique em Iniciar e acompanhe o progresso em tempo real enquanto os arquivos sao removidos rapidamente
 
----
+<br>
 
-### Experimente Gratuitamente
-
-**30 Dias de Teste Gratuito**
-Experimente a velocidade de exclusao de arquivos de nivel profissional
-
-[Baixar agora](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [Ver precos](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [Documentacao](https://apps.microsoft.com/detail/9NFTW7D786CZ)
-
----
-
-### Precisa de Ajuda?
-
-- **Documentacao**: [Ver Guia Completo do Usuario](#)
-- **Feedback**: [Enviar um Problema ou Sugestao](#)
-- **Contato**: xmulitech@gmail.com
+[⬇️ Baixar da Microsoft Store](https://apps.microsoft.com/detail/9NFTW7D786CZ){.vp-button.brand}
+[📧 Contatar o suporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

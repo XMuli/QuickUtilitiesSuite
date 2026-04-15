@@ -74,20 +74,10 @@
 3. **查看结果**
    自动识别文字并翻译，结果可复制、保存或钉在屏幕上
 
----
+<br>
 
-### 立即体验
+## Download
 
-**免费试用 30 天**
-体验智能识别和翻译的便捷
+[⬇️ 立即前往微软商店下载安装](https://apps.microsoft.com/detail/9NJJX8KCGVN9){.vp-button.brand}
 
-[立即下载](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [查看定价](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [使用文档](https://apps.microsoft.com/detail/9NJJX8KCGVN9)
-
----
-
-### 需要帮助？
-
-- **使用文档**: [查看完整使用指南](#)
-- **API 配置**: [如何配置腾讯云 API](#)
-- **问题反馈**: [提交问题或建议](#)
-- **联系我们**: xmulitech@gmail.com
+[📧 联系商业团队反馈支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

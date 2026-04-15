@@ -70,19 +70,7 @@ Extrayez l'inspiration colorimétrique de vos images, sites web et applications 
 3. **Capturez la couleur**
    Cliquez ou appuyez sur la barre d'espace pour copier la valeur de couleur directement dans votre presse-papiers
 
----
+<br>
 
-### Essai gratuit
-
-**Essai gratuit de 30 jours**
-Toutes les fonctionnalités sans aucune restriction
-
-[Télécharger maintenant](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [Voir les tarifs](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [Documentation](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
-
----
-
-### Besoin d'aide ?
-
-- **Documentation** : [Consulter le guide utilisateur complet](#)
-- **Commentaires** : [Soumettre un problème ou une suggestion](#)
-- **Nous contacter** : xmulitech@gmail.com
+[⬇️ Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9N2XV7TJTN2J){.vp-button.brand}
+[📧 Contacter le support commercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

@@ -70,19 +70,7 @@ Respalda de forma segura carpetas de proyectos con grandes volúmenes de recurso
 3. **Inicia la copia**
    Haz clic en Iniciar, monitorea el progreso en tiempo real y deja que la verificación automática confirme una transferencia exitosa
 
----
+<br>
 
-### Pruébalo gratis
-
-**Prueba gratuita de 30 días**
-Experimenta la diferencia de velocidad por ti mismo
-
-[Descargar ahora](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [Ver precios](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [Documentación](https://apps.microsoft.com/detail/9P0MCT80QQTL)
-
----
-
-### ¿Necesitas ayuda?
-
-- **Documentación**: [Ver guía de usuario completa](#)
-- **Comentarios**: [Enviar un problema o sugerencia](#)
-- **Contáctanos**: xmulitech@gmail.com
+[⬇️ Descargar desde Microsoft Store](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
+[📧 Contactar con soporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

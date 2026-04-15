@@ -70,19 +70,7 @@
 3. **بدء النسخ**
    انقر ابدأ، راقب التقدم الفوري، ودع التحقق التلقائي يؤكد نجاح النقل
 
----
+<br>
 
-### جرّبه مجاناً
-
-**تجربة مجانية لمدة 30 يوماً**
-اختبر فرق السرعة بنفسك
-
-[تحميل الآن](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [عرض الأسعار](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [التوثيق](https://apps.microsoft.com/detail/9P0MCT80QQTL)
-
----
-
-### هل تحتاج مساعدة؟
-
-- **التوثيق**: [عرض دليل المستخدم الكامل](#)
-- **الملاحظات**: [تقديم مشكلة أو اقتراح](#)
-- **تواصل معنا**: xmulitech@gmail.com
+[⬇️ التنزيل من Microsoft Store](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
+[📧 اتصل بالدعم التجاري للتعليقات](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

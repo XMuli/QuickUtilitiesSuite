@@ -70,19 +70,7 @@ Backup sicuro di cartelle di progetto contenenti grandi volumi di asset multimed
 3. **Avvia la Copia**
    Clicca Avvia, monitora il progresso in tempo reale e lascia che la verifica automatica confermi un trasferimento riuscito
 
----
+<br>
 
-### Prova Gratuita
-
-**Prova Gratuita di 30 Giorni**
-Sperimenta la differenza di velocità in prima persona
-
-[Scarica Ora](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [Vedi Prezzi](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [Documentazione](https://apps.microsoft.com/detail/9P0MCT80QQTL)
-
----
-
-### Hai Bisogno di Aiuto?
-
-- **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9P0MCT80QQTL)
-- **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: xmulitech@gmail.com
+[⬇️ Scarica dal Microsoft Store](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
+[📧 Contatta il supporto commerciale](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

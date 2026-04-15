@@ -73,20 +73,7 @@ Fremdsprachige technische Dokumentation, Fehlermeldungen und UI-Texte einsehen, 
 3. **Ergebnisse anzeigen**
    Text wird automatisch erkannt und übersetzt — Ergebnisse können kopiert, gespeichert oder an den Bildschirm geheftet werden
 
----
+<br>
 
-### Kostenlos testen
-
-**30-Tage-Testversion**
-Erleben Sie den Komfort intelligenter Erkennung und Übersetzung
-
-[Jetzt herunterladen](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [Preise anzeigen](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [Dokumentation](https://apps.microsoft.com/detail/9NJJX8KCGVN9)
-
----
-
-### Hilfe benötigt?
-
-- **Dokumentation**: [Vollständige Benutzeranleitung anzeigen](#)
-- **API-Konfiguration**: [Tencent Cloud API konfigurieren](#)
-- **Feedback**: [Problem oder Vorschlag einreichen](#)
-- **Kontakt**: xmulitech@gmail.com
+[⬇️ Im Microsoft Store herunterladen](https://apps.microsoft.com/detail/9NJJX8KCGVN9){.vp-button.brand}
+[📧 Kontaktieren Sie den kommerziellen Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

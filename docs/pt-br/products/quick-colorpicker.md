@@ -70,19 +70,7 @@ Extraia inspiracao de cores de imagens, sites e aplicativos favoritos para const
 3. **Capture a Cor**
    Clique ou pressione a barra de espaco para copiar o valor da cor diretamente para a area de transferencia
 
----
+<br>
 
-### Experimente Gratuitamente
-
-**30 Dias de Teste Gratuito**
-Funcionalidade completa sem restricoes
-
-[Baixar agora](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [Ver precos](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [Documentacao](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
-
----
-
-### Precisa de Ajuda?
-
-- **Documentacao**: [Ver Guia Completo do Usuario](#)
-- **Feedback**: [Enviar um Problema ou Sugestao](#)
-- **Contato**: xmulitech@gmail.com
+[⬇️ Baixar da Microsoft Store](https://apps.microsoft.com/detail/9N2XV7TJTN2J){.vp-button.brand}
+[📧 Contatar o suporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

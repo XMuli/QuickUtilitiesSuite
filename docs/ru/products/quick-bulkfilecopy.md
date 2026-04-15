@@ -70,19 +70,7 @@
 3. **Начните копирование**
    Нажмите «Старт», наблюдайте за прогрессом и дождитесь автоматической проверки
 
----
+<br>
 
-### Попробуйте бесплатно
-
-**30-дневная бесплатная пробная версия**
-Оцените разницу в скорости самостоятельно
-
-[Скачать](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [Цены](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [Документация](https://apps.microsoft.com/detail/9P0MCT80QQTL)
-
----
-
-### Нужна помощь?
-
-- **Документация**: [Полное руководство пользователя](#)
-- **Обратная связь**: [Отправить отзыв или предложение](#)
-- **Связаться с нами**: xmulitech@gmail.com
+[⬇️ Скачать из Microsoft Store](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
+[📧 Обратиться в коммерческую поддержку](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

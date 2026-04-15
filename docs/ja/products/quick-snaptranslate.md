@@ -73,20 +73,7 @@
 3. **結果を確認**
    テキストが自動的に認識・翻訳され、結果をコピー・保存・画面に固定可能
 
----
+<br>
 
-### 無料でお試し
-
-**30日間無料トライアル**
-インテリジェント認識・翻訳の便利さを体験
-
-[今すぐダウンロード](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [料金を確認](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [ドキュメント](https://apps.microsoft.com/detail/9NJJX8KCGVN9)
-
----
-
-### お困りですか？
-
-- **ドキュメント**：[ユーザーガイドを見る](#)
-- **API設定**：[Tencent Cloud APIの設定方法](#)
-- **フィードバック**：[問題・提案を送信](#)
-- **お問い合わせ**：xmulitech@gmail.com
+[⬇️ Microsoft Store からダウンロード](https://apps.microsoft.com/detail/9NJJX8KCGVN9){.vp-button.brand}
+[📧 法人向けサポートにお問い合わせ](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

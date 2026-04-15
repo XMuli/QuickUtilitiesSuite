@@ -70,19 +70,7 @@ UI 자동화 스크립트를 작성할 때 윈도우 식별자와 위치 데이�
 3. **정보 확인**
    윈도우 세부 정보가 자동으로 표시되며, 강조 테두리가 대상 윈도우를 식별합니다
 
----
+<br>
 
-### 무료 체험
-
-**30일 무료 체험**
-전문 윈도우 검사 도구를 체험해보세요
-
-[지금 다운로드](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [가격 보기](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [문서](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
-
----
-
-### 도움이 필요하신가요?
-
-- **문서**: [전체 사용자 가이드 보기](#)
-- **피드백**: [이슈 또는 제안 제출](#)
-- **문의하기**: xmulitech@gmail.com
+[⬇️ Microsoft Store에서 다운로드](https://apps.microsoft.com/detail/9N8MVQV88Z2T){.vp-button.brand}
+[📧 상업용 지원팀에 문의](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

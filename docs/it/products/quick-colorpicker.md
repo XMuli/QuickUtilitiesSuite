@@ -70,19 +70,7 @@ Estrai ispirazione cromatica da immagini, siti web e applicazioni preferite per 
 3. **Cattura il Colore**
    Clicca o premi la barra spaziatrice per copiare il valore del colore negli appunti
 
----
+<br>
 
-### Prova Gratuita
-
-**Prova Gratuita di 30 Giorni**
-Funzionalità complete senza restrizioni
-
-[Scarica Ora](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [Vedi Prezzi](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [Documentazione](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
-
----
-
-### Hai Bisogno di Aiuto?
-
-- **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
-- **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: xmulitech@gmail.com
+[⬇️ Scarica dal Microsoft Store](https://apps.microsoft.com/detail/9N2XV7TJTN2J){.vp-button.brand}
+[📧 Contatta il supporto commerciale](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

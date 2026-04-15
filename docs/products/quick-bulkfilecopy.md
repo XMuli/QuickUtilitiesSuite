@@ -70,19 +70,10 @@ Safely back up project folders containing large volumes of media assets to ensur
 3. **Start Copying**
    Click Start, monitor real-time progress, and let automatic verification confirm a successful transfer
 
----
+<br>
 
-### Try It Free
+## Download
 
-**30-Day Free Trial**
-Experience the speed difference yourself
+[⬇️ Download from Microsoft Store](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
 
-[Download Now](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [View Pricing](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [Documentation](https://apps.microsoft.com/detail/9P0MCT80QQTL)
-
----
-
-### Need Help?
-
-- **Documentation**: [View Full User Guide](#)
-- **Feedback**: [Submit an Issue or Suggestion](#)
-- **Contact Us**: xmulitech@gmail.com
+[📧 Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

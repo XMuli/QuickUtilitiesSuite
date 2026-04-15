@@ -71,19 +71,10 @@
 3. **查看信息**
    窗口信息自动显示，高亮边框标识目标窗口
 
----
+<br>
 
-### 立即体验
+## Download
 
-**免费试用 30 天**
-体验专业的窗口检查工具
+[⬇️ 立即前往微软商店下载安装](https://apps.microsoft.com/detail/9N8MVQV88Z2T){.vp-button.brand}
 
-[立即下载](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [查看定价](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [使用文档](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
-
----
-
-### 需要帮助？
-
-- **使用文档**: [查看完整使用指南](#)
-- **问题反馈**: [提交问题或建议](#)
-- **联系我们**: xmulitech@gmail.com
+[📧 联系商业团队反馈支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

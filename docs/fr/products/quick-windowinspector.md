@@ -70,19 +70,7 @@ Consultez les informations des fenêtres d'application pour localiser les progra
 3. **Consultez les informations**
    Les détails de la fenêtre s'affichent automatiquement, avec une bordure en surbrillance identifiant la fenêtre cible
 
----
+<br>
 
-### Essai gratuit
-
-**Essai gratuit de 30 jours**
-Découvrez un outil professionnel d'inspection de fenêtres
-
-[Télécharger maintenant](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [Voir les tarifs](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [Documentation](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
-
----
-
-### Besoin d'aide ?
-
-- **Documentation** : [Consulter le guide utilisateur complet](#)
-- **Commentaires** : [Soumettre un problème ou une suggestion](#)
-- **Nous contacter** : xmulitech@gmail.com
+[⬇️ Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9N8MVQV88Z2T){.vp-button.brand}
+[📧 Contacter le support commercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

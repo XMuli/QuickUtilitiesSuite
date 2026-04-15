@@ -70,19 +70,7 @@
 3. **Просмотрите информацию**
    Детали окна отображаются автоматически, а подсвеченная рамка выделяет целевое окно
 
----
+<br>
 
-### Попробуйте бесплатно
-
-**30-дневная бесплатная пробная версия**
-Оцените профессиональный инструмент инспекции окон
-
-[Скачать](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [Цены](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [Документация](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
-
----
-
-### Нужна помощь?
-
-- **Документация**: [Полное руководство пользователя](#)
-- **Обратная связь**: [Отправить отзыв или предложение](#)
-- **Связаться с нами**: xmulitech@gmail.com
+[⬇️ Скачать из Microsoft Store](https://apps.microsoft.com/detail/9N8MVQV88Z2T){.vp-button.brand}
+[📧 Обратиться в коммерческую поддержку](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

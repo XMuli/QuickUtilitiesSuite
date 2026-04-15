@@ -70,19 +70,7 @@ Windows エクスプローラーで `node_modules` フォルダのコピーに�
 3. **コピーを開始**
    開始をクリックし、リアルタイムの進捗を確認。自動検証で転送成功を確認
 
----
+<br>
 
-### 無料でお試し
-
-**30日間無料トライアル**
-速度の違いをご自身で体験
-
-[今すぐダウンロード](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [料金を確認](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [ドキュメント](https://apps.microsoft.com/detail/9P0MCT80QQTL)
-
----
-
-### お困りですか？
-
-- **ドキュメント**：[ユーザーガイドを見る](#)
-- **フィードバック**：[問題・提案を送信](#)
-- **お問い合わせ**：xmulitech@gmail.com
+[⬇️ Microsoft Store からダウンロード](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
+[📧 法人向けサポートにお問い合わせ](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

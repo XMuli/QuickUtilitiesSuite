@@ -70,19 +70,7 @@
 3. **削除を実行**
    開始をクリックし、ファイルが迅速に削除される様子をリアルタイムで確認
 
----
+<br>
 
-### 無料でお試し
-
-**30日間無料トライアル**
-プロ仕様のファイル削除速度を体験
-
-[今すぐダウンロード](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [料金を確認](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [ドキュメント](https://apps.microsoft.com/detail/9NFTW7D786CZ)
-
----
-
-### お困りですか？
-
-- **ドキュメント**：[ユーザーガイドを見る](#)
-- **フィードバック**：[問題・提案を送信](#)
-- **お問い合わせ**：xmulitech@gmail.com
+[⬇️ Microsoft Store からダウンロード](https://apps.microsoft.com/detail/9NFTW7D786CZ){.vp-button.brand}
+[📧 法人向けサポートにお問い合わせ](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

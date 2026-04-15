@@ -85,31 +85,7 @@ Multitasking e operazioni rapide per rendere il lavoro più produttivo.
 3. **Inizia ad Usare**
    Avvia qualsiasi strumento rapidamente tramite tasti rapidi o il menu della barra di sistema
 
----
+<br>
 
-### Prova Gratuita
-
-**Prova Gratuita di 30 Giorni**
-Sperimenta il toolkit all-in-one completo
-
-[Scarica Ora](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Vedi Prezzi](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Documentazione](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
-
-**Offerta Speciale**
-Acquista la suite completa e risparmia oltre il 50% rispetto all'acquisto dei singoli strumenti
-
----
-
-### Hai Bisogno di Aiuto?
-
-- **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
-- **Video Tutorial**: [Guarda le Demo delle Funzionalità](#)
-- **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: xmulitech@gmail.com
-
----
-
-### Licenze Aziendali
-
-Licenze volume e servizi personalizzati disponibili per clienti aziendali.
-
-[Contatta le Vendite](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Piani Aziendali](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
+[⬇️ Scarica dal Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
+[📧 Contatta il supporto commerciale](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

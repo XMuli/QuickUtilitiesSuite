@@ -85,31 +85,7 @@ Multitarea y operaciones rápidas para hacer el trabajo más productivo.
 3. **Empezar a usar**
    Inicia cualquier herramienta rápidamente mediante atajos de teclado o el menú de la bandeja
 
----
+<br>
 
-### Pruébalo gratis
-
-**Prueba gratuita de 30 días**
-Experimenta el kit de herramientas todo en uno completo
-
-[Descargar ahora](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Ver precios](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Documentación](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
-
-**Oferta especial**
-Compra el paquete completo y ahorra más del 50% en comparación con comprar las herramientas individualmente
-
----
-
-### ¿Necesitas ayuda?
-
-- **Documentación**: [Ver guía de usuario completa](#)
-- **Tutoriales en vídeo**: [Ver demostraciones de funciones](#)
-- **Comentarios**: [Enviar un problema o sugerencia](#)
-- **Contáctanos**: xmulitech@gmail.com
-
----
-
-### Licencias empresariales
-
-Licencias por volumen y servicios personalizados disponibles para clientes empresariales.
-
-[Contactar ventas](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Planes empresariales](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
+[⬇️ Descargar desde Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
+[📧 Contactar con soporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

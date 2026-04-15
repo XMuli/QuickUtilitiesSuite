@@ -70,19 +70,7 @@
 3. **완료 후 해제**
    단축키를 다시 눌러 윈도우를 최상위 위치에서 해제합니다
 
----
+<br>
 
-### 무료 체험
-
-**30일 무료 체험**
-비용 부담 없이 원활한 윈도우 관리를 경험하세요
-
-[지금 다운로드](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [가격 보기](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [문서](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
-
----
-
-### 도움이 필요하신가요?
-
-- **문서**: [전체 사용자 가이드 보기](#)
-- **피드백**: [이슈 또는 제안 제출](#)
-- **문의하기**: xmulitech@gmail.com
+[⬇️ Microsoft Store에서 다운로드](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
+[📧 상업용 지원팀에 문의](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

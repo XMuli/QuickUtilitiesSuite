@@ -71,19 +71,10 @@
 3. **开始删除**
    点击开始，实时查看进度，快速完成
 
----
+<br>
 
-### 立即体验
+## Download
 
-**免费试用 30 天**
-体验极速删除的效率
+[⬇️ 立即前往微软商店下载安装](https://apps.microsoft.com/detail/9NFTW7D786CZ){.vp-button.brand}
 
-[立即下载](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [查看定价](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [使用文档](https://apps.microsoft.com/detail/9NFTW7D786CZ)
-
----
-
-### 需要帮助？
-
-- **使用文档**: [查看完整使用指南](#)
-- **问题反馈**: [提交问题或建议](#)
-- **联系我们**: xmulitech@gmail.com
+[📧 联系商业团队反馈支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

@@ -71,19 +71,7 @@
 3. **開始複製**
    點擊開始，即時查看進度，完成後自動校驗
 
----
+<br>
 
-### 立即體驗
-
-**免費試用 30 天**
-體驗極速複製的快感
-
-[立即下載](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [查看定價](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [使用文件](https://apps.microsoft.com/detail/9P0MCT80QQTL)
-
----
-
-### 需要協助？
-
-- **使用文件**: [查看完整使用指南](#)
-- **問題回饋**: [提交問題或建議](#)
-- **聯絡我們**: xmulitech@gmail.com
+[⬇️ 立即前往微軟商店下載安裝](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
+[📧 聯繫商業團隊反饋支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

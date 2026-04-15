@@ -70,19 +70,7 @@ Mantenha sua janela de reuniao no topo enquanto lida com outras tarefas sem perd
 3. **Desfixe Quando Terminar**
    Pressione o atalho novamente para liberar a janela da posicao superior
 
----
+<br>
 
-### Experimente Gratuitamente
-
-**30 Dias de Teste Gratuito**
-Experimente o gerenciamento de janelas sem custo
-
-[Baixar agora](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [Ver precos](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [Documentacao](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
-
----
-
-### Precisa de Ajuda?
-
-- **Documentacao**: [Ver Guia Completo do Usuario](#)
-- **Feedback**: [Enviar um Problema ou Sugestao](#)
-- **Contato**: xmulitech@gmail.com
+[⬇️ Baixar da Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
+[📧 Contatar o suporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

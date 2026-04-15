@@ -70,19 +70,10 @@ Clear out large installer packages, outdated backup folders, and other accumulat
 3. **Execute Deletion**
    Click Start and watch real-time progress as files are swiftly removed
 
----
+<br>
 
-### Try It Free
+## Download
 
-**30-Day Free Trial**
-Experience the speed of professional-grade file deletion
+[⬇️ Download from Microsoft Store](https://apps.microsoft.com/detail/9NFTW7D786CZ){.vp-button.brand}
 
-[Download Now](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [View Pricing](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [Documentation](https://apps.microsoft.com/detail/9NFTW7D786CZ)
-
----
-
-### Need Help?
-
-- **Documentation**: [View Full User Guide](#)
-- **Feedback**: [Submit an Issue or Suggestion](#)
-- **Contact Us**: xmulitech@gmail.com
+[📧 Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

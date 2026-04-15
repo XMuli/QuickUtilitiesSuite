@@ -70,19 +70,7 @@ Gardez votre fenêtre de réunion au premier plan tout en gérant d'autres tâch
 3. **Détachez quand c'est terminé**
    Appuyez à nouveau sur le raccourci pour libérer la fenêtre de sa position au premier plan
 
----
+<br>
 
-### Essai gratuit
-
-**Essai gratuit de 30 jours**
-Découvrez une gestion de fenêtres fluide et gratuite
-
-[Télécharger maintenant](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [Voir les tarifs](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [Documentation](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
-
----
-
-### Besoin d'aide ?
-
-- **Documentation** : [Consulter le guide utilisateur complet](#)
-- **Commentaires** : [Soumettre un problème ou une suggestion](#)
-- **Nous contacter** : xmulitech@gmail.com
+[⬇️ Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
+[📧 Contacter le support commercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

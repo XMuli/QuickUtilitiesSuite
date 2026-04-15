@@ -73,20 +73,10 @@ View foreign technical documentation, error messages, and UI text to quickly ide
 3. **View Results**
    Text is automatically recognized and translated — results can be copied, saved, or pinned to the screen
 
----
+<br>
 
-### Try It Free
+## Download
 
-**30-Day Free Trial**
-Experience the convenience of intelligent recognition and translation
+[⬇️ Download from Microsoft Store](https://apps.microsoft.com/detail/9NJJX8KCGVN9){.vp-button.brand}
 
-[Download Now](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [View Pricing](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [Documentation](https://apps.microsoft.com/detail/9NJJX8KCGVN9)
-
----
-
-### Need Help?
-
-- **Documentation**: [View Full User Guide](#)
-- **API Configuration**: [How to Configure Tencent Cloud API](#)
-- **Feedback**: [Submit an Issue or Suggestion](#)
-- **Contact Us**: xmulitech@gmail.com
+[📧 Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

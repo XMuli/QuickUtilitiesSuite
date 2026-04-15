@@ -70,19 +70,7 @@ UIデバッグ中に正確な要素の色をキャプチャし、デザイン仕
 3. **色をキャプチャ**
    クリックまたはスペースバーを押して、色の値を直接クリップボードにコピー
 
----
+<br>
 
-### 無料でお試し
-
-**30日間無料トライアル**
-制限なしのフル機能
-
-[今すぐダウンロード](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [料金を確認](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [ドキュメント](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
-
----
-
-### お困りですか？
-
-- **ドキュメント**：[ユーザーガイドを見る](#)
-- **フィードバック**：[問題・提案を送信](#)
-- **お問い合わせ**：xmulitech@gmail.com
+[⬇️ Microsoft Store からダウンロード](https://apps.microsoft.com/detail/9N2XV7TJTN2J){.vp-button.brand}
+[📧 法人向けサポートにお問い合わせ](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

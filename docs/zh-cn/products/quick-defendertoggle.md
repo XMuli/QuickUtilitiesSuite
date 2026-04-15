@@ -83,19 +83,10 @@
 > **管理员权限**
 > 此工具需要管理员权限才能运行。
 
----
+<br>
 
-### 立即体验
+## Download
 
-**免费试用 30 天**
-体验便捷的系统控制
+[⬇️ 立即前往微软商店下载安装](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
 
-[立即下载](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [查看定价](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [使用文档](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
-
----
-
-### 需要帮助？
-
-- **使用文档**: [查看完整使用指南](#)
-- **问题反馈**: [提交问题或建议](#)
-- **联系我们**: xmulitech@gmail.com
+[📧 联系商业团队反馈支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

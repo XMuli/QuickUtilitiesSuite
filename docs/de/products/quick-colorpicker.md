@@ -70,19 +70,7 @@ Farbinspirationen aus Lieblingsbildern, Websites und Anwendungen extrahieren und
 3. **Farbe aufnehmen**
    Klicken oder Leertaste drücken, um den Farbwert direkt in die Zwischenablage zu kopieren
 
----
+<br>
 
-### Kostenlos testen
-
-**30-Tage-Testversion**
-Voller Funktionsumfang ohne Einschränkungen
-
-[Jetzt herunterladen](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [Preise anzeigen](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [Dokumentation](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
-
----
-
-### Hilfe benötigt?
-
-- **Dokumentation**: [Vollständige Benutzeranleitung anzeigen](#)
-- **Feedback**: [Problem oder Vorschlag einreichen](#)
-- **Kontakt**: xmulitech@gmail.com
+[⬇️ Im Microsoft Store herunterladen](https://apps.microsoft.com/detail/9N2XV7TJTN2J){.vp-button.brand}
+[📧 Kontaktieren Sie den kommerziellen Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

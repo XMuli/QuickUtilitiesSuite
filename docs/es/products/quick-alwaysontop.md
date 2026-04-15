@@ -70,19 +70,7 @@ Mantén la ventana de tu reunión en primer plano mientras manejas otras tareas 
 3. **Desancla cuando termines**
    Pulsa la tecla de acceso rápido de nuevo para liberar la ventana de la posición superior
 
----
+<br>
 
-### Pruébalo gratis
-
-**Prueba gratuita de 30 días**
-Experimenta una gestión de ventanas sin interrupciones y sin costo
-
-[Descargar ahora](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [Ver precios](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [Documentación](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
-
----
-
-### ¿Necesitas ayuda?
-
-- **Documentación**: [Ver guía de usuario completa](#)
-- **Comentarios**: [Enviar un problema o sugerencia](#)
-- **Contáctanos**: xmulitech@gmail.com
+[⬇️ Descargar desde Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
+[📧 Contactar con soporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

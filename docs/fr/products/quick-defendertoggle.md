@@ -82,19 +82,7 @@ Désactivez la protection pour l'optimisation système, le nettoyage ou les opé
 > **Privilèges administrateur requis**
 > Cet outil nécessite des privilèges administrateur pour fonctionner.
 
----
+<br>
 
-### Essai gratuit
-
-**Essai gratuit de 30 jours**
-Découvrez un contrôle système pratique
-
-[Télécharger maintenant](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [Voir les tarifs](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [Documentation](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
-
----
-
-### Besoin d'aide ?
-
-- **Documentation** : [Consulter le guide utilisateur complet](#)
-- **Commentaires** : [Soumettre un problème ou une suggestion](#)
-- **Nous contacter** : xmulitech@gmail.com
+[⬇️ Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
+[📧 Contacter le support commercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

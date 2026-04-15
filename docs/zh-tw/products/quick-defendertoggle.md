@@ -83,19 +83,7 @@
 > **系統管理員權限**
 > 此工具需要系統管理員權限才能執行。
 
----
+<br>
 
-### 立即體驗
-
-**免費試用 30 天**
-體驗便捷的系統控制
-
-[立即下載](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [查看定價](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [使用文件](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
-
----
-
-### 需要協助？
-
-- **使用文件**: [查看完整使用指南](#)
-- **問題回饋**: [提交問題或建議](#)
-- **聯絡我們**: xmulitech@gmail.com
+[⬇️ 立即前往微軟商店下載安裝](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
+[📧 聯繫商業團隊反饋支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

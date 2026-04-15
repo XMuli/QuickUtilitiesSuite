@@ -71,19 +71,7 @@
 3. **取得顏色**
    點擊滑鼠或按空白鍵，顏色值自動複製到剪貼簿
 
----
+<br>
 
-### 立即體驗
-
-**免費試用 30 天**
-體驗完整功能，無任何限制
-
-[立即下載](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [查看定價](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [使用文件](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
-
----
-
-### 需要協助？
-
-- **使用文件**: [查看完整使用指南](#)
-- **問題回饋**: [提交問題或建議](#)
-- **聯絡我們**: xmulitech@gmail.com
+[⬇️ 立即前往微軟商店下載安裝](https://apps.microsoft.com/detail/9N2XV7TJTN2J){.vp-button.brand}
+[📧 聯繫商業團隊反饋支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

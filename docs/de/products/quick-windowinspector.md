@@ -70,19 +70,7 @@ Anwendungsfenster-Informationen anzeigen, um problematische Programme oder Proze
 3. **Informationen anzeigen**
    Fensterdetails werden automatisch angezeigt, mit einem hervorgehobenen Rahmen zur Kennzeichnung des Zielfensters
 
----
+<br>
 
-### Kostenlos testen
-
-**30-Tage-Testversion**
-Erleben Sie ein professionelles Fensterinspektions-Werkzeug
-
-[Jetzt herunterladen](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [Preise anzeigen](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [Dokumentation](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
-
----
-
-### Hilfe benötigt?
-
-- **Dokumentation**: [Vollständige Benutzeranleitung anzeigen](#)
-- **Feedback**: [Problem oder Vorschlag einreichen](#)
-- **Kontakt**: xmulitech@gmail.com
+[⬇️ Im Microsoft Store herunterladen](https://apps.microsoft.com/detail/9N8MVQV88Z2T){.vp-button.brand}
+[📧 Kontaktieren Sie den kommerziellen Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

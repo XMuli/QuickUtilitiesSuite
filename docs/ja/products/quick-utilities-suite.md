@@ -85,31 +85,7 @@ Quick Utilities Suite は、画面の色取得、ファイル管理、スクリ�
 3. **使い始める**
    ホットキーまたはトレイメニューから任意のツールを素早く起動
 
----
+<br>
 
-### 無料でお試し
-
-**30日間無料トライアル**
-オールインワンツールキットの完全版を体験
-
-[今すぐダウンロード](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [料金を確認](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [ドキュメント](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
-
-**特別オファー**
-フルスイートの購入で、ツール個別購入と比較して50%以上お得
-
----
-
-### お困りですか？
-
-- **ドキュメント**：[ユーザーガイドを見る](#)
-- **動画チュートリアル**：[機能デモを見る](#)
-- **フィードバック**：[問題・提案を送信](#)
-- **お問い合わせ**：xmulitech@gmail.com
-
----
-
-### 法人向けライセンス
-
-法人のお客様向けにボリュームライセンスやカスタムサービスをご用意しています。
-
-[営業に問い合わせ](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [法人プラン](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
+[⬇️ Microsoft Store からダウンロード](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
+[📧 法人向けサポートにお問い合わせ](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

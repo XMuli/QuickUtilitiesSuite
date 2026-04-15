@@ -70,19 +70,7 @@
 3. **إلغاء التثبيت عند الانتهاء**
    اضغط الاختصار مرة أخرى لتحرير النافذة من وضع المقدمة
 
----
+<br>
 
-### جرّبه مجاناً
-
-**تجربة مجانية لمدة 30 يوماً**
-اختبر إدارة النوافذ السلسة مجاناً
-
-[تحميل الآن](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [عرض الأسعار](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [التوثيق](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
-
----
-
-### هل تحتاج مساعدة؟
-
-- **التوثيق**: [عرض دليل المستخدم الكامل](#)
-- **الملاحظات**: [تقديم مشكلة أو اقتراح](#)
-- **تواصل معنا**: xmulitech@gmail.com
+[⬇️ التنزيل من Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
+[📧 اتصل بالدعم التجاري للتعليقات](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

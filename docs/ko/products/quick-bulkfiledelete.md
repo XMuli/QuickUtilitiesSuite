@@ -70,19 +70,7 @@
 3. **삭제 실행**
    시작을 클릭하고 파일이 신속하게 삭제되는 실시간 진행률을 확인합니다
 
----
+<br>
 
-### 무료 체험
-
-**30일 무료 체험**
-전문가급 파일 삭제 속도를 체험해보세요
-
-[지금 다운로드](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [가격 보기](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [문서](https://apps.microsoft.com/detail/9NFTW7D786CZ)
-
----
-
-### 도움이 필요하신가요?
-
-- **문서**: [전체 사용자 가이드 보기](#)
-- **피드백**: [이슈 또는 제안 제출](#)
-- **문의하기**: xmulitech@gmail.com
+[⬇️ Microsoft Store에서 다운로드](https://apps.microsoft.com/detail/9NFTW7D786CZ){.vp-button.brand}
+[📧 상업용 지원팀에 문의](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

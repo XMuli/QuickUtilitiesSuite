@@ -82,19 +82,7 @@ Disable protection for system optimization, cleanup, or specialized operations t
 > **Administrator Privileges Required**
 > This tool requires administrator privileges to function.
 
----
+<br>
 
-### Try It Free
-
-**30-Day Free Trial**
-Experience convenient system control
-
-[Download Now](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [View Pricing](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [Documentation](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
-
----
-
-### Need Help?
-
-- **Documentation**: [View Full User Guide](#)
-- **Feedback**: [Submit an Issue or Suggestion](#)
-- **Contact Us**: xmulitech@gmail.com
+[⬇️ Download from Microsoft Store](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
+[📧 Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

@@ -86,31 +86,10 @@ Quick Utilities Suite 集成了多款精选的专业工具，涵盖屏幕取色�
 3. **开始使用**
    使用快捷键或托盘菜单快速启动各个工具
 
----
+<br>
 
-### 立即体验
+## Download
 
-**免费试用 30 天**
-体验完整的多合一工具集
+[⬇️ 立即前往微软商店下载安装](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
 
-[立即下载](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [查看定价](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [使用文档](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
-
-**特别优惠**
-购买全功能版，比单独购买节省 50% 以上
-
----
-
-### 需要帮助？
-
-- **使用文档**: [查看完整使用指南](#)
-- **视频教程**: [观看功能演示](#)
-- **问题反馈**: [提交问题或建议](#)
-- **联系我们**: xmulitech@gmail.com
-
----
-
-### 企业授权
-
-为企业用户提供批量许可证和定制服务。
-
-[联系销售](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [企业方案](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
+[📧 联系商业团队反馈支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

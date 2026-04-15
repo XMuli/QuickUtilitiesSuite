@@ -70,19 +70,7 @@ Extract color inspiration from favorite images, websites, and applications to bu
 3. **Capture the Color**
    Click or press the spacebar to copy the color value directly to your clipboard
 
----
+<br>
 
-### Try It Free
-
-**30-Day Free Trial**
-Full functionality with no restrictions
-
-[Download Now](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [View Pricing](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [Documentation](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
-
----
-
-### Need Help?
-
-- **Documentation**: [View Full User Guide](#)
-- **Feedback**: [Submit an Issue or Suggestion](#)
-- **Contact Us**: xmulitech@gmail.com
+[⬇️ Download from Microsoft Store](https://apps.microsoft.com/detail/9N2XV7TJTN2J){.vp-button.brand}
+[📧 Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

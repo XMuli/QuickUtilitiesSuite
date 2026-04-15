@@ -82,19 +82,7 @@ Disabilita la protezione per ottimizzazione di sistema, pulizia o operazioni spe
 > **Privilegi di Amministratore Richiesti**
 > Questo strumento richiede privilegi di amministratore per funzionare.
 
----
+<br>
 
-### Prova Gratuita
-
-**Prova Gratuita di 30 Giorni**
-Sperimenta un comodo controllo di sistema
-
-[Scarica Ora](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [Vedi Prezzi](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [Documentazione](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
-
----
-
-### Hai Bisogno di Aiuto?
-
-- **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
-- **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: xmulitech@gmail.com
+[⬇️ Scarica dal Microsoft Store](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
+[📧 Contatta il supporto commerciale](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

@@ -70,19 +70,7 @@ View application window information to locate problematic programs or processes.
 3. **View Information**
    Window details are displayed automatically, with a highlighted border identifying the target window
 
----
+<br>
 
-### Try It Free
-
-**30-Day Free Trial**
-Experience a professional window inspection tool
-
-[Download Now](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [View Pricing](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [Documentation](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
-
----
-
-### Need Help?
-
-- **Documentation**: [View Full User Guide](#)
-- **Feedback**: [Submit an Issue or Suggestion](#)
-- **Contact Us**: xmulitech@gmail.com
+[⬇️ Download from Microsoft Store](https://apps.microsoft.com/detail/9N8MVQV88Z2T){.vp-button.brand}
+[📧 Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

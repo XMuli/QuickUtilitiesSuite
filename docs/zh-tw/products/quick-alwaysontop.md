@@ -71,19 +71,7 @@
 3. **取消置頂**
    再次按快速鍵即可取消置頂
 
----
+<br>
 
-### 立即體驗
-
-**免費試用 30 天**
-體驗便捷的視窗管理
-
-[立即下載](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [查看定價](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [使用文件](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
-
----
-
-### 需要協助？
-
-- **使用文件**: [查看完整使用指南](#)
-- **問題回饋**: [提交問題或建議](#)
-- **聯絡我們**: xmulitech@gmail.com
+[⬇️ 立即前往微軟商店下載安裝](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
+[📧 聯繫商業團隊反饋支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

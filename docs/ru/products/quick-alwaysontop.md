@@ -70,19 +70,7 @@
 3. **Открепите по завершении**
    Нажмите горячую клавишу повторно, чтобы снять закрепление
 
----
+<br>
 
-### Попробуйте бесплатно
-
-**30-дневная бесплатная пробная версия**
-Оцените удобное управление окнами бесплатно
-
-[Скачать](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [Цены](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [Документация](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
-
----
-
-### Нужна помощь?
-
-- **Документация**: [Полное руководство пользователя](#)
-- **Обратная связь**: [Отправить отзыв или предложение](#)
-- **Связаться с нами**: xmulitech@gmail.com
+[⬇️ Скачать из Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
+[📧 Обратиться в коммерческую поддержку](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

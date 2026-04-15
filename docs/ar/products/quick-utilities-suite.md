@@ -85,31 +85,7 @@
 3. **ابدأ الاستخدام**
    شغّل أي أداة بسرعة عبر الاختصارات أو قائمة الصينية
 
----
+<br>
 
-### جرّبه مجاناً
-
-**تجربة مجانية لمدة 30 يوماً**
-اختبر مجموعة الأدوات المتكاملة بالكامل
-
-[تحميل الآن](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [عرض الأسعار](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [التوثيق](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
-
-**عرض خاص**
-اشترِ المجموعة الكاملة ووفر أكثر من 50% مقارنة بشراء الأدوات فرادى
-
----
-
-### هل تحتاج مساعدة؟
-
-- **التوثيق**: [عرض دليل المستخدم الكامل](#)
-- **دروس فيديو**: [مشاهدة عروض الميزات](#)
-- **الملاحظات**: [تقديم مشكلة أو اقتراح](#)
-- **تواصل معنا**: xmulitech@gmail.com
-
----
-
-### تراخيص المؤسسات
-
-تراخيص بالجملة وخدمات مخصصة متوفرة لعملاء المؤسسات.
-
-[التواصل مع المبيعات](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [خطط المؤسسات](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
+[⬇️ التنزيل من Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
+[📧 اتصل بالدعم التجاري للتعليقات](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

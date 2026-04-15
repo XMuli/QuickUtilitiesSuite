@@ -70,19 +70,7 @@ UIオートメーションスクリプト作成時にウィンドウ識別子と
 3. **情報を確認**
    ウィンドウの詳細が自動的に表示され、ハイライトボーダーがターゲットウィンドウを識別
 
----
+<br>
 
-### 無料でお試し
-
-**30日間無料トライアル**
-プロ仕様のウィンドウ検査ツールを体験
-
-[今すぐダウンロード](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [料金を確認](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [ドキュメント](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
-
----
-
-### お困りですか？
-
-- **ドキュメント**：[ユーザーガイドを見る](#)
-- **フィードバック**：[問題・提案を送信](#)
-- **お問い合わせ**：xmulitech@gmail.com
+[⬇️ Microsoft Store からダウンロード](https://apps.microsoft.com/detail/9N8MVQV88Z2T){.vp-button.brand}
+[📧 法人向けサポートにお問い合わせ](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

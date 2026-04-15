@@ -70,19 +70,7 @@ Windows 탐색기가 `node_modules` 폴더를 복사하는 데 수 분이 걸리
 3. **복사 시작**
    시작을 클릭하고 실시간 진행률을 모니터링하며 자동 검증으로 성공적인 전송을 확인합니다
 
----
+<br>
 
-### 무료 체험
-
-**30일 무료 체험**
-속도 차이를 직접 체험해보세요
-
-[지금 다운로드](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [가격 보기](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [문서](https://apps.microsoft.com/detail/9P0MCT80QQTL)
-
----
-
-### 도움이 필요하신가요?
-
-- **문서**: [전체 사용자 가이드 보기](#)
-- **피드백**: [이슈 또는 제안 제출](#)
-- **문의하기**: xmulitech@gmail.com
+[⬇️ Microsoft Store에서 다운로드](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
+[📧 상업용 지원팀에 문의](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

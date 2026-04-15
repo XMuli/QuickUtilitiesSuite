@@ -82,19 +82,7 @@ Defenderの現在の動作状態を明確に表示し、各アクションの結
 > **管理者権限が必要**
 > このツールの動作には管理者権限が必要です。
 
----
+<br>
 
-### 無料でお試し
-
-**30日間無料トライアル**
-便利なシステム制御を体験
-
-[今すぐダウンロード](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [料金を確認](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [ドキュメント](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
-
----
-
-### お困りですか？
-
-- **ドキュメント**：[ユーザーガイドを見る](#)
-- **フィードバック**：[問題・提案を送信](#)
-- **お問い合わせ**：xmulitech@gmail.com
+[⬇️ Microsoft Store からダウンロード](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
+[📧 法人向けサポートにお問い合わせ](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

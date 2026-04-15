@@ -73,20 +73,7 @@
 3. **결과 확인**
    텍스트가 자동으로 인식되고 번역됩니다 — 결과를 복사, 저장 또는 화면에 고정할 수 있습니다
 
----
+<br>
 
-### 무료 체험
-
-**30일 무료 체험**
-지능형 인식 및 번역의 편리함을 경험하세요
-
-[지금 다운로드](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [가격 보기](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [문서](https://apps.microsoft.com/detail/9NJJX8KCGVN9)
-
----
-
-### 도움이 필요하신가요?
-
-- **문서**: [전체 사용자 가이드 보기](#)
-- **API 설정**: [Tencent Cloud API 설정 방법](#)
-- **피드백**: [이슈 또는 제안 제출](#)
-- **문의하기**: xmulitech@gmail.com
+[⬇️ Microsoft Store에서 다운로드](https://apps.microsoft.com/detail/9NJJX8KCGVN9){.vp-button.brand}
+[📧 상업용 지원팀에 문의](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

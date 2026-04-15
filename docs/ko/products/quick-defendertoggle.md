@@ -82,19 +82,7 @@ Defender의 현재 작동 상태를 명확하게 표시하여 각 작업의 결�
 > **관리자 권한 필요**
 > 이 도구는 작동하려면 관리자 권한이 필요합니다.
 
----
+<br>
 
-### 무료 체험
-
-**30일 무료 체험**
-편리한 시스템 제어를 경험하세요
-
-[지금 다운로드](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [가격 보기](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [문서](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
-
----
-
-### 도움이 필요하신가요?
-
-- **문서**: [전체 사용자 가이드 보기](#)
-- **피드백**: [이슈 또는 제안 제출](#)
-- **문의하기**: xmulitech@gmail.com
+[⬇️ Microsoft Store에서 다운로드](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
+[📧 상업용 지원팀에 문의](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

@@ -70,19 +70,7 @@
 3. **عرض المعلومات**
    تُعرض تفاصيل النافذة تلقائياً، مع حدود مميزة تحدد النافذة المستهدفة
 
----
+<br>
 
-### جرّبه مجاناً
-
-**تجربة مجانية لمدة 30 يوماً**
-اختبر أداة فحص النوافذ الاحترافية
-
-[تحميل الآن](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [عرض الأسعار](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [التوثيق](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
-
----
-
-### هل تحتاج مساعدة؟
-
-- **التوثيق**: [عرض دليل المستخدم الكامل](#)
-- **الملاحظات**: [تقديم مشكلة أو اقتراح](#)
-- **تواصل معنا**: xmulitech@gmail.com
+[⬇️ التنزيل من Microsoft Store](https://apps.microsoft.com/detail/9N8MVQV88Z2T){.vp-button.brand}
+[📧 اتصل بالدعم التجاري للتعليقات](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

@@ -82,19 +82,7 @@ Schutz für Systemoptimierung, Bereinigung oder spezielle Operationen deaktivier
 > **Administratorrechte erforderlich**
 > Dieses Tool erfordert Administratorrechte zur Ausführung.
 
----
+<br>
 
-### Kostenlos testen
-
-**30-Tage-Testversion**
-Erleben Sie komfortable Systemsteuerung
-
-[Jetzt herunterladen](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [Preise anzeigen](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [Dokumentation](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
-
----
-
-### Hilfe benötigt?
-
-- **Dokumentation**: [Vollständige Benutzeranleitung anzeigen](#)
-- **Feedback**: [Problem oder Vorschlag einreichen](#)
-- **Kontakt**: xmulitech@gmail.com
+[⬇️ Im Microsoft Store herunterladen](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
+[📧 Kontaktieren Sie den kommerziellen Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

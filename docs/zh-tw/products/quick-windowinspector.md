@@ -71,19 +71,7 @@
 3. **查看資訊**
    視窗資訊自動顯示，高亮邊框標識目標視窗
 
----
+<br>
 
-### 立即體驗
-
-**免費試用 30 天**
-體驗專業的視窗檢查工具
-
-[立即下載](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [查看定價](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [使用文件](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
-
----
-
-### 需要協助？
-
-- **使用文件**: [查看完整使用指南](#)
-- **問題回饋**: [提交問題或建議](#)
-- **聯絡我們**: xmulitech@gmail.com
+[⬇️ 立即前往微軟商店下載安裝](https://apps.microsoft.com/detail/9N8MVQV88Z2T){.vp-button.brand}
+[📧 聯繫商業團隊反饋支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

@@ -70,19 +70,7 @@
 3. **تنفيذ الحذف**
    انقر ابدأ وراقب التقدم الفوري أثناء إزالة الملفات بسرعة
 
----
+<br>
 
-### جرّبه مجاناً
-
-**تجربة مجانية لمدة 30 يوماً**
-اختبر سرعة الحذف الاحترافية
-
-[تحميل الآن](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [عرض الأسعار](https://apps.microsoft.com/detail/9NFTW7D786CZ) | [التوثيق](https://apps.microsoft.com/detail/9NFTW7D786CZ)
-
----
-
-### هل تحتاج مساعدة؟
-
-- **التوثيق**: [عرض دليل المستخدم الكامل](#)
-- **الملاحظات**: [تقديم مشكلة أو اقتراح](#)
-- **تواصل معنا**: xmulitech@gmail.com
+[⬇️ التنزيل من Microsoft Store](https://apps.microsoft.com/detail/9NFTW7D786CZ){.vp-button.brand}
+[📧 اتصل بالدعم التجاري للتعليقات](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

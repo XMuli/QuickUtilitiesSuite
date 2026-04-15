@@ -70,19 +70,7 @@
 3. **完了したら固定を解除**
    同じホットキーを再度押して、ウィンドウの最前面固定を解除
 
----
+<br>
 
-### 無料でお試し
-
-**30日間無料トライアル**
-シームレスなウィンドウ管理を無料で体験
-
-[今すぐダウンロード](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [料金を確認](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [ドキュメント](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
-
----
-
-### お困りですか？
-
-- **ドキュメント**：[ユーザーガイドを見る](#)
-- **フィードバック**：[問題・提案を送信](#)
-- **お問い合わせ**：xmulitech@gmail.com
+[⬇️ Microsoft Store からダウンロード](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
+[📧 法人向けサポートにお問い合わせ](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

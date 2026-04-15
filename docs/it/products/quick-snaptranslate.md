@@ -73,20 +73,7 @@ Consulta documentazione tecnica straniera, messaggi di errore e testo UI per ide
 3. **Visualizza i Risultati**
    Il testo viene riconosciuto e tradotto automaticamente — i risultati possono essere copiati, salvati o fissati a schermo
 
----
+<br>
 
-### Prova Gratuita
-
-**Prova Gratuita di 30 Giorni**
-Sperimenta la comodità del riconoscimento e della traduzione intelligente
-
-[Scarica Ora](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [Vedi Prezzi](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [Documentazione](https://apps.microsoft.com/detail/9NJJX8KCGVN9)
-
----
-
-### Hai Bisogno di Aiuto?
-
-- **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9NJJX8KCGVN9)
-- **Configurazione API**: [Come Configurare le API Tencent Cloud](#)
-- **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: xmulitech@gmail.com
+[⬇️ Scarica dal Microsoft Store](https://apps.microsoft.com/detail/9NJJX8KCGVN9){.vp-button.brand}
+[📧 Contatta il supporto commerciale](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

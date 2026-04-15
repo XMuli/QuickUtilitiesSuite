@@ -85,31 +85,7 @@ Multitâche et opérations rapides pour rendre le travail plus productif.
 3. **Commencer à utiliser**
    Lancez n'importe quel outil rapidement via les raccourcis ou le menu de la barre système
 
----
+<br>
 
-### Essai gratuit
-
-**Essai gratuit de 30 jours**
-Découvrez la boîte à outils tout-en-un complète
-
-[Télécharger maintenant](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Voir les tarifs](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Documentation](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
-
-**Offre spéciale**
-Achetez la suite complète et économisez plus de 50 % par rapport à l'achat des outils séparément
-
----
-
-### Besoin d'aide ?
-
-- **Documentation** : [Consulter le guide utilisateur complet](#)
-- **Tutoriels vidéo** : [Regarder les démonstrations des fonctionnalités](#)
-- **Commentaires** : [Soumettre un problème ou une suggestion](#)
-- **Nous contacter** : xmulitech@gmail.com
-
----
-
-### Licences entreprise
-
-Licences en volume et services personnalisés disponibles pour les clients entreprise.
-
-[Contacter le service commercial](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [Plans entreprise](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
+[⬇️ Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
+[📧 Contacter le support commercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

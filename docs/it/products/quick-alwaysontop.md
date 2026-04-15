@@ -70,19 +70,7 @@ Mantieni la finestra della riunione in primo piano mentre gestisci altre attivit
 3. **Rilascia Quando Hai Finito**
    Premi di nuovo il tasto rapido per rilasciare la finestra dalla posizione in primo piano
 
----
+<br>
 
-### Prova Gratuita
-
-**Prova Gratuita di 30 Giorni**
-Sperimenta la gestione finestre fluida a costo zero
-
-[Scarica Ora](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [Vedi Prezzi](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | [Documentazione](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
-
----
-
-### Hai Bisogno di Aiuto?
-
-- **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9NR3H8Q42N4S)
-- **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: xmulitech@gmail.com
+[⬇️ Scarica dal Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
+[📧 Contatta il supporto commerciale](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

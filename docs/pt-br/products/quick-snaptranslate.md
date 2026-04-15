@@ -73,20 +73,7 @@ Visualize documentacao tecnica estrangeira, mensagens de erro e texto de UI para
 3. **Veja os Resultados**
    O texto e reconhecido e traduzido automaticamente — os resultados podem ser copiados, salvos ou fixados na tela
 
----
+<br>
 
-### Experimente Gratuitamente
-
-**30 Dias de Teste Gratuito**
-Experimente a conveniencia do reconhecimento e traducao inteligentes
-
-[Baixar agora](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [Ver precos](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [Documentacao](https://apps.microsoft.com/detail/9NJJX8KCGVN9)
-
----
-
-### Precisa de Ajuda?
-
-- **Documentacao**: [Ver Guia Completo do Usuario](#)
-- **Configuracao de API**: [Como Configurar a Tencent Cloud API](#)
-- **Feedback**: [Enviar um Problema ou Sugestao](#)
-- **Contato**: xmulitech@gmail.com
+[⬇️ Baixar da Microsoft Store](https://apps.microsoft.com/detail/9NJJX8KCGVN9){.vp-button.brand}
+[📧 Contatar o suporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

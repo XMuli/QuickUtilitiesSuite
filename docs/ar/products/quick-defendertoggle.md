@@ -82,19 +82,7 @@
 > **مطلوب صلاحيات المسؤول**
 > تتطلب هذه الأداة صلاحيات المسؤول للعمل.
 
----
+<br>
 
-### جرّبه مجاناً
-
-**تجربة مجانية لمدة 30 يوماً**
-اختبر التحكم المريح في النظام
-
-[تحميل الآن](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [عرض الأسعار](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | [التوثيق](https://apps.microsoft.com/detail/9PFQQ9CPP9P3)
-
----
-
-### هل تحتاج مساعدة؟
-
-- **التوثيق**: [عرض دليل المستخدم الكامل](#)
-- **الملاحظات**: [تقديم مشكلة أو اقتراح](#)
-- **تواصل معنا**: xmulitech@gmail.com
+[⬇️ التنزيل من Microsoft Store](https://apps.microsoft.com/detail/9PFQQ9CPP9P3){.vp-button.brand}
+[📧 اتصل بالدعم التجاري للتعليقات](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

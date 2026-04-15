@@ -3,24 +3,44 @@ import { defineConfig } from 'vitepress'
 // Per-locale product item lists
 const productItems = {
   root: [
-    { text: '快速·实用工具箱', link: '/products/quick-utilities-suite' },
-    { text: '快速·屏幕取色器', link: '/products/quick-colorpicker' },
-    { text: '快速·批量文件复制', link: '/products/quick-bulkfilecopy' },
-    { text: '快速·批量文件删除', link: '/products/quick-bulkfiledelete' },
-    { text: '快速·截图翻译', link: '/products/quick-snaptranslate' },
-    { text: '快速·窗口名侦探', link: '/products/quick-windowinspector' },
-    { text: '快速·窗口置顶', link: '/products/quick-alwaysontop' },
-    { text: '快速·Defender 开关', link: '/products/quick-defendertoggle' }
+    { text: '💎 核心爆款', items: [
+      { text: '多屏亮度同步 (BrightnessSync)', link: '/products/quick-brightnesssync' },
+      { text: '窗口置顶 (AlwaysOnTop)', link: '/products/quick-alwaysontop' },
+      { text: '窗口名侦探 (WindowInspector)', link: '/products/quick-windowinspector' }
+    ]},
+    { text: '⚡ 效率与系统', items: [
+      { text: '批量文件复制 (BulkFileCopy)', link: '/products/quick-bulkfilecopy' },
+      { text: '批量文件删除 (BulkFileDelete)', link: '/products/quick-bulkfiledelete' },
+      { text: 'Defender 开关 (DefenderToggle)', link: '/products/quick-defendertoggle' }
+    ]},
+    { text: '🧰 实用小工具', items: [
+      { text: '截图翻译 (SnapTranslate)', link: '/products/quick-snaptranslate' },
+      { text: '提取图片文本 (SnapOCR)', link: '/products/quick-snapocr' },
+      { text: '屏幕取色器 (ColorPicker)', link: '/products/quick-colorpicker' }
+    ]},
+    { text: '📦 完整版全家桶', items: [
+      { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' }
+    ]}
   ],
   en: [
-    { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' },
-    { text: 'Quick ColorPicker', link: '/products/quick-colorpicker' },
-    { text: 'Quick BulkFileCopy', link: '/products/quick-bulkfilecopy' },
-    { text: 'Quick BulkFileDelete', link: '/products/quick-bulkfiledelete' },
-    { text: 'Quick SnapTranslate', link: '/products/quick-snaptranslate' },
-    { text: 'Quick WindowInspector', link: '/products/quick-windowinspector' },
-    { text: 'Quick AlwaysOnTop', link: '/products/quick-alwaysontop' },
-    { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
+    { text: '💎 Core Pro Tools', items: [
+      { text: 'Quick BrightnessSync', link: '/products/quick-brightnesssync' },
+      { text: 'Quick AlwaysOnTop', link: '/products/quick-alwaysontop' },
+      { text: 'Quick WindowInspector', link: '/products/quick-windowinspector' }
+    ]},
+    { text: '⚡ File & System', items: [
+      { text: 'Quick BulkFileCopy', link: '/products/quick-bulkfilecopy' },
+      { text: 'Quick BulkFileDelete', link: '/products/quick-bulkfiledelete' },
+      { text: 'Quick DefenderToggle', link: '/products/quick-defendertoggle' }
+    ]},
+    { text: '🧰 Daily Utilities', items: [
+      { text: 'Quick SnapTranslate', link: '/products/quick-snaptranslate' },
+      { text: 'Quick SnapOCR', link: '/products/quick-snapocr' },
+      { text: 'Quick ColorPicker', link: '/products/quick-colorpicker' }
+    ]},
+    { text: '📦 Complete Suite', items: [
+      { text: 'Quick Utilities Suite', link: '/products/quick-utilities-suite' }
+    ]}
   ],
   'zh-tw': [
     { text: '快速·實用工具箱', link: '/products/quick-utilities-suite' },

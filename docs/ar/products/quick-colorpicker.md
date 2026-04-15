@@ -70,19 +70,7 @@
 3. **التقط اللون**
    انقر أو اضغط مفتاح المسافة لنسخ قيمة اللون إلى الحافظة مباشرة
 
----
+<br>
 
-### جرّبه مجاناً
-
-**تجربة مجانية لمدة 30 يوماً**
-وظائف كاملة بدون قيود
-
-[تحميل الآن](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [عرض الأسعار](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [التوثيق](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
-
----
-
-### هل تحتاج مساعدة؟
-
-- **التوثيق**: [عرض دليل المستخدم الكامل](#)
-- **الملاحظات**: [تقديم مشكلة أو اقتراح](#)
-- **تواصل معنا**: xmulitech@gmail.com
+[⬇️ التنزيل من Microsoft Store](https://apps.microsoft.com/detail/9N2XV7TJTN2J){.vp-button.brand}
+[📧 اتصل بالدعم التجاري للتعليقات](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

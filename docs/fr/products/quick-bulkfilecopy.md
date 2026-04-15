@@ -70,19 +70,7 @@ Sauvegardez en toute sécurité des dossiers de projet contenant de grands volum
 3. **Lancez la copie**
    Cliquez sur Démarrer, suivez la progression en temps réel, et laissez la vérification automatique confirmer un transfert réussi
 
----
+<br>
 
-### Essai gratuit
-
-**Essai gratuit de 30 jours**
-Constatez la différence de vitesse par vous-même
-
-[Télécharger maintenant](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [Voir les tarifs](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [Documentation](https://apps.microsoft.com/detail/9P0MCT80QQTL)
-
----
-
-### Besoin d'aide ?
-
-- **Documentation** : [Consulter le guide utilisateur complet](#)
-- **Commentaires** : [Soumettre un problème ou une suggestion](#)
-- **Nous contacter** : xmulitech@gmail.com
+[⬇️ Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
+[📧 Contacter le support commercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

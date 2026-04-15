@@ -70,19 +70,7 @@ Visualize informacoes de janelas de aplicativos para localizar programas ou proc
 3. **Veja as Informacoes**
    Os detalhes da janela sao exibidos automaticamente, com uma borda destacada identificando a janela alvo
 
----
+<br>
 
-### Experimente Gratuitamente
-
-**30 Dias de Teste Gratuito**
-Experimente uma ferramenta profissional de inspecao de janelas
-
-[Baixar agora](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [Ver precos](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [Documentacao](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
-
----
-
-### Precisa de Ajuda?
-
-- **Documentacao**: [Ver Guia Completo do Usuario](#)
-- **Feedback**: [Enviar um Problema ou Sugestao](#)
-- **Contato**: xmulitech@gmail.com
+[⬇️ Baixar da Microsoft Store](https://apps.microsoft.com/detail/9N8MVQV88Z2T){.vp-button.brand}
+[📧 Contatar o suporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

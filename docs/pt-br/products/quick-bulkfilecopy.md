@@ -70,19 +70,7 @@ Faca backup seguro de pastas de projetos contendo grandes volumes de ativos de m
 3. **Inicie a Copia**
    Clique em Iniciar, acompanhe o progresso em tempo real e deixe a verificacao automatica confirmar uma transferencia bem-sucedida
 
----
+<br>
 
-### Experimente Gratuitamente
-
-**30 Dias de Teste Gratuito**
-Experimente a diferenca de velocidade voce mesmo
-
-[Baixar agora](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [Ver precos](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [Documentacao](https://apps.microsoft.com/detail/9P0MCT80QQTL)
-
----
-
-### Precisa de Ajuda?
-
-- **Documentacao**: [Ver Guia Completo do Usuario](#)
-- **Feedback**: [Enviar um Problema ou Sugestao](#)
-- **Contato**: xmulitech@gmail.com
+[⬇️ Baixar da Microsoft Store](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
+[📧 Contatar o suporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

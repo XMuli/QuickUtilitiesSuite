@@ -70,19 +70,7 @@
 3. **Захватите цвет**
    Кликните или нажмите пробел, чтобы скопировать значение цвета в буфер обмена
 
----
+<br>
 
-### Попробуйте бесплатно
-
-**30-дневная бесплатная пробная версия**
-Полная функциональность без ограничений
-
-[Скачать](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [Цены](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | [Документация](https://apps.microsoft.com/detail/9N2XV7TJTN2J)
-
----
-
-### Нужна помощь?
-
-- **Документация**: [Полное руководство пользователя](#)
-- **Обратная связь**: [Отправить отзыв или предложение](#)
-- **Связаться с нами**: xmulitech@gmail.com
+[⬇️ Скачать из Microsoft Store](https://apps.microsoft.com/detail/9N2XV7TJTN2J){.vp-button.brand}
+[📧 Обратиться в коммерческую поддержку](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

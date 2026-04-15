@@ -70,19 +70,7 @@ Visualizza informazioni sulle finestre delle applicazioni per localizzare progra
 3. **Visualizza le Informazioni**
    I dettagli della finestra vengono mostrati automaticamente, con un bordo evidenziato che identifica la finestra di destinazione
 
----
+<br>
 
-### Prova Gratuita
-
-**Prova Gratuita di 30 Giorni**
-Sperimenta uno strumento professionale di ispezione finestre
-
-[Scarica Ora](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [Vedi Prezzi](https://apps.microsoft.com/detail/9N8MVQV88Z2T) | [Documentazione](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
-
----
-
-### Hai Bisogno di Aiuto?
-
-- **Documentazione**: [Visualizza la Guida Utente Completa](https://apps.microsoft.com/detail/9N8MVQV88Z2T)
-- **Feedback**: [Invia un Problema o Suggerimento](#)
-- **Contattaci**: xmulitech@gmail.com
+[⬇️ Scarica dal Microsoft Store](https://apps.microsoft.com/detail/9N8MVQV88Z2T){.vp-button.brand}
+[📧 Contatta il supporto commerciale](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

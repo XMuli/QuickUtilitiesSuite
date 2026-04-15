@@ -85,31 +85,7 @@ Quick Utilities Suite는 화면 색상 추출, 파일 관리, 스크린샷 번�
 3. **사용 시작**
    단축키 또는 트레이 메뉴를 통해 원하는 도구를 빠르게 실행합니다
 
----
+<br>
 
-### 무료 체험
-
-**30일 무료 체험**
-완벽한 올인원 도구 모음을 경험하세요
-
-[지금 다운로드](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [가격 보기](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [문서](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
-
-**특별 혜택**
-풀 스위트를 구매하면 개별 도구를 따로 구매하는 것보다 50% 이상 절약됩니다
-
----
-
-### 도움이 필요하신가요?
-
-- **문서**: [전체 사용자 가이드 보기](#)
-- **비디오 튜토리얼**: [기능 데모 보기](#)
-- **피드백**: [이슈 또는 제안 제출](#)
-- **문의하기**: xmulitech@gmail.com
-
----
-
-### 기업 라이선스
-
-기업 고객을 위한 볼륨 라이선스 및 맞춤 서비스를 제공합니다.
-
-[영업팀 문의](https://apps.microsoft.com/detail/9PGNXC5HJMCV) | [기업 플랜](https://apps.microsoft.com/detail/9PGNXC5HJMCV)
+[⬇️ Microsoft Store에서 다운로드](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
+[📧 상업용 지원팀에 문의](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

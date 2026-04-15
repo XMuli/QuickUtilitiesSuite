@@ -71,19 +71,10 @@
 3. **开始复制**
    点击开始，实时查看进度，完成后自动校验
 
----
+<br>
 
-### 立即体验
+## Download
 
-**免费试用 30 天**
-体验极速复制的快感
+[⬇️ 立即前往微软商店下载安装](https://apps.microsoft.com/detail/9P0MCT80QQTL){.vp-button.brand}
 
-[立即下载](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [查看定价](https://apps.microsoft.com/detail/9P0MCT80QQTL) | [使用文档](https://apps.microsoft.com/detail/9P0MCT80QQTL)
-
----
-
-### 需要帮助？
-
-- **使用文档**: [查看完整使用指南](#)
-- **问题反馈**: [提交问题或建议](#)
-- **联系我们**: xmulitech@gmail.com
+[📧 联系商业团队反馈支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}

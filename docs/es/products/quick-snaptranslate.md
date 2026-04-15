@@ -73,20 +73,7 @@ Consulta documentación técnica, mensajes de error y texto de UI en otros idiom
 3. **Consulta los resultados**
    El texto se reconoce y traduce automáticamente — los resultados se pueden copiar, guardar o fijar en pantalla
 
----
+<br>
 
-### Pruébalo gratis
-
-**Prueba gratuita de 30 días**
-Experimenta la comodidad del reconocimiento y traducción inteligente
-
-[Descargar ahora](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [Ver precios](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | [Documentación](https://apps.microsoft.com/detail/9NJJX8KCGVN9)
-
----
-
-### ¿Necesitas ayuda?
-
-- **Documentación**: [Ver guía de usuario completa](#)
-- **Configuración de API**: [Cómo configurar la API de Tencent Cloud](#)
-- **Comentarios**: [Enviar un problema o sugerencia](#)
-- **Contáctanos**: xmulitech@gmail.com
+[⬇️ Descargar desde Microsoft Store](https://apps.microsoft.com/detail/9NJJX8KCGVN9){.vp-button.brand}
+[📧 Contactar con soporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
