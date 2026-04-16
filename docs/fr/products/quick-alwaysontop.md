@@ -4,73 +4,60 @@
   <img src="/images/quick-logo/Quick AlwaysOnTop.svg" alt="Quick AlwaysOnTop" style="width: 96px; height: 96px;" />
 </div>
 
-**Épinglez n'importe quelle fenêtre au premier plan d'une simple touche — le multitâche sans effort.**
+**Keep the windows that matter exactly where you need them.**
 
 ---
 
-### Gardez les fenêtres essentielles toujours visibles
+### Designed for focused multitasking
 
-Besoin de consulter la documentation tout en écrivant du code ? Envie que votre calculatrice, traducteur ou autres utilitaires restent au premier plan ? Quick AlwaysOnTop vous permet d'épingler ou de détacher n'importe quelle fenêtre avec un seul raccourci, gardant les informations essentielles visibles en permanence et améliorant votre efficacité multitâche.
+Quick AlwaysOnTop gives you a direct way to keep reference windows, meeting panels, calculators, translators, and utility tools visible while the rest of your desktop keeps moving. It fits naturally into daily work because it changes window priority without forcing you to change applications or layout habits.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop Screenshot"
+  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · Aperçu de l'interface</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · Interface Preview</p>
 </div>
 
 ---
 
-### Fonctionnalités clés
+### Why it stands out
 
-**Épinglage en un clic**
-Utilisez un raccourci global ou cliquez sur l'icône de la barre système pour épingler ou détacher instantanément la fenêtre active.
+**Instant pin and release**  
+Use a shortcut or tray action to keep the active window in front, then return it to normal just as quickly.
 
-**Indicateur visuel**
-Une bordure en surbrillance apparaît autour des fenêtres épinglées, rendant immédiatement visible quelles fenêtres sont au premier plan. L'apparence de la bordure est entièrement personnalisable.
+**Clear visual feedback**  
+Highlighted borders and optional prompts confirm pinned state immediately, reducing guesswork.
 
-**Notifications intelligentes**
-Des signaux sonores optionnels et des indications à l'écran confirment que votre action a été appliquée avec succès.
-
----
-
-### Pourquoi choisir Quick AlwaysOnTop
-
-**Plus rapide que les méthodes manuelles**
-Plus besoin de fouiller dans les menus de fenêtres pour trouver une option « rester au premier plan » — un raccourci suffit.
-
-**Fonctionne avec n'importe quelle fenêtre**
-Même les applications qui ne prennent pas en charge nativement le comportement « toujours au premier plan » peuvent être épinglées avec Quick AlwaysOnTop.
-
-**Retour clair et intuitif**
-Les bordures visuelles et les signaux audio vous informent de l'état d'épinglage de chaque fenêtre en un coup d'oeil.
+**Useful across everyday apps**  
+Works well with documents, browsers, chats, terminals, media panels, and utility windows.
 
 ---
 
-### Cas d'utilisation
+### Where it fits best
 
-**Flux de travail multitâche**
-Gardez un document de référence visible tout en rédigeant ou éditant du contenu dans une autre application.
+**Development and operations**  
+Keep logs, consoles, or reference docs visible while you work in another application.
 
-**Fenêtres utilitaires**
-Épinglez les calculatrices, blocs-notes, outils de traduction et autres petits utilitaires pour qu'ils restent toujours visibles.
+**Office productivity**  
+Hold calculators, schedules, and collaboration windows in view without rearranging your desktop.
 
-**Visioconférence**
-Gardez votre fenêtre de réunion au premier plan tout en gérant d'autres tâches sans manquer les discussions importantes.
+**Meetings and live support**  
+Keep a call window accessible while you continue working elsewhere.
 
 ---
 
-### Premiers pas
+### Also worth pairing with Quick BrightnessSync
 
-1. **Activez l'outil**
-   Appuyez sur le raccourci global (par défaut : Ctrl+Shift+T)
-
-2. **Fenêtre épinglée automatiquement**
-   La fenêtre active est épinglée immédiatement, signalée par une bordure en surbrillance
-
-3. **Détachez quand c'est terminé**
-   Appuyez à nouveau sur le raccourci pour libérer la fenêtre de sa position au premier plan
+Quick AlwaysOnTop helps you manage attention on the desktop. `Quick BrightnessSync` helps you manage visual comfort across multiple displays. Together they cover two of the most common friction points on a serious Windows workstation.
 
 <br>
 
-[⬇️ Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
-[📧 Contacter le support commercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+## Next step
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">Download from Microsoft Store</a>
+  <a class="vp-button alt" href="/fr/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/fr/pricing">Compare Editions</a>
+
+</div>
+

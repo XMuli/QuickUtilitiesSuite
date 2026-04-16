@@ -4,69 +4,66 @@
   <img src="/images/quick-logo/Quick%20BrightnessSync.svg" alt="Quick BrightnessSync" style="width: 96px; height: 96px;" />
 </div>
 
-**زامن السطوع الحقيقي لشاشاتك الخارجية من خلال عنصر تحكم واحد واضح ومباشر.**
+**Professional brightness control for multi-monitor Windows desktops.**
 
 ---
 
-### مصمم لمكاتب العمل متعددة الشاشات
+### Built for the desks that keep touching monitor buttons
 
-يوفر Quick BrightnessSync بديلاً عملياً عن ضبط كل شاشة يدوياً من أزرارها. من خلال DDC/CI يتواصل التطبيق مباشرة مع الشاشات المدعومة، ليجعل ضبط السطوع أسرع وأكثر اتساقاً وملاءمة للعمل اليومي.
+Quick BrightnessSync replaces the slow ritual of reaching for every monitor button. By talking directly to supported displays through DDC/CI, it gives you a fast, consistent way to tune brightness across your setup and keep visual comfort under control from morning to night.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick%20BrightnessSync.png" alt="لقطة Quick BrightnessSync"
+  <img src="/images/snapshoot/Quick%20BrightnessSync.png" alt="Quick BrightnessSync screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
   <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick BrightnessSync · Interface Preview</p>
 </div>
 
 ---
 
-### لماذا يستحق أن يبقى في شريط النظام
+### Why it stands out
 
-**تحكم حقيقي على مستوى العتاد**  
-يقوم بضبط الإضاءة الخلفية الفعلية للشاشة، وليس مجرد طبقة برمجية تجعل الصورة أكثر قتامة.
+**True hardware brightness control**  
+Adjust actual monitor backlight levels instead of relying on a software overlay that only darkens the image.
 
-**شريط واحد لكل مساحة العمل**  
-يوحّد سطوع عدة شاشات خارجية خلال ثوانٍ ويمنحك تجربة بصرية أكثر اتزاناً.
+**One control surface for multiple displays**  
+Bring several supported external monitors into alignment in seconds and keep the workspace visually consistent.
 
-**خفيف وجاهز دائماً**  
-يعمل بهدوء في الخلفية مع وصول سريع من شريط النظام عند الحاجة.
-
----
-
-### أين تظهر قيمته بوضوح
-
-**التطوير والتحليل**  
-يجعل العمل بين اللوحات الطرفية ولوحات المتابعة والواجهات الداكنة أكثر راحة.
-
-**التصميم وصناعة المحتوى**  
-يساعد على الحفاظ على اتساق بصري أفضل أثناء مراجعة الألوان والتخطيطات والعروض.
-
-**بيئات التشغيل متعددة الشاشات**  
-يسمح بضبط مجموعة الشاشات كاملة بسرعة مع تغيّر الإضاءة المحيطة.
+**Quiet, lightweight daily use**  
+Keep it available in the tray so brightness changes stay quick and unobtrusive.
 
 ---
 
-### ابدأ خلال ثوانٍ
+### Where it fits best
 
-1. **شغّل التطبيق**  
-   افتح Quick BrightnessSync ودعه يكتشف الشاشات المدعومة تلقائياً.
+**Developers and technical users**  
+Move between bright dashboards, terminals, IDEs, and documentation without re-adjusting every display manually.
 
-2. **حرّك شريط السطوع**  
-   تعديل واحد يكفي للوصول إلى مستوى مريح عبر الشاشات المتصلة.
+**Analysts, trading desks, and operations**  
+Maintain a comfortable visual setup as ambient light shifts through the day.
 
-3. **أجرِ الضبط الدقيق عند الحاجة**  
-   إذا لم تستجب إحدى الشاشات، اختبرها أولاً عبر اتصال مباشر HDMI أو DisplayPort.
+**Design and content teams**  
+Review layouts, presentations, and visual systems with steadier display behavior across multiple screens.
 
 ---
 
-### ملاحظة التوافق
+### Also worth pairing with Quick AlwaysOnTop
 
-> يعتمد Quick BrightnessSync على دعم DDC/CI من الشاشة ومسار الاتصال. قد تقوم بعض قواعد التوصيل أو المحولات أو الموزعات بحجب أوامر التحكم. عند وجود مشكلة، جرّب الاتصال المباشر أولاً.
+Quick BrightnessSync improves display comfort. `Quick AlwaysOnTop` improves multitasking flow. Together, they create a cleaner desktop experience for users who work across many windows and many hours.
+
+---
+
+### Compatibility note
+
+> Quick BrightnessSync depends on DDC/CI support from the monitor and the connection path. Some docks, hubs, or adapters may block hardware commands. If a display does not respond, test it with a direct HDMI or DisplayPort connection first.
 
 <br>
 
-## Download
+## Next step
 
-[تنزيل من Microsoft Store](https://apps.microsoft.com/detail/9P90PPWL7VDJ){.vp-button.brand}
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9P90PPWL7VDJ">Download from Microsoft Store</a>
+  <a class="vp-button alt" href="/ar/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+  <a class="vp-button alt" href="/ar/pricing">Compare Editions</a>
 
-[التواصل مع الدعم التجاري](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+</div>
+

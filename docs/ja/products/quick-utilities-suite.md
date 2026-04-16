@@ -4,88 +4,54 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**オールインワンのプロフェッショナルツールキット — 生産性を倍増。**
+**A broader Windows toolkit for users who want more than one utility in daily reach.**
 
 ---
 
-### 一つのツールキットで、あらゆるニーズに対応
+### One family of tools for serious desktop work
 
-Quick Utilities Suite は、画面の色取得、ファイル管理、スクリーンショット翻訳、ウィンドウ管理など、一般的なワークフローをカバーするプロフェッショナルツールの厳選コレクションを統合。統一されたインターフェースと設定で、作業プロセスをよりスムーズかつ効率的にします。
+Quick Utilities Suite brings together display control, window management, file-heavy workflow tools, screen capture, translation, OCR, and color utilities in one product family. It is designed for users who prefer a more consistent desktop environment over a collection of unrelated point tools.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite スクリーンショット"
+  <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick Utilities Suite · インターフェースプレビュー</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick Utilities Suite · Interface Preview</p>
 </div>
 
 ---
 
-### 収録ツール
+### What it includes
 
-**Quick ColorPicker - スクリーンカラーピッカー**
-画面上のあらゆる場所から色を正確にキャプチャし、複数の出力フォーマットに対応。
+**Core display and multitasking tools**  
+Quick BrightnessSync, Quick AlwaysOnTop, and Quick WindowInspector support comfortable, focused desktop work.
 
-**Quick BulkFileCopy - 一括ファイルコピー**
-大量の小さなファイルを高速コピー — OS標準ユーティリティの数倍の速度を実現。
+**File workflow tools**  
+Quick BulkFileCopy and Quick BulkFileDelete help with dependency trees, mirrored folders, archives, packaging directories, and repeated cleanup tasks.
 
-**Quick BulkFileDelete - 一括ファイル削除**
-巨大なディレクトリを超高速で削除し、貴重な時間を節約。
-
-**Quick SnapTranslate - スクリーンショット翻訳**
-ワンクリックでキャプチャ、認識、翻訳 — 多言語作業をスムーズに。
-
-**Quick WindowInspector - ウィンドウインスペクター**
-あらゆるウィンドウの詳細情報を取得し、より効率的なデバッグと開発を実現。
-
-**Quick AlwaysOnTop - 常時最前面表示**
-ワンキーで重要なウィンドウを最前面に固定し、安心してマルチタスク。
-
-**Quick DefenderToggle - Defender切り替え**
-システム保護を素早く制御し、高度な操作をより便利に。
+**Capture and translation tools**  
+Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
 
 ---
 
-### フルスイートを選ぶ理由
+### Who it is built for
 
-**お得な価格**
-フルスイートの購入は、各ツールを個別に購入するより50%以上お得。
+**Power users and professional desktops**  
+Keep a serious workstation responsive with tools that reduce repeated friction.
 
-**統一された体験**
-すべてのツールが設定とホットキー構成を共有し、学習コストを削減。
+**Developers, operators, and technical teams**  
+Support workflows that move between files, windows, logs, dashboards, and screen-based information.
 
-**ワンストップソリューション**
-複数のアプリケーションをインストールする必要なし — 一つのツールキットですべてのニーズに対応。
-
-**継続的なアップデート**
-一度の購入で、すべてのツールの継続的なアップデートと新機能をお楽しみいただけます。
-
----
-
-### こんな方におすすめ
-
-**デザイナーと開発者**
-カラーピッキング、スクリーンショット翻訳、ウィンドウデバッグ — デザインと開発作業に欠かせないツール。
-
-**IT管理者**
-ファイル管理とシステム制御で運用効率を向上。
-
-**効率を追求する方**
-マルチタスクと迅速な操作で、作業をより生産的に。
-
----
-
-### はじめに
-
-1. **インストールして起動**
-   インストーラーを実行 — ツールキットは自動的にシステムトレイに常駐します
-
-2. **ホットキーを設定**
-   設定パネルで各ツールのグローバルホットキーを設定
-
-3. **使い始める**
-   ホットキーまたはトレイメニューから任意のツールを素早く起動
+**Users who want a more complete setup**  
+Choose the suite when you want a broader toolkit rather than a single-purpose utility.
 
 <br>
 
-[⬇️ Microsoft Store からダウンロード](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
-[📧 法人向けサポートにお問い合わせ](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+## Next step
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="/ja/pricing">Compare Editions</a>
+  <a class="vp-button alt" href="/ja/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/ja/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+
+</div>
+

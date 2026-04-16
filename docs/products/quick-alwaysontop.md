@@ -46,21 +46,17 @@ Keep a call window accessible while you continue working elsewhere.
 
 ---
 
-### Get started in seconds
+### Also worth pairing with Quick BrightnessSync
 
-1. **Activate the tool**  
-   Use the configured shortcut or open the action from the tray.
-
-2. **Pin the active window**  
-   The selected window stays visible above other content with a clear indicator.
-
-3. **Toggle it off when finished**  
-   Release the window whenever you want to return to the normal desktop order.
+Quick AlwaysOnTop helps you manage attention on the desktop. `Quick BrightnessSync` helps you manage visual comfort across multiple displays. Together they cover two of the most common friction points on a serious Windows workstation.
 
 <br>
 
-## Download
+## Next step
 
-[Download from Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">Download from Microsoft Store</a>
+  <a class="vp-button alt" href="/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/pricing">Compare Editions</a>
 
-[Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+</div>

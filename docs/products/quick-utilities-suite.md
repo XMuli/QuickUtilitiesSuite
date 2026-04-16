@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**A curated suite of focused Windows utilities for teams that want smoother everyday execution.**
+**A broader Windows toolkit for users who want more than one utility in daily reach.**
 
 ---
 
-### One suite, less operational friction
+### One family of tools for serious desktop work
 
-Quick Utilities Suite brings together practical utilities for display control, window management, file-intensive work, on-screen color capture, and screenshot translation. Instead of collecting disconnected tools, you get a more consistent experience with one product family built around fast access and dependable daily use.
+Quick Utilities Suite brings together display control, window management, file-heavy workflow tools, screen capture, translation, OCR, and color utilities in one product family. It is designed for users who prefer a more consistent desktop environment over a collection of unrelated point tools.
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite screenshot"
@@ -20,47 +20,37 @@ Quick Utilities Suite brings together practical utilities for display control, w
 
 ---
 
-### What the suite brings together
+### What it includes
 
-**A focused set of workflow tools**  
-Includes Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker.
+**Core display and multitasking tools**  
+Quick BrightnessSync, Quick AlwaysOnTop, and Quick WindowInspector support comfortable, focused desktop work.
 
-**A more unified experience**  
-Tray access, familiar interaction patterns, and shared product language reduce the friction of switching tools.
+**File workflow tools**  
+Quick BulkFileCopy and Quick BulkFileDelete help with dependency trees, mirrored folders, archives, packaging directories, and repeated cleanup tasks.
 
-**Stronger value than buying ad hoc utilities**  
-Adopt a compact toolset that supports daily productivity without the overhead of managing many separate apps.
+**Capture and translation tools**  
+Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
 
 ---
 
 ### Who it is built for
 
-**Developers and technical teams**  
-Support coding, debugging, cleanup, capture, and translation workflows from a single toolkit.
-
-**IT and operations**  
-Handle repetitive Windows tasks with utilities that are faster to access and easier to repeat.
-
 **Power users and professional desktops**  
-Keep a serious workstation responsive with utilities that solve common friction points cleanly.
+Keep a serious workstation responsive with tools that reduce repeated friction.
 
----
+**Developers, operators, and technical teams**  
+Support workflows that move between files, windows, logs, dashboards, and screen-based information.
 
-### Get started in seconds
-
-1. **Install the suite**  
-   Deploy from Microsoft Store and open the tray-based launcher.
-
-2. **Choose the utilities you use most**  
-   Configure shortcuts and keep the tools you rely on ready for immediate access.
-
-3. **Build a smoother desktop routine**  
-   Bring file, window, screen, and translation tasks into one coherent working setup.
+**Users who want a more complete setup**  
+Choose the suite when you want a broader toolkit rather than a single-purpose utility.
 
 <br>
 
-## Download
+## Next step
 
-[Download from Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="/pricing">Compare Editions</a>
+  <a class="vp-button alt" href="/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
 
-[Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+</div>

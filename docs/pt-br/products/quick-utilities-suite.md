@@ -4,88 +4,54 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**Um kit de ferramentas profissional completo — duplique sua produtividade.**
+**A broader Windows toolkit for users who want more than one utility in daily reach.**
 
 ---
 
-### Um Kit, Todas as Necessidades Atendidas
+### One family of tools for serious desktop work
 
-Quick Utilities Suite integra uma colecao selecionada de ferramentas profissionais cobrindo selecao de cores na tela, gerenciamento de arquivos, traducao de capturas de tela, gerenciamento de janelas e outros fluxos de trabalho comuns. Interface e configuracoes unificadas tornam seu processo de trabalho mais fluido e eficiente.
+Quick Utilities Suite brings together display control, window management, file-heavy workflow tools, screen capture, translation, OCR, and color utilities in one product family. It is designed for users who prefer a more consistent desktop environment over a collection of unrelated point tools.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite Screenshot"
+  <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick Utilities Suite · Visualizacao da Interface</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick Utilities Suite · Interface Preview</p>
 </div>
 
 ---
 
-### Ferramentas Incluidas
+### What it includes
 
-**Quick ColorPicker - Seletor de Cores na Tela**
-Capture cores com precisao de qualquer lugar da tela com suporte a multiplos formatos de saida.
+**Core display and multitasking tools**  
+Quick BrightnessSync, Quick AlwaysOnTop, and Quick WindowInspector support comfortable, focused desktop work.
 
-**Quick BulkFileCopy - Copia de Arquivos em Massa**
-Copia em alta velocidade de grandes quantidades de arquivos pequenos — varias vezes mais rapido que o utilitario nativo do sistema.
+**File workflow tools**  
+Quick BulkFileCopy and Quick BulkFileDelete help with dependency trees, mirrored folders, archives, packaging directories, and repeated cleanup tasks.
 
-**Quick BulkFileDelete - Exclusao de Arquivos em Massa**
-Exclusao ultrarapida de diretorios massivos, economizando tempo valioso.
-
-**Quick SnapTranslate - Tradutor de Capturas de Tela**
-Capture, reconheca e traduza texto com um clique para trabalho entre idiomas sem esforco.
-
-**Quick WindowInspector - Inspetor de Janelas**
-Obtenha informacoes detalhadas de qualquer janela para depuracao e desenvolvimento mais eficientes.
-
-**Quick AlwaysOnTop - Sempre no Topo**
-Fixe janelas criticas no topo com uma unica tecla para multitarefa com mais confianca.
-
-**Quick DefenderToggle - Controle do Defender**
-Controle rapidamente a protecao do sistema para operacoes avancadas mais convenientes.
+**Capture and translation tools**  
+Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
 
 ---
 
-### Por Que Escolher o Suite Completo
+### Who it is built for
 
-**Melhor Custo-Beneficio**
-Adquirir o suite completo economiza mais de 50% em comparacao com a compra de cada ferramenta individualmente.
+**Power users and professional desktops**  
+Keep a serious workstation responsive with tools that reduce repeated friction.
 
-**Experiencia Unificada**
-Todas as ferramentas compartilham configuracoes e atalhos, reduzindo a curva de aprendizado.
+**Developers, operators, and technical teams**  
+Support workflows that move between files, windows, logs, dashboards, and screen-based information.
 
-**Solucao Completa**
-Sem necessidade de instalar multiplos aplicativos — um kit atende todas as suas necessidades.
-
-**Atualizacoes Continuas**
-Compre uma vez e aproveite atualizacoes contínuas e novos recursos para todas as ferramentas.
-
----
-
-### Para Quem e
-
-**Designers e Desenvolvedores**
-Selecao de cores, traducao de capturas de tela, depuracao de janelas — ferramentas essenciais para design e desenvolvimento.
-
-**Administradores de TI**
-Gerenciamento de arquivos e controle do sistema para melhorar a eficiencia operacional.
-
-**Buscadores de Eficiencia**
-Multitarefa e operacoes rapidas para tornar o trabalho mais produtivo.
-
----
-
-### Como Comecar
-
-1. **Instale e Inicie**
-   Execute o instalador — o kit reside automaticamente na bandeja do sistema
-
-2. **Configure os Atalhos**
-   Defina atalhos globais para cada ferramenta no painel de configuracoes
-
-3. **Comece a Usar**
-   Inicie qualquer ferramenta rapidamente pelos atalhos ou pelo menu da bandeja
+**Users who want a more complete setup**  
+Choose the suite when you want a broader toolkit rather than a single-purpose utility.
 
 <br>
 
-[⬇️ Baixar da Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
-[📧 Contatar o suporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+## Next step
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="/pt-br/pricing">Compare Editions</a>
+  <a class="vp-button alt" href="/pt-br/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/pt-br/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+
+</div>
+

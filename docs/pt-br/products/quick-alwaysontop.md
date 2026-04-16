@@ -4,73 +4,60 @@
   <img src="/images/quick-logo/Quick AlwaysOnTop.svg" alt="Quick AlwaysOnTop" style="width: 96px; height: 96px;" />
 </div>
 
-**Fixe qualquer janela no topo com uma unica tecla — multitarefa sem esforco.**
+**Keep the windows that matter exactly where you need them.**
 
 ---
 
-### Mantenha Janelas Criticas Sempre Visiveis
+### Designed for focused multitasking
 
-Precisa consultar documentacao enquanto escreve codigo? Quer que sua calculadora, tradutor ou outras janelas utilitarias fiquem sempre no topo? Quick AlwaysOnTop permite fixar ou desfixar qualquer janela com um unico atalho, mantendo informacoes essenciais visiveis o tempo todo e aumentando sua eficiencia em multitarefa.
+Quick AlwaysOnTop gives you a direct way to keep reference windows, meeting panels, calculators, translators, and utility tools visible while the rest of your desktop keeps moving. It fits naturally into daily work because it changes window priority without forcing you to change applications or layout habits.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop Screenshot"
+  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · Visualizacao da Interface</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · Interface Preview</p>
 </div>
 
 ---
 
-### Recursos Principais
+### Why it stands out
 
-**Fixacao com Um Clique**
-Use um atalho global ou clique no icone da bandeja do sistema para fixar ou desfixar a janela ativa instantaneamente.
+**Instant pin and release**  
+Use a shortcut or tray action to keep the active window in front, then return it to normal just as quickly.
 
-**Indicador Visual**
-Uma borda destacada aparece ao redor das janelas fixadas, tornando imediatamente claro quais janelas estao no topo. A aparencia da borda e totalmente personalizavel.
+**Clear visual feedback**  
+Highlighted borders and optional prompts confirm pinned state immediately, reducing guesswork.
 
-**Notificacoes Inteligentes**
-Sinais sonoros opcionais e dicas na tela confirmam que sua acao foi aplicada com sucesso.
-
----
-
-### Por Que Escolher Quick AlwaysOnTop
-
-**Mais Rapido que Metodos Manuais**
-Sem necessidade de procurar em menus de janela por uma opcao "manter no topo" — um atalho e tudo o que voce precisa.
-
-**Funciona Com Qualquer Janela**
-Mesmo aplicativos que nao suportam nativamente o comportamento de sempre-no-topo podem ser fixados com Quick AlwaysOnTop.
-
-**Feedback Claro e Intuitivo**
-Bordas visuais e sinais sonoros mantem voce informado do estado de fixacao de cada janela instantaneamente.
+**Useful across everyday apps**  
+Works well with documents, browsers, chats, terminals, media panels, and utility windows.
 
 ---
 
-### Casos de Uso
+### Where it fits best
 
-**Fluxos de Trabalho Multitarefa**
-Mantenha um documento de referencia visivel enquanto escreve ou edita conteudo em outro aplicativo.
+**Development and operations**  
+Keep logs, consoles, or reference docs visible while you work in another application.
 
-**Janelas Utilitarias**
-Fixe calculadoras, blocos de notas, ferramentas de traducao e outros pequenos utilitarios para ficarem sempre visiveis.
+**Office productivity**  
+Hold calculators, schedules, and collaboration windows in view without rearranging your desktop.
 
-**Videoconferencia**
-Mantenha sua janela de reuniao no topo enquanto lida com outras tarefas sem perder discussoes importantes.
+**Meetings and live support**  
+Keep a call window accessible while you continue working elsewhere.
 
 ---
 
-### Como Comecar
+### Also worth pairing with Quick BrightnessSync
 
-1. **Ative a Ferramenta**
-   Pressione o atalho global (padrao: Ctrl+Shift+T)
-
-2. **Janela Fixada Automaticamente**
-   A janela ativa e fixada imediatamente, indicada por uma borda destacada
-
-3. **Desfixe Quando Terminar**
-   Pressione o atalho novamente para liberar a janela da posicao superior
+Quick AlwaysOnTop helps you manage attention on the desktop. `Quick BrightnessSync` helps you manage visual comfort across multiple displays. Together they cover two of the most common friction points on a serious Windows workstation.
 
 <br>
 
-[⬇️ Baixar da Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
-[📧 Contatar o suporte comercial](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+## Next step
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">Download from Microsoft Store</a>
+  <a class="vp-button alt" href="/pt-br/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/pt-br/pricing">Compare Editions</a>
+
+</div>
+

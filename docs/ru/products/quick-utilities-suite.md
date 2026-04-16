@@ -4,88 +4,54 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**Профессиональный набор инструментов «всё в одном» — удвойте свою продуктивность.**
+**A broader Windows toolkit for users who want more than one utility in daily reach.**
 
 ---
 
-### Один набор — все потребности покрыты
+### One family of tools for serious desktop work
 
-Quick Utilities Suite объединяет подобранную коллекцию профессиональных инструментов для захвата цвета, управления файлами, перевода скриншотов, управления окнами и других типичных рабочих процессов. Единый интерфейс и настройки делают вашу работу плавнее и эффективнее.
+Quick Utilities Suite brings together display control, window management, file-heavy workflow tools, screen capture, translation, OCR, and color utilities in one product family. It is designed for users who prefer a more consistent desktop environment over a collection of unrelated point tools.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite Screenshot"
+  <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick Utilities Suite · Предпросмотр интерфейса</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick Utilities Suite · Interface Preview</p>
 </div>
 
 ---
 
-### Инструменты в составе
+### What it includes
 
-**Quick ColorPicker — Экранная пипетка**
-Точный захват цвета из любой точки экрана с поддержкой нескольких форматов вывода.
+**Core display and multitasking tools**  
+Quick BrightnessSync, Quick AlwaysOnTop, and Quick WindowInspector support comfortable, focused desktop work.
 
-**Quick BulkFileCopy — Массовое копирование файлов**
-Высокоскоростное копирование большого количества мелких файлов — в разы быстрее системных средств.
+**File workflow tools**  
+Quick BulkFileCopy and Quick BulkFileDelete help with dependency trees, mirrored folders, archives, packaging directories, and repeated cleanup tasks.
 
-**Quick BulkFileDelete — Массовое удаление файлов**
-Молниеносное удаление огромных директорий — экономия драгоценного времени.
-
-**Quick SnapTranslate — Перевод скриншотов**
-Снимок, распознавание и перевод текста одним кликом — без усилий работайте на разных языках.
-
-**Quick WindowInspector — Инспектор окон**
-Получение подробной информации о любом окне — отладка и разработка эффективнее.
-
-**Quick AlwaysOnTop — Окно всегда поверх**
-Закрепите важное окно поверх всех одной клавишей — уверенная многозадачность.
-
-**Quick DefenderToggle — Переключатель Defender**
-Быстрое управление защитой системы — расширенные операции стали проще.
+**Capture and translation tools**  
+Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
 
 ---
 
-### Почему стоит выбрать полный набор
+### Who it is built for
 
-**Выгоднее**
-Покупка полного набора экономит более 50% по сравнению с приобретением каждого инструмента по отдельности.
+**Power users and professional desktops**  
+Keep a serious workstation responsive with tools that reduce repeated friction.
 
-**Единый опыт**
-Все инструменты разделяют настройки и конфигурацию горячих клавиш, что снижает кривую обучения.
+**Developers, operators, and technical teams**  
+Support workflows that move between files, windows, logs, dashboards, and screen-based information.
 
-**Решение «всё в одном»**
-Не нужно устанавливать несколько приложений — один набор покрывает все потребности.
-
-**Постоянные обновления**
-Купите один раз и получайте обновления и новые функции для всех инструментов.
-
----
-
-### Для кого это
-
-**Дизайнеры и разработчики**
-Захват цвета, перевод скриншотов, отладка окон — незаменимые инструменты для дизайна и разработки.
-
-**IT-администраторы**
-Управление файлами и контроль системы для повышения операционной эффективности.
-
-**Стремящиеся к эффективности**
-Многозадачность и быстрые операции для более продуктивной работы.
-
----
-
-### Начало работы
-
-1. **Установка и запуск**
-   Запустите установщик — набор автоматически располагается в системном трее
-
-2. **Настройка горячих клавиш**
-   Задайте глобальные горячие клавиши для каждого инструмента в панели настроек
-
-3. **Начинайте работу**
-   Быстро запускайте любой инструмент через горячие клавиши или меню трея
+**Users who want a more complete setup**  
+Choose the suite when you want a broader toolkit rather than a single-purpose utility.
 
 <br>
 
-[⬇️ Скачать из Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
-[📧 Обратиться в коммерческую поддержку](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+## Next step
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="/ru/pricing">Compare Editions</a>
+  <a class="vp-button alt" href="/ru/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/ru/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+
+</div>
+

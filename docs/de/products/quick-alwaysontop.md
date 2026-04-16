@@ -4,73 +4,60 @@
   <img src="/images/quick-logo/Quick AlwaysOnTop.svg" alt="Quick AlwaysOnTop" style="width: 96px; height: 96px;" />
 </div>
 
-**Jedes Fenster mit einem Tastenkürzel im Vordergrund fixieren — müheloses Multitasking.**
+**Keep the windows that matter exactly where you need them.**
 
 ---
 
-### Wichtige Fenster immer sichtbar halten
+### Designed for focused multitasking
 
-Müssen Sie beim Programmieren Dokumentation im Blick behalten? Soll Ihr Taschenrechner, Übersetzer oder andere Hilfsfenster immer im Vordergrund bleiben? Quick AlwaysOnTop lässt Sie jedes Fenster mit einem einzigen Tastenkürzel fixieren oder lösen, sodass wichtige Informationen jederzeit sichtbar bleiben und Ihre Multitasking-Effizienz steigt.
+Quick AlwaysOnTop gives you a direct way to keep reference windows, meeting panels, calculators, translators, and utility tools visible while the rest of your desktop keeps moving. It fits naturally into daily work because it changes window priority without forcing you to change applications or layout habits.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop Screenshot"
+  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · Oberflächenvorschau</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · Interface Preview</p>
 </div>
 
 ---
 
-### Hauptfunktionen
+### Why it stands out
 
-**Fixieren mit einem Klick**
-Globales Tastenkürzel verwenden oder das Taskleistensymbol klicken, um das aktive Fenster sofort zu fixieren oder zu lösen.
+**Instant pin and release**  
+Use a shortcut or tray action to keep the active window in front, then return it to normal just as quickly.
 
-**Visueller Indikator**
-Ein hervorgehobener Rahmen erscheint um fixierte Fenster, sodass sofort erkennbar ist, welche Fenster im Vordergrund sind. Die Rahmenoptik ist vollständig anpassbar.
+**Clear visual feedback**  
+Highlighted borders and optional prompts confirm pinned state immediately, reducing guesswork.
 
-**Intelligente Benachrichtigungen**
-Optionale Signaltöne und Bildschirmhinweise bestätigen, dass Ihre Aktion erfolgreich ausgeführt wurde.
-
----
-
-### Warum Quick AlwaysOnTop wählen
-
-**Schneller als manuelle Methoden**
-Kein Durchsuchen von Fenstermenüs nach einer „Immer im Vordergrund"-Option — ein Tastenkürzel genügt.
-
-**Funktioniert mit jedem Fenster**
-Auch Anwendungen, die nativ kein Immer-im-Vordergrund-Verhalten unterstützen, können mit Quick AlwaysOnTop fixiert werden.
-
-**Klares, intuitives Feedback**
-Visuelle Rahmen und Audiosignale informieren Sie auf einen Blick über den Fixierungsstatus jedes Fensters.
+**Useful across everyday apps**  
+Works well with documents, browsers, chats, terminals, media panels, and utility windows.
 
 ---
 
-### Anwendungsfälle
+### Where it fits best
 
-**Multitasking-Arbeitsabläufe**
-Ein Referenzdokument sichtbar halten, während Sie in einer anderen Anwendung schreiben oder bearbeiten.
+**Development and operations**  
+Keep logs, consoles, or reference docs visible while you work in another application.
 
-**Hilfsfenster**
-Taschenrechner, Notizblöcke, Übersetzungstools und andere kleine Hilfsprogramme immer im Blick behalten.
+**Office productivity**  
+Hold calculators, schedules, and collaboration windows in view without rearranging your desktop.
 
-**Videokonferenzen**
-Ihr Meeting-Fenster im Vordergrund halten, während Sie andere Aufgaben erledigen, ohne wichtige Diskussionen zu verpassen.
+**Meetings and live support**  
+Keep a call window accessible while you continue working elsewhere.
 
 ---
 
-### Erste Schritte
+### Also worth pairing with Quick BrightnessSync
 
-1. **Tool aktivieren**
-   Globales Tastenkürzel drücken (Standard: Strg+Umschalt+T)
-
-2. **Fenster wird automatisch fixiert**
-   Das aktive Fenster wird sofort fixiert, erkennbar am hervorgehobenen Rahmen
-
-3. **Fixierung aufheben**
-   Tastenkürzel erneut drücken, um das Fenster aus der Vordergrundposition zu lösen
+Quick AlwaysOnTop helps you manage attention on the desktop. `Quick BrightnessSync` helps you manage visual comfort across multiple displays. Together they cover two of the most common friction points on a serious Windows workstation.
 
 <br>
 
-[⬇️ Im Microsoft Store herunterladen](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
-[📧 Kontaktieren Sie den kommerziellen Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+## Next step
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">Download from Microsoft Store</a>
+  <a class="vp-button alt" href="/de/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/de/pricing">Compare Editions</a>
+
+</div>
+

@@ -2,71 +2,89 @@
 layout: home
 
 hero:
-  name: "Quick Utilities Suite"
-  text: "Professional Windows Utilities"
-  tagline: "A curated toolkit for sharper multi-monitor control, faster file work, and smoother desktop execution."
+  name: "Quick BrightnessSync"
+  text: "Professional control for multi-monitor brightness"
+  tagline: "Adjust the real hardware brightness of external displays from one clean surface, then keep the rest of your desktop organized with the tools that support serious daily work."
   image:
-    src: /home_page/home_page.png
-    alt: Quick Utilities Suite
+    src: /images/snapshoot/Quick%20BrightnessSync.png
+    alt: Quick BrightnessSync
   actions:
     - theme: brand
-      text: Download on Microsoft Store
-      link: https://apps.microsoft.com/detail/9PGNXC5HJMCV
+      text: Explore BrightnessSync
+      link: /products/quick-brightnesssync
     - theme: alt
-      text: GitHub Releases
-      link: https://github.com/XMuli/QuickUtilitiesSuite/releases
+      text: Explore AlwaysOnTop
+      link: /products/quick-alwaysontop
     - theme: alt
-      text: Feedback & Support
-      link: https://github.com/XMuli/QuickUtilitiesSuite/issues
+      text: Compare Editions
+      link: /pricing
 
 features:
   - title: Quick BrightnessSync
-    details: Real hardware brightness control for external monitors through one unified workflow.
+    details: Real hardware brightness control for external monitors, designed for desks that run across two, three, or more displays.
     icon:
       light: /images/quick-logo/Quick%20BrightnessSync.svg
       dark: /images/quick-logo/Quick%20BrightnessSync.svg
-  - title: Quick ColorPicker
-    details: Capture precise on-screen colors for design, implementation, and visual QA work.
-    icon:
-      light: /images/home_features/QuickColorPicker.svg
-      dark: /images/home_features/QuickColorPicker.svg
   - title: Quick AlwaysOnTop
-    details: Keep reference windows visible while the rest of your desktop keeps moving.
+    details: Keep reference windows, meeting panels, calculators, chats, and support tools visible while the rest of your workspace keeps moving.
     icon:
-      light: /images/home_features/QuickAlwaysOnTop.svg
-      dark: /images/home_features/QuickAlwaysOnTop.svg
-  - title: Quick WindowInspector
-    details: Surface the window details you need without the complexity of heavier inspection tools.
+      light: /images/quick-logo/Quick AlwaysOnTop.svg
+      dark: /images/quick-logo/Quick AlwaysOnTop.svg
+  - title: Quick Utilities Suite
+    details: Bring display control, window tools, file-heavy workflow utilities, capture, translation, and color tools into one product family.
+    icon:
+      light: /images/quick-logo/Quick Utilities Suite.svg
+      dark: /images/quick-logo/Quick Utilities Suite.svg
+  - title: Window and troubleshooting tools
+    details: WindowInspector and related desktop utilities help technical users work faster without adding heavy, fragmented software.
     icon:
       light: /images/home_features/QuickWindowInspector.svg
       dark: /images/home_features/QuickWindowInspector.svg
-  - title: Quick BulkFileCopy
-    details: Move high file-count folders faster, with clearer progress and post-copy verification.
+  - title: File-heavy workflow support
+    details: Bulk copy and bulk delete help with project trees, mirrored assets, package folders, and repeated cleanup tasks.
     icon:
       light: /images/home_features/QuickBulkFileCopy.svg
       dark: /images/home_features/QuickBulkFileCopy.svg
-  - title: Quick BulkFileDelete
-    details: Remove oversized folders more efficiently and keep cleanup from interrupting the day.
-    icon:
-      light: /images/home_features/QuickBulkFileDelete.svg
-      dark: /images/home_features/QuickBulkFileDelete.svg
-  - title: Quick DefenderToggle
-    details: Give advanced Windows workflows a more direct way to manage Defender state when policy allows it.
-    icon:
-      light: /images/home_features/QuickDefenderToggle.svg
-      dark: /images/home_features/QuickDefenderToggle.svg
-  - title: Quick SnapOCR
-    details: Extract text from screenshots, webpages, and documents without rebuilding the content by hand.
-    icon:
-      light: /images/home_features/QuickSnapOCR.svg
-      dark: /images/home_features/QuickSnapOCR.svg
-  - title: Quick SnapTranslate
-    details: Capture, recognize, and translate text from the screen in one uninterrupted flow.
+  - title: Screen capture and language tools
+    details: SnapTranslate, SnapOCR, and ColorPicker extend the suite for cross-language work, visual QA, and fast content capture.
     icon:
       light: /images/home_features/QuickSnapTranslate.svg
       dark: /images/home_features/QuickSnapTranslate.svg
 ---
 
-## Built for serious Windows workflows
+## Two core experiences for serious Windows desktops
 
-Quick Utilities Suite focuses on the friction points that slow down modern desktop work: uneven monitor control, repetitive file operations, scattered utility apps, and slower cross-language handling. Each tool is designed to stay practical, lightweight, and ready when work gets busy.
+`Quick BrightnessSync` and `Quick AlwaysOnTop` represent two of the most practical improvements you can make to a Windows workstation. One makes multi-monitor control cleaner and more comfortable. The other keeps the right window visible at the right time without disrupting the rest of the desktop.
+
+## BrightnessSync for multi-monitor desks
+
+If your setup depends on external displays, Quick BrightnessSync replaces monitor-button routines with a single, direct control surface. It is a practical tool for long work sessions across development, analysis, trading, operations, and content review.
+
+<div style="text-align: center; margin: 1.5rem 0 2rem;">
+  <img src="/images/snapshoot/Quick%20BrightnessSync.png" alt="Quick BrightnessSync screenshot"
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+</div>
+
+[Explore Quick BrightnessSync](/products/quick-brightnesssync){.vp-button.brand}
+
+## AlwaysOnTop for focused multitasking
+
+Quick AlwaysOnTop keeps reference material, live support windows, calculators, translators, and meeting panels within view while you continue working elsewhere. It fits naturally into office, technical, and support workflows because it improves the desktop you already have instead of asking you to work differently.
+
+<div style="text-align: center; margin: 1.5rem 0 2rem;">
+  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop screenshot"
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+</div>
+
+[Explore Quick AlwaysOnTop](/products/quick-alwaysontop){.vp-button.brand}
+
+## One product family for serious desktop workflows
+
+Quick Utilities Suite brings these tools together with file, window, capture, translation, and color utilities for users who want a more complete professional Windows toolkit.
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+
+[Compare Editions](/pricing){.vp-button.alt}
+[View Team & Commercial Support](/commercial){.vp-button.alt}
+
+</div>

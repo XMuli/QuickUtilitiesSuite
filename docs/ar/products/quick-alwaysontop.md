@@ -4,73 +4,60 @@
   <img src="/images/quick-logo/Quick AlwaysOnTop.svg" alt="Quick AlwaysOnTop" style="width: 96px; height: 96px;" />
 </div>
 
-**ثبّت أي نافذة في المقدمة بضغطة زر واحدة — تعدد المهام بلا جهد.**
+**Keep the windows that matter exactly where you need them.**
 
 ---
 
-### أبقِ النوافذ المهمة مرئية دائماً
+### Designed for focused multitasking
 
-هل تحتاج للرجوع إلى الوثائق أثناء كتابة الكود؟ تريد أن تبقى نوافذ الآلة الحاسبة أو المترجم أو الأدوات الأخرى في المقدمة؟ يتيح لك Quick AlwaysOnTop تثبيت أو إلغاء تثبيت أي نافذة بضغطة اختصار واحدة، مما يبقي المعلومات الأساسية مرئية في جميع الأوقات ويعزز كفاءة تعدد المهام.
+Quick AlwaysOnTop gives you a direct way to keep reference windows, meeting panels, calculators, translators, and utility tools visible while the rest of your desktop keeps moving. It fits naturally into daily work because it changes window priority without forcing you to change applications or layout habits.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop Screenshot"
+  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · معاينة الواجهة</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · Interface Preview</p>
 </div>
 
 ---
 
-### الميزات الرئيسية
+### Why it stands out
 
-**تثبيت بنقرة واحدة**
-استخدم اختصار لوحة مفاتيح عام أو انقر على أيقونة صينية النظام لتثبيت أو إلغاء تثبيت النافذة النشطة فوراً.
+**Instant pin and release**  
+Use a shortcut or tray action to keep the active window in front, then return it to normal just as quickly.
 
-**مؤشر بصري**
-تظهر حدود مميزة حول النوافذ المثبتة، مما يوضح فوراً أي النوافذ في المقدمة. مظهر الحدود قابل للتخصيص بالكامل.
+**Clear visual feedback**  
+Highlighted borders and optional prompts confirm pinned state immediately, reducing guesswork.
 
-**إشعارات ذكية**
-إشارات صوتية اختيارية وتلميحات على الشاشة تؤكد تنفيذ الإجراء بنجاح.
-
----
-
-### لماذا تختار Quick AlwaysOnTop
-
-**أسرع من الطرق اليدوية**
-لا مزيد من البحث في قوائم النوافذ للعثور على خيار "البقاء في المقدمة" — اختصار واحد يكفي.
-
-**يعمل مع أي نافذة**
-حتى التطبيقات التي لا تدعم وضع "دائماً في المقدمة" بشكل أصلي يمكن تثبيتها مع Quick AlwaysOnTop.
-
-**ملاحظات واضحة وبديهية**
-الحدود البصرية والإشارات الصوتية تبقيك على اطلاع بحالة تثبيت كل نافذة بلمحة.
+**Useful across everyday apps**  
+Works well with documents, browsers, chats, terminals, media panels, and utility windows.
 
 ---
 
-### حالات الاستخدام
+### Where it fits best
 
-**سير عمل متعدد المهام**
-أبقِ مستنداً مرجعياً مرئياً أثناء الكتابة أو التحرير في تطبيق آخر.
+**Development and operations**  
+Keep logs, consoles, or reference docs visible while you work in another application.
 
-**نوافذ الأدوات المساعدة**
-ثبّت الآلات الحاسبة والمفكرات وأدوات الترجمة والأدوات الصغيرة الأخرى لتبقى مرئية دائماً.
+**Office productivity**  
+Hold calculators, schedules, and collaboration windows in view without rearranging your desktop.
 
-**مؤتمرات الفيديو**
-أبقِ نافذة الاجتماع في المقدمة أثناء التعامل مع مهام أخرى دون تفويت النقاشات المهمة.
+**Meetings and live support**  
+Keep a call window accessible while you continue working elsewhere.
 
 ---
 
-### البدء
+### Also worth pairing with Quick BrightnessSync
 
-1. **تفعيل الأداة**
-   اضغط اختصار لوحة المفاتيح العام (الافتراضي: Ctrl+Shift+T)
-
-2. **تثبيت النافذة تلقائياً**
-   تُثبّت النافذة النشطة فوراً، مع إشارة بحدود مميزة
-
-3. **إلغاء التثبيت عند الانتهاء**
-   اضغط الاختصار مرة أخرى لتحرير النافذة من وضع المقدمة
+Quick AlwaysOnTop helps you manage attention on the desktop. `Quick BrightnessSync` helps you manage visual comfort across multiple displays. Together they cover two of the most common friction points on a serious Windows workstation.
 
 <br>
 
-[⬇️ التنزيل من Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
-[📧 اتصل بالدعم التجاري للتعليقات](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+## Next step
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">Download from Microsoft Store</a>
+  <a class="vp-button alt" href="/ar/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/ar/pricing">Compare Editions</a>
+
+</div>
+

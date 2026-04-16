@@ -4,88 +4,54 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**مجموعة أدوات احترافية متكاملة — ضاعف إنتاجيتك.**
+**A broader Windows toolkit for users who want more than one utility in daily reach.**
 
 ---
 
-### مجموعة واحدة تلبي جميع احتياجاتك
+### One family of tools for serious desktop work
 
-يجمع Quick Utilities Suite مجموعة مختارة من الأدوات الاحترافية التي تشمل التقاط ألوان الشاشة وإدارة الملفات وترجمة لقطات الشاشة وإدارة النوافذ وغيرها. واجهة موحدة وإعدادات مشتركة تجعل عملك أكثر سلاسة وكفاءة.
+Quick Utilities Suite brings together display control, window management, file-heavy workflow tools, screen capture, translation, OCR, and color utilities in one product family. It is designed for users who prefer a more consistent desktop environment over a collection of unrelated point tools.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite Screenshot"
+  <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick Utilities Suite · معاينة الواجهة</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick Utilities Suite · Interface Preview</p>
 </div>
 
 ---
 
-### الأدوات المضمّنة
+### What it includes
 
-**Quick ColorPicker - منتقي ألوان الشاشة**
-التقاط ألوان دقيقة من أي مكان على شاشتك مع دعم تنسيقات إخراج متعددة.
+**Core display and multitasking tools**  
+Quick BrightnessSync, Quick AlwaysOnTop, and Quick WindowInspector support comfortable, focused desktop work.
 
-**Quick BulkFileCopy - نسخ الملفات بالجملة**
-نسخ عالي السرعة لأعداد كبيرة من الملفات الصغيرة — أسرع بعدة مرات من أداة النظام.
+**File workflow tools**  
+Quick BulkFileCopy and Quick BulkFileDelete help with dependency trees, mirrored folders, archives, packaging directories, and repeated cleanup tasks.
 
-**Quick BulkFileDelete - حذف الملفات بالجملة**
-حذف فائق السرعة للمجلدات الضخمة، يوفر وقتاً ثميناً.
-
-**Quick SnapTranslate - مترجم لقطات الشاشة**
-التقط وتعرّف وترجم النص بنقرة واحدة للعمل عبر اللغات بسهولة.
-
-**Quick WindowInspector - مفتش النوافذ**
-استرجع معلومات تفصيلية عن أي نافذة لتصحيح أخطاء وتطوير أكثر كفاءة.
-
-**Quick AlwaysOnTop - النافذة دائماً في المقدمة**
-ثبّت النوافذ المهمة في المقدمة بضغطة زر واحدة لتعدد مهام بثقة أكبر.
-
-**Quick DefenderToggle - مفتاح Defender**
-تحكم سريع في حماية النظام لعمليات متقدمة أكثر سهولة.
+**Capture and translation tools**  
+Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
 
 ---
 
-### لماذا تختار المجموعة الكاملة
+### Who it is built for
 
-**قيمة أفضل**
-شراء المجموعة الكاملة يوفر أكثر من 50% مقارنة بشراء كل أداة على حدة.
+**Power users and professional desktops**  
+Keep a serious workstation responsive with tools that reduce repeated friction.
 
-**تجربة موحدة**
-جميع الأدوات تشترك في الإعدادات وتكوينات الاختصارات، مما يقلل منحنى التعلم.
+**Developers, operators, and technical teams**  
+Support workflows that move between files, windows, logs, dashboards, and screen-based information.
 
-**حل شامل**
-لا حاجة لتثبيت تطبيقات متعددة — مجموعة واحدة تلبي جميع احتياجاتك.
-
-**تحديثات مستمرة**
-اشترِ مرة واحدة واستمتع بالتحديثات المستمرة والميزات الجديدة لجميع الأدوات.
-
----
-
-### لمن هذه المجموعة
-
-**المصممون والمطورون**
-التقاط الألوان وترجمة لقطات الشاشة وتصحيح أخطاء النوافذ — أدوات أساسية لعمل التصميم والتطوير.
-
-**مسؤولو تقنية المعلومات**
-إدارة الملفات والتحكم في النظام لتحسين كفاءة العمليات.
-
-**الباحثون عن الكفاءة**
-تعدد المهام والعمليات السريعة لجعل العمل أكثر إنتاجية.
-
----
-
-### البدء
-
-1. **التثبيت والتشغيل**
-   شغّل المثبّت — تستقر المجموعة تلقائياً في صينية النظام
-
-2. **تكوين الاختصارات**
-   عيّن اختصارات لوحة المفاتيح العامة لكل أداة في لوحة الإعدادات
-
-3. **ابدأ الاستخدام**
-   شغّل أي أداة بسرعة عبر الاختصارات أو قائمة الصينية
+**Users who want a more complete setup**  
+Choose the suite when you want a broader toolkit rather than a single-purpose utility.
 
 <br>
 
-[⬇️ التنزيل من Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
-[📧 اتصل بالدعم التجاري للتعليقات](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+## Next step
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="/ar/pricing">Compare Editions</a>
+  <a class="vp-button alt" href="/ar/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/ar/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+
+</div>
+

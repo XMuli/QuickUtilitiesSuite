@@ -4,69 +4,66 @@
   <img src="/images/quick-logo/Quick%20BrightnessSync.svg" alt="Quick BrightnessSync" style="width: 96px; height: 96px;" />
 </div>
 
-**Синхронизируйте реальную аппаратную яркость внешних мониторов через один понятный элемент управления.**
+**Professional brightness control for multi-monitor Windows desktops.**
 
 ---
 
-### Создано для современных многомониторных рабочих мест
+### Built for the desks that keep touching monitor buttons
 
-Quick BrightnessSync избавляет от необходимости тянуться к кнопкам каждого монитора по отдельности. Через DDC/CI приложение напрямую взаимодействует с поддерживаемыми дисплеями и делает регулировку яркости быстрее, ровнее и удобнее для ежедневной работы.
+Quick BrightnessSync replaces the slow ritual of reaching for every monitor button. By talking directly to supported displays through DDC/CI, it gives you a fast, consistent way to tune brightness across your setup and keep visual comfort under control from morning to night.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick%20BrightnessSync.png" alt="Скриншот Quick BrightnessSync"
+  <img src="/images/snapshoot/Quick%20BrightnessSync.png" alt="Quick BrightnessSync screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
   <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick BrightnessSync · Interface Preview</p>
 </div>
 
 ---
 
-### Почему его удобно держать в трее
+### Why it stands out
 
-**Настоящее управление на уровне железа**  
-Изменяется фактическая подсветка монитора, а не просто затемняющий программный фильтр.
+**True hardware brightness control**  
+Adjust actual monitor backlight levels instead of relying on a software overlay that only darkens the image.
 
-**Один ползунок для всего рабочего места**  
-Выравнивайте яркость нескольких внешних дисплеев за считанные секунды.
+**One control surface for multiple displays**  
+Bring several supported external monitors into alignment in seconds and keep the workspace visually consistent.
 
-**Легко и всегда под рукой**  
-Работает тихо в фоне и открывается из системного трея тогда, когда это действительно нужно.
-
----
-
-### Где польза ощущается сильнее всего
-
-**Разработка и аналитика**  
-Повышает комфорт при работе между терминалами, панелями и тёмными интерфейсами.
-
-**Дизайн и контент**  
-Помогает держать более ровное визуальное восприятие при проверке цвета и макета.
-
-**Операционные столы с несколькими экранами**  
-Позволяет быстро перестроить весь комплект экранов при смене внешнего освещения.
+**Quiet, lightweight daily use**  
+Keep it available in the tray so brightness changes stay quick and unobtrusive.
 
 ---
 
-### Быстрый старт
+### Where it fits best
 
-1. **Запустите приложение**  
-   Откройте Quick BrightnessSync и дайте программе обнаружить поддерживаемые мониторы.
+**Developers and technical users**  
+Move between bright dashboards, terminals, IDEs, and documentation without re-adjusting every display manually.
 
-2. **Сдвиньте ползунок яркости**  
-   Одно действие позволит привести подключённые дисплеи к более комфортному уровню.
+**Analysts, trading desks, and operations**  
+Maintain a comfortable visual setup as ambient light shifts through the day.
 
-3. **При необходимости уточните настройку**  
-   Если монитор не реагирует, сначала проверьте его через прямое подключение HDMI или DisplayPort.
+**Design and content teams**  
+Review layouts, presentations, and visual systems with steadier display behavior across multiple screens.
 
 ---
 
-### Совместимость
+### Also worth pairing with Quick AlwaysOnTop
 
-> Quick BrightnessSync зависит от поддержки DDC/CI монитором и трактом подключения. Некоторые док-станции, хабы и адаптеры могут блокировать аппаратные команды. В спорных случаях сначала проверьте прямое подключение.
+Quick BrightnessSync improves display comfort. `Quick AlwaysOnTop` improves multitasking flow. Together, they create a cleaner desktop experience for users who work across many windows and many hours.
+
+---
+
+### Compatibility note
+
+> Quick BrightnessSync depends on DDC/CI support from the monitor and the connection path. Some docks, hubs, or adapters may block hardware commands. If a display does not respond, test it with a direct HDMI or DisplayPort connection first.
 
 <br>
 
-## Download
+## Next step
 
-[Скачать в Microsoft Store](https://apps.microsoft.com/detail/9P90PPWL7VDJ){.vp-button.brand}
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9P90PPWL7VDJ">Download from Microsoft Store</a>
+  <a class="vp-button alt" href="/ru/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+  <a class="vp-button alt" href="/ru/pricing">Compare Editions</a>
 
-[Связаться с коммерческой поддержкой](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+</div>
+

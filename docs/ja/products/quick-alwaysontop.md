@@ -4,73 +4,60 @@
   <img src="/images/quick-logo/Quick AlwaysOnTop.svg" alt="Quick AlwaysOnTop" style="width: 96px; height: 96px;" />
 </div>
 
-**ワンキーで任意のウィンドウを最前面に固定 — マルチタスクを快適に。**
+**Keep the windows that matter exactly where you need them.**
 
 ---
 
-### 重要なウィンドウを常に表示
+### Designed for focused multitasking
 
-コードを書きながらドキュメントを参照したい？電卓、翻訳ツール、その他のユーティリティウィンドウを常に手前に表示したい？Quick AlwaysOnTop なら、ショートカット一つで任意のウィンドウの固定・解除ができ、重要な情報を常に表示してマルチタスクの効率を向上させます。
+Quick AlwaysOnTop gives you a direct way to keep reference windows, meeting panels, calculators, translators, and utility tools visible while the rest of your desktop keeps moving. It fits naturally into daily work because it changes window priority without forcing you to change applications or layout habits.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop スクリーンショット"
+  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · インターフェースプレビュー</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · Interface Preview</p>
 </div>
 
 ---
 
-### 主な機能
+### Why it stands out
 
-**ワンクリック固定**
-グローバルホットキーまたはシステムトレイアイコンをクリックして、アクティブウィンドウを即座に固定・解除。
+**Instant pin and release**  
+Use a shortcut or tray action to keep the active window in front, then return it to normal just as quickly.
 
-**視覚的インジケーター**
-固定されたウィンドウの周囲にハイライトボーダーが表示され、どのウィンドウが最前面にあるか一目瞭然。ボーダーの外観は完全にカスタマイズ可能。
+**Clear visual feedback**  
+Highlighted borders and optional prompts confirm pinned state immediately, reducing guesswork.
 
-**スマート通知**
-オプションのサウンドキューと画面上のヒントで、アクションが正常に適用されたことを確認。
-
----
-
-### Quick AlwaysOnTop を選ぶ理由
-
-**手動操作より高速**
-ウィンドウメニューから「常に手前に表示」オプションを探す必要なし — ホットキー一つで完了。
-
-**あらゆるウィンドウに対応**
-ネイティブで常時最前面表示をサポートしていないアプリケーションでも、Quick AlwaysOnTop で固定可能。
-
-**明確で直感的なフィードバック**
-視覚的なボーダーとオーディオキューで、各ウィンドウの固定状態を一目で把握。
+**Useful across everyday apps**  
+Works well with documents, browsers, chats, terminals, media panels, and utility windows.
 
 ---
 
-### 使用シーン
+### Where it fits best
 
-**マルチタスクワークフロー**
-別のアプリケーションでコンテンツを作成・編集しながら、参考ドキュメントを表示したまま作業。
+**Development and operations**  
+Keep logs, consoles, or reference docs visible while you work in another application.
 
-**ユーティリティウィンドウ**
-電卓、メモ帳、翻訳ツールなどの小さなユーティリティを常に表示状態に固定。
+**Office productivity**  
+Hold calculators, schedules, and collaboration windows in view without rearranging your desktop.
 
-**ビデオ会議**
-他のタスクを処理しながら、重要な議論を見逃さないよう会議ウィンドウを最前面に維持。
+**Meetings and live support**  
+Keep a call window accessible while you continue working elsewhere.
 
 ---
 
-### はじめに
+### Also worth pairing with Quick BrightnessSync
 
-1. **ツールを起動**
-   グローバルホットキーを押す（デフォルト：Ctrl+Shift+T）
-
-2. **ウィンドウが自動的に固定**
-   アクティブウィンドウが即座に固定され、ハイライトボーダーで表示
-
-3. **完了したら固定を解除**
-   同じホットキーを再度押して、ウィンドウの最前面固定を解除
+Quick AlwaysOnTop helps you manage attention on the desktop. `Quick BrightnessSync` helps you manage visual comfort across multiple displays. Together they cover two of the most common friction points on a serious Windows workstation.
 
 <br>
 
-[⬇️ Microsoft Store からダウンロード](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
-[📧 法人向けサポートにお問い合わせ](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+## Next step
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">Download from Microsoft Store</a>
+  <a class="vp-button alt" href="/ja/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/ja/pricing">Compare Editions</a>
+
+</div>
+

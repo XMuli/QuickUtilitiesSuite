@@ -4,11 +4,11 @@
   <img src="/images/quick-logo/Quick%20BrightnessSync.svg" alt="Quick BrightnessSync" style="width: 96px; height: 96px;" />
 </div>
 
-**Synchronize the real hardware brightness of your external displays from one clean control surface.**
+**Professional brightness control for multi-monitor Windows desktops.**
 
 ---
 
-### Built for modern multi-monitor desks
+### Built for the desks that keep touching monitor buttons
 
 Quick BrightnessSync replaces the slow ritual of reaching for every monitor button. By talking directly to supported displays through DDC/CI, it gives you a fast, consistent way to tune brightness across your setup and keep visual comfort under control from morning to night.
 
@@ -20,42 +20,35 @@ Quick BrightnessSync replaces the slow ritual of reaching for every monitor butt
 
 ---
 
-### Why teams keep it in their tray
+### Why it stands out
 
 **True hardware brightness control**  
 Adjust actual monitor backlight levels instead of relying on a software overlay that only darkens the image.
 
-**One slider for the whole workspace**  
-Bring multiple external displays into alignment in seconds and keep your setup visually consistent.
+**One control surface for multiple displays**  
+Bring several supported external monitors into alignment in seconds and keep the workspace visually consistent.
 
-**Quiet, lightweight operation**  
-Runs in the background with quick access from the system tray when you need an adjustment.
+**Quiet, lightweight daily use**  
+Keep it available in the tray so brightness changes stay quick and unobtrusive.
 
 ---
 
-### Where it delivers value
+### Where it fits best
 
-**Developers and analysts**  
-Keep long sessions comfortable as you move between bright dashboards, terminals, and dark-mode tools.
+**Developers and technical users**  
+Move between bright dashboards, terminals, IDEs, and documentation without re-adjusting every display manually.
+
+**Analysts, trading desks, and operations**  
+Maintain a comfortable visual setup as ambient light shifts through the day.
 
 **Design and content teams**  
-Maintain a steadier viewing experience when reviewing color, layout, or presentation materials.
-
-**Operations and trading desks**  
-Change a full monitor wall quickly as ambient light shifts during the day.
+Review layouts, presentations, and visual systems with steadier display behavior across multiple screens.
 
 ---
 
-### Get started in seconds
+### Also worth pairing with Quick AlwaysOnTop
 
-1. **Launch the app**  
-   Open Quick BrightnessSync and let it detect supported monitors automatically.
-
-2. **Move the brightness slider**  
-   Adjust once to bring connected displays into a more comfortable range.
-
-3. **Fine-tune your setup**  
-   Recheck any display that behaves differently and save the workflow that fits your desk.
+Quick BrightnessSync improves display comfort. `Quick AlwaysOnTop` improves multitasking flow. Together, they create a cleaner desktop experience for users who work across many windows and many hours.
 
 ---
 
@@ -65,8 +58,11 @@ Change a full monitor wall quickly as ambient light shifts during the day.
 
 <br>
 
-## Download
+## Next step
 
-[Download from Microsoft Store](https://apps.microsoft.com/detail/9P90PPWL7VDJ){.vp-button.brand}
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9P90PPWL7VDJ">Download from Microsoft Store</a>
+  <a class="vp-button alt" href="/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+  <a class="vp-button alt" href="/pricing">Compare Editions</a>
 
-[Contact Commercial Support](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+</div>

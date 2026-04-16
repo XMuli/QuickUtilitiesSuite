@@ -1,77 +1,63 @@
 # Quick AlwaysOnTop
-## 快速·視窗置頂
 
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <img src="/images/quick-logo/Quick AlwaysOnTop.svg" alt="Quick AlwaysOnTop" style="width: 96px; height: 96px;" />
 </div>
 
-**一鍵固定重要視窗在最前，多工處理更從容。**
+**Keep the windows that matter exactly where you need them.**
 
 ---
 
-### 讓重要視窗始終可見
+### Designed for focused multitasking
 
-需要一邊查看文件一邊編寫程式碼？想讓計算機、翻譯工具等工具視窗始終顯示在最前？Quick AlwaysOnTop 讓你一鍵將任意視窗置頂或取消置頂，保持關鍵資訊始終可見，提高多工處理效率。
+Quick AlwaysOnTop gives you a direct way to keep reference windows, meeting panels, calculators, translators, and utility tools visible while the rest of your desktop keeps moving. It fits naturally into daily work because it changes window priority without forcing you to change applications or layout habits.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop 介面截圖"
+  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · 介面預覽</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · Interface Preview</p>
 </div>
 
 ---
 
-### 核心功能
+### Why it stands out
 
-**一鍵置頂**
-使用全域快速鍵或點擊系統匣圖示，瞬間將目前視窗置頂或取消置頂。
+**Instant pin and release**  
+Use a shortcut or tray action to keep the active window in front, then return it to normal just as quickly.
 
-**視覺回饋**
-置頂時顯示高亮邊框，清晰標識哪些視窗已置頂。邊框外觀可自訂。
+**Clear visual feedback**  
+Highlighted borders and optional prompts confirm pinned state immediately, reducing guesswork.
 
-**智慧提示**
-可選的提示音和提示文字，讓你清楚知道操作是否成功。
-
----
-
-### 為什麼選擇 Quick AlwaysOnTop
-
-**比手動操作更快**
-無需在視窗選單中尋找置頂選項，一個快速鍵搞定。
-
-**支援任意視窗**
-即使程式本身不支援置頂功能，Quick AlwaysOnTop 也能讓它置頂。
-
-**操作更直觀**
-視覺回饋和提示音讓你清楚知道視窗的置頂狀態。
+**Useful across everyday apps**  
+Works well with documents, browsers, chats, terminals, media panels, and utility windows.
 
 ---
 
-### 使用場景
+### Where it fits best
 
-**多工作業**
-一邊查看參考文件一邊編寫內容，保持文件視窗始終可見。
+**Development and operations**  
+Keep logs, consoles, or reference docs visible while you work in another application.
 
-**工具視窗**
-讓計算機、便條紙、翻譯工具等小視窗始終顯示在最前。
+**Office productivity**  
+Hold calculators, schedules, and collaboration windows in view without rearranging your desktop.
 
-**視訊會議**
-將會議視窗置頂，同時處理其他工作而不錯過會議內容。
+**Meetings and live support**  
+Keep a call window accessible while you continue working elsewhere.
 
 ---
 
-### 快速開始
+### Also worth pairing with Quick BrightnessSync
 
-1. **啟動工具**
-   使用全域快速鍵（預設 Ctrl+Shift+T）
-
-2. **自動置頂**
-   目前活動視窗自動置頂，顯示高亮邊框
-
-3. **取消置頂**
-   再次按快速鍵即可取消置頂
+Quick AlwaysOnTop helps you manage attention on the desktop. `Quick BrightnessSync` helps you manage visual comfort across multiple displays. Together they cover two of the most common friction points on a serious Windows workstation.
 
 <br>
 
-[⬇️ 立即前往微軟商店下載安裝](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
-[📧 聯繫商業團隊反饋支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+## Next step
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">Download from Microsoft Store</a>
+  <a class="vp-button alt" href="/zh-tw/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/zh-tw/pricing">Compare Editions</a>
+
+</div>
+

@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**一套经过筛选的 Windows 实用工具，服务更顺滑的专业日常。**
+**适合希望把多种桌面工具放在手边的 Windows 用户。**
 
 ---
 
-### 一套工具，减少重复摩擦
+### 一套面向专业桌面工作的工具家族
 
-Quick Utilities Suite 把显示控制、窗口管理、重度文件操作、屏幕取色和截图翻译等常用能力整合在同一产品家族中。相比零散收集单点工具，它提供了更统一的使用体验，也更适合长期稳定地融入桌面工作流。
+Quick Utilities Suite 将显示控制、窗口管理、文件密集型工具、截图、翻译、OCR 与取色能力整合在同一产品家族中。它适合那些希望拥有更一致桌面环境，而不是零散收集多个单点工具的用户。
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite 界面截图"
@@ -20,47 +20,37 @@ Quick Utilities Suite 把显示控制、窗口管理、重度文件操作、屏�
 
 ---
 
-### 这套组合真正带来了什么
+### 包含哪些能力
 
-**围绕高频工作场景构建**  
-包含 Quick BrightnessSync、Quick AlwaysOnTop、Quick WindowInspector、Quick BulkFileCopy、Quick BulkFileDelete、Quick DefenderToggle、Quick SnapTranslate、Quick SnapOCR 与 Quick ColorPicker。
+**核心显示与多任务工具**  
+Quick BrightnessSync、Quick AlwaysOnTop 与 Quick WindowInspector 帮助你建立更舒适、更专注的桌面工作环境。
 
-**更统一的使用感受**  
-托盘入口、熟悉的交互习惯和一致的产品语言，让多工具切换更自然。
+**文件工作流工具**  
+Quick BulkFileCopy 与 Quick BulkFileDelete 适合依赖树、镜像目录、压缩包、打包目录与反复清理任务。
 
-**比临时拼凑更有长期价值**  
-用一套紧凑实用的工具支持日常效率，而不是管理大量分散应用。
-
----
-
-### 它更适合哪些人
-
-**开发与技术团队**  
-把调试、清理、捕获、翻译和多屏管理纳入同一工作环境。
-
-**IT 与运维岗位**  
-用更快可重复的方式处理常见 Windows 任务。
-
-**重度 Windows 桌面用户**  
-为专业工作站减少常见摩擦点，保持桌面更高效。
+**截图与语言工具**  
+Quick SnapTranslate、Quick SnapOCR 与 Quick ColorPicker 适合跨语言处理、视觉校验与快速提取屏幕内容。
 
 ---
 
-### 快速开始
+### 更适合哪些用户
 
-1. **安装套装**  
-   从 Microsoft Store 部署后，通过托盘入口统一启动各项工具。
+**重度用户与专业桌面**  
+为长期工作的 Windows 桌面减少重复摩擦。
 
-2. **配置常用能力**  
-   为高频工具设置快捷键，让访问路径更短。
+**开发者、运维与技术团队**  
+支持文件、窗口、日志、仪表盘和屏幕信息频繁切换的工作流。
 
-3. **建立更顺手的桌面流程**  
-   把文件、窗口、屏幕与翻译类任务收拢为一套一致的操作体系。
+**希望拥有更完整工具集的用户**  
+当你需要的不再只是一个单点工具，而是一整套更一致的桌面能力时，套装会更合适。
 
 <br>
 
-## Download
+## 下一步
 
-[前往 Microsoft Store 下载](https://apps.microsoft.com/detail/9PGNXC5HJMCV){.vp-button.brand}
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="/zh-cn/pricing">查看版本对比</a>
+  <a class="vp-button alt" href="/zh-cn/products/quick-brightnesssync">了解 Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/zh-cn/products/quick-alwaysontop">了解 Quick AlwaysOnTop</a>
 
-[联系商业支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+</div>

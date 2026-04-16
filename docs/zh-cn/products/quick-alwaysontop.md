@@ -20,7 +20,7 @@ Quick AlwaysOnTop 让参考资料、会议窗口、计算器、翻译器或其�
 
 ---
 
-### 它的价值不止于置顶
+### 它为什么好用
 
 **一键置顶与解除**  
 快捷键或托盘操作即可立即生效，省去在窗口菜单里层层寻找的时间。
@@ -46,21 +46,17 @@ Quick AlwaysOnTop 让参考资料、会议窗口、计算器、翻译器或其�
 
 ---
 
-### 快速开始
+### 也很适合搭配 Quick BrightnessSync
 
-1. **启动工具**  
-   使用已配置的快捷键，或从托盘触发置顶操作。
-
-2. **置顶当前窗口**  
-   目标窗口会保持在其他内容之上，并带有明确状态提示。
-
-3. **完成后恢复**  
-   再次切换即可回到正常窗口层级。
+Quick AlwaysOnTop 负责管理你的桌面注意力，`Quick BrightnessSync` 负责管理多屏环境下的视觉舒适度。它们覆盖了专业 Windows 工作站上两类最常见的桌面摩擦。
 
 <br>
 
-## Download
+## 下一步
 
-[前往 Microsoft Store 下载](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">前往 Microsoft Store 下载</a>
+  <a class="vp-button alt" href="/zh-cn/products/quick-brightnesssync">了解 Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/zh-cn/pricing">查看版本对比</a>
 
-[联系商业支持](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+</div>

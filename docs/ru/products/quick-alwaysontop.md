@@ -4,73 +4,60 @@
   <img src="/images/quick-logo/Quick AlwaysOnTop.svg" alt="Quick AlwaysOnTop" style="width: 96px; height: 96px;" />
 </div>
 
-**Закрепите любое окно поверх всех одной клавишей — многозадачность без усилий.**
+**Keep the windows that matter exactly where you need them.**
 
 ---
 
-### Держите важные окна всегда на виду
+### Designed for focused multitasking
 
-Нужно сверяться с документацией, пока пишете код? Хотите, чтобы калькулятор, переводчик или другие утилиты всегда были на виду? Quick AlwaysOnTop позволяет закрепить или открепить любое окно одним сочетанием клавиш, сохраняя важную информацию видимой в любой момент и повышая эффективность многозадачности.
+Quick AlwaysOnTop gives you a direct way to keep reference windows, meeting panels, calculators, translators, and utility tools visible while the rest of your desktop keeps moving. It fits naturally into daily work because it changes window priority without forcing you to change applications or layout habits.
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop Screenshot"
+  <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
-  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · Предпросмотр интерфейса</p>
+  <p style="color: #888; font-size: 0.875rem; margin-top: 0.75rem;">Quick AlwaysOnTop · Interface Preview</p>
 </div>
 
 ---
 
-### Основные возможности
+### Why it stands out
 
-**Закрепление одним кликом**
-Используйте глобальную горячую клавишу или значок в трее для мгновенного закрепления или открепления активного окна.
+**Instant pin and release**  
+Use a shortcut or tray action to keep the active window in front, then return it to normal just as quickly.
 
-**Визуальный индикатор**
-Подсвеченная рамка появляется вокруг закреплённых окон, делая сразу понятным, какие окна находятся поверх. Внешний вид рамки полностью настраивается.
+**Clear visual feedback**  
+Highlighted borders and optional prompts confirm pinned state immediately, reducing guesswork.
 
-**Умные уведомления**
-Опциональные звуковые сигналы и экранные подсказки подтверждают успешное выполнение действия.
-
----
-
-### Почему стоит выбрать Quick AlwaysOnTop
-
-**Быстрее ручных методов**
-Не нужно искать опцию «Поверх всех окон» в меню — одна горячая клавиша решает всё.
-
-**Работает с любым окном**
-Даже приложения, не имеющие встроенной поддержки режима «всегда поверх», можно закрепить с помощью Quick AlwaysOnTop.
-
-**Понятная обратная связь**
-Визуальные рамки и звуковые сигналы позволяют мгновенно видеть статус закрепления каждого окна.
+**Useful across everyday apps**  
+Works well with documents, browsers, chats, terminals, media panels, and utility windows.
 
 ---
 
-### Сценарии использования
+### Where it fits best
 
-**Многозадачные рабочие процессы**
-Держите справочный документ на виду, пока пишете или редактируете контент в другом приложении.
+**Development and operations**  
+Keep logs, consoles, or reference docs visible while you work in another application.
 
-**Вспомогательные окна**
-Закрепите калькуляторы, блокноты, переводчики и другие небольшие утилиты, чтобы они всегда были видны.
+**Office productivity**  
+Hold calculators, schedules, and collaboration windows in view without rearranging your desktop.
 
-**Видеоконференции**
-Держите окно совещания поверх, пока занимаетесь другими задачами, не пропуская важные обсуждения.
+**Meetings and live support**  
+Keep a call window accessible while you continue working elsewhere.
 
 ---
 
-### Начало работы
+### Also worth pairing with Quick BrightnessSync
 
-1. **Активируйте инструмент**
-   Нажмите глобальную горячую клавишу (по умолчанию: Ctrl+Shift+T)
-
-2. **Окно закреплено автоматически**
-   Активное окно мгновенно закрепляется, на что указывает подсвеченная рамка
-
-3. **Открепите по завершении**
-   Нажмите горячую клавишу повторно, чтобы снять закрепление
+Quick AlwaysOnTop helps you manage attention on the desktop. `Quick BrightnessSync` helps you manage visual comfort across multiple displays. Together they cover two of the most common friction points on a serious Windows workstation.
 
 <br>
 
-[⬇️ Скачать из Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S){.vp-button.brand}
-[📧 Обратиться в коммерческую поддержку](https://github.com/XMuli/QuickUtilitiesSuite/issues){.vp-button.alt}
+## Next step
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">Download from Microsoft Store</a>
+  <a class="vp-button alt" href="/ru/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/ru/pricing">Compare Editions</a>
+
+</div>
+
