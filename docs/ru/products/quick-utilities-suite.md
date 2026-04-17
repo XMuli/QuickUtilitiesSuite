@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**A broader Windows toolkit for users who want more than one utility in daily reach.**
+**Более широкий набор инструментов Windows для пользователей, которым нужно иметь более одной утилиты в ежедневном доступе.**
 
 ---
 
-### One family of tools for serious desktop work
+### Одно семейство инструментов для серьезной настольной работы.
 
-Quick Utilities Suite brings together display control, window management, file-heavy workflow tools, screen capture, translation, OCR, and color utilities in one product family. It is designed for users who prefer a more consistent desktop environment over a collection of unrelated point tools.
+Пакет Quick Utilities Suite объединяет в одном семействе продуктов управление дисплеем, управление окнами, инструменты для работы с большими объемами файлов, захват экрана, перевод, распознавание текста и цветопередачу. Он предназначен для пользователей, которые предпочитают более единообразную среду рабочего стола набору несвязанных точечных инструментов.
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite screenshot"
@@ -20,38 +20,38 @@ Quick Utilities Suite brings together display control, window management, file-h
 
 ---
 
-### What it includes
+### Что это включает в себя
 
-**Core display and multitasking tools**  
-Quick BrightnessSync, Quick AlwaysOnTop, and Quick WindowInspector support comfortable, focused desktop work.
+**Основные инструменты отображения и многозадачности**  
+Quick BrightnessSync, Quick AlwaysOnTop и Quick WindowInspector обеспечивают комфортную и целенаправленную работу на рабочем столе.
 
-**File workflow tools**  
-Quick BulkFileCopy and Quick BulkFileDelete help with dependency trees, mirrored folders, archives, packaging directories, and repeated cleanup tasks.
+**Инструменты работы с файлами**  
+Quick BulkFileCopy и Quick BulkFileDelete помогают с деревьями зависимостей, зеркальными папками, архивами, каталогами упаковки и повторяющимися задачами очистки.
 
-**Capture and translation tools**  
-Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
+**Инструменты захвата и перевода**  
+Quick SnapTranslate + ColorPicker расширяют пакет для межъязыковой работы, визуального контроля качества и быстрого извлечения из того, что уже отображается на экране.
 
 ---
 
-### Who it is built for
+### Для кого он создан
 
-**Power users and professional desktops**  
-Keep a serious workstation responsive with tools that reduce repeated friction.
+**Опытные пользователи и профессиональные настольные компьютеры**  
+Обеспечьте быструю реакцию серьезной рабочей станции с помощью инструментов, которые уменьшают повторяющиеся трения.
 
-**Developers, operators, and technical teams**  
-Support workflows that move between files, windows, logs, dashboards, and screen-based information.
+**Разработчики, операторы и технические команды**  
+Поддерживайте рабочие процессы, которые перемещаются между файлами, окнами, журналами, панелями мониторинга и информацией на экране.
 
-**Users who want a more complete setup**  
-Choose the suite when you want a broader toolkit rather than a single-purpose utility.
+**Пользователи, которым нужна более полная настройка**  
+Выбирайте этот пакет, если вам нужен более широкий набор инструментов, а не одноцелевая утилита.
 
 <br>
 
-## Next step
+## Следующий шаг
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="/ru/pricing">Compare Editions</a>
-  <a class="vp-button alt" href="/ru/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
-  <a class="vp-button alt" href="/ru/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+  <a class="vp-button brand" href="/ru/pricing">Сравнить выпуски</a>
+  <a class="vp-button alt" href="/ru/products/quick-brightnesssync">Откройте для себя Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/ru/products/quick-alwaysontop">Откройте для себя быстрый AlwaysOnTop</a>
 
 </div>
 

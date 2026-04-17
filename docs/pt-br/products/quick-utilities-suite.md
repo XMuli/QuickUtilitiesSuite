@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**A broader Windows toolkit for users who want more than one utility in daily reach.**
+**Um kit Windows mais amplo para usuários que querem mais de uma utilidade sempre à mão.**
 
 ---
 
-### One family of tools for serious desktop work
+### Uma família de ferramentas para trabalho sério no desktop
 
-Quick Utilities Suite brings together display control, window management, file-heavy workflow tools, screen capture, translation, OCR, and color utilities in one product family. It is designed for users who prefer a more consistent desktop environment over a collection of unrelated point tools.
+Quick Utilities Suite reúne controle de tela, gerenciamento de janelas, ferramentas para fluxos com muitos arquivos, captura de tela, tradução, OCR e utilitários de cor em uma única família de produtos. Ela foi feita para usuários que preferem um ambiente de desktop mais consistente a uma coleção de ferramentas isoladas e sem relação entre si.
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite screenshot"
@@ -20,38 +20,38 @@ Quick Utilities Suite brings together display control, window management, file-h
 
 ---
 
-### What it includes
+### O que ela inclui
 
-**Core display and multitasking tools**  
-Quick BrightnessSync, Quick AlwaysOnTop, and Quick WindowInspector support comfortable, focused desktop work.
+**Ferramentas centrais de tela e multitarefa**  
+Quick BrightnessSync, Quick AlwaysOnTop e Quick WindowInspector apoiam um trabalho de desktop confortável e focado.
 
-**File workflow tools**  
-Quick BulkFileCopy and Quick BulkFileDelete help with dependency trees, mirrored folders, archives, packaging directories, and repeated cleanup tasks.
+**Ferramentas para fluxo de arquivos**  
+Quick BulkFileCopy e Quick BulkFileDelete ajudam com árvores de dependência, pastas espelhadas, arquivos, diretórios de empacotamento e tarefas repetidas de limpeza.
 
-**Capture and translation tools**  
-Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
+**Ferramentas de captura e tradução**  
+Quick SnapTranslate + ColorPicker ampliam a suíte para trabalho entre idiomas, QA visual e extração rápida do que já está na tela.
 
 ---
 
-### Who it is built for
+### Para quem ela foi feita
 
-**Power users and professional desktops**  
-Keep a serious workstation responsive with tools that reduce repeated friction.
+**Usuários avançados e desktops profissionais**  
+Mantenha uma estação séria responsiva com ferramentas que reduzem atritos repetidos.
 
-**Developers, operators, and technical teams**  
-Support workflows that move between files, windows, logs, dashboards, and screen-based information.
+**Desenvolvedores, operadores e equipes técnicas**  
+Apoie fluxos que transitam entre arquivos, janelas, logs, dashboards e informações baseadas na tela.
 
-**Users who want a more complete setup**  
-Choose the suite when you want a broader toolkit rather than a single-purpose utility.
+**Usuários que querem uma configuração mais completa**  
+Escolha a suíte quando quiser um kit mais amplo em vez de uma utilidade de finalidade única.
 
 <br>
 
-## Next step
+## Próximo passo
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="/pt-br/pricing">Compare Editions</a>
-  <a class="vp-button alt" href="/pt-br/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
-  <a class="vp-button alt" href="/pt-br/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+  <a class="vp-button brand" href="/pt-br/pricing">Comparar edições</a>
+  <a class="vp-button alt" href="/pt-br/products/quick-brightnesssync">Explorar Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/pt-br/products/quick-alwaysontop">Explorar Quick AlwaysOnTop</a>
 
 </div>
 

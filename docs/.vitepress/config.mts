@@ -42,15 +42,21 @@ function toolGroups(locale: string) {
   ]
 }
 function nav(locale: string) {
-  return [
+  const items = [
     { text: 'Home', link: lnk(locale, '/') },
     { text: 'BrightnessSync', link: lnk(locale, '/products/quick-brightnesssync') },
+    { text: 'AlwaysOnTop', link: lnk(locale, '/products/quick-alwaysontop') }
+  ]
+
+  items.push(
     { text: 'Pricing', link: lnk(locale, '/pricing') },
     { text: 'Use Cases', link: lnk(locale, '/use-cases') },
     { text: 'All Tools', items: toolGroups(locale) },
     { text: 'Commercial', link: lnk(locale, '/commercial') },
     { text: 'Privacy', link: lnk(locale, '/privacy/privacy-and-data-protection') }
-  ]
+  )
+
+  return items
 }
 function sidebar(locale: string) {
   return [

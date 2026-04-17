@@ -40,12 +40,12 @@ Quick Utilities Suite is built for the friction points that slow down serious de
 - Quick BrightnessSync: hardware brightness sync for supported external monitors through one clean control surface.
 - Quick AlwaysOnTop: keep reference windows visible while the rest of your desktop keeps moving.
 - Quick BulkFileCopy and Quick BulkFileDelete: handle high file-count folders with less waiting and less friction.
-- Quick SnapTranslate and Quick SnapOCR: turn screenshots into readable, reusable text workflows.
+- Quick SnapTranslate: turn screenshots into readable, reusable text workflows.
 - Quick WindowInspector and Quick ColorPicker: practical tools for debugging, interface work, and implementation detail.
 
 ## Included in the Suite
 
-Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick SnapOCR, Quick ColorPicker
+Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick ColorPicker
 
 ## Start Here
 

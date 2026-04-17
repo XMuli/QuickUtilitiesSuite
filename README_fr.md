@@ -45,7 +45,7 @@ Quick Utilities Suite cible les points de friction qui ralentissent le travail s
 
 ## Inclus dans la suite
 
-Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick SnapOCR, Quick ColorPicker
+Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick ColorPicker
 
 ## Commencer ici
 

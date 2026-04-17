@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick%20BrightnessSync.svg" alt="Quick BrightnessSync" style="width: 96px; height: 96px;" />
 </div>
 
-**Professional brightness control for multi-monitor Windows desktops.**
+**Controle profissional de brilho para desktops Windows com vários monitores.**
 
 ---
 
-### Built for the desks that keep touching monitor buttons
+### Feito para mesas que continuam tocando nos botões do monitor
 
-Quick BrightnessSync replaces the slow ritual of reaching for every monitor button. By talking directly to supported displays through DDC/CI, it gives you a fast, consistent way to tune brightness across your setup and keep visual comfort under control from morning to night.
+Quick BrightnessSync substitui o ritual lento de alcançar os botões de cada monitor. Ao falar diretamente com displays compatíveis por DDC/CI, ele oferece uma forma rápida e consistente de ajustar o brilho em toda a sua configuração e manter o conforto visual sob controle da manhã até a noite.
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick%20BrightnessSync.png" alt="Quick BrightnessSync screenshot"
@@ -20,50 +20,50 @@ Quick BrightnessSync replaces the slow ritual of reaching for every monitor butt
 
 ---
 
-### Why it stands out
+### Por que ele se destaca
 
-**True hardware brightness control**  
-Adjust actual monitor backlight levels instead of relying on a software overlay that only darkens the image.
+**Controle real de brilho de hardware**  
+Ajuste o nível real de luz de fundo do monitor em vez de depender de uma sobreposição de software que apenas escurece a imagem.
 
-**One control surface for multiple displays**  
-Bring several supported external monitors into alignment in seconds and keep the workspace visually consistent.
+**Uma única interface para várias telas**  
+Alinhe vários monitores externos compatíveis em segundos e mantenha o espaço de trabalho visualmente consistente.
 
-**Quiet, lightweight daily use**  
-Keep it available in the tray so brightness changes stay quick and unobtrusive.
-
----
-
-### Where it fits best
-
-**Developers and technical users**  
-Move between bright dashboards, terminals, IDEs, and documentation without re-adjusting every display manually.
-
-**Analysts, trading desks, and operations**  
-Maintain a comfortable visual setup as ambient light shifts through the day.
-
-**Design and content teams**  
-Review layouts, presentations, and visual systems with steadier display behavior across multiple screens.
+**Uso diário leve e discreto**  
+Mantenha-o disponível na bandeja para que as mudanças de brilho continuem rápidas e discretas.
 
 ---
 
-### Also worth pairing with Quick AlwaysOnTop
+### Onde ele se encaixa melhor
 
-Quick BrightnessSync improves display comfort. `Quick AlwaysOnTop` improves multitasking flow. Together, they create a cleaner desktop experience for users who work across many windows and many hours.
+**Desenvolvedores e usuários técnicos**  
+Passe entre dashboards claros, terminais, IDEs e documentação sem reajustar cada tela manualmente.
+
+**Analistas, mesas de trading e operações**  
+Mantenha uma configuração visual confortável enquanto a luz ambiente muda ao longo do dia.
+
+**Equipes de design e conteúdo**  
+Revise layouts, apresentações e sistemas visuais com um comportamento de tela mais estável em vários monitores.
 
 ---
 
-### Compatibility note
+### Também vale combinar com Quick AlwaysOnTop
 
-> Quick BrightnessSync depends on DDC/CI support from the monitor and the connection path. Some docks, hubs, or adapters may block hardware commands. If a display does not respond, test it with a direct HDMI or DisplayPort connection first.
+Quick BrightnessSync melhora o conforto visual. `Quick AlwaysOnTop` melhora o fluxo da multitarefa. Juntos, eles criam uma experiência de desktop mais limpa para usuários que trabalham com muitas janelas por muitas horas.
+
+---
+
+### Nota de compatibilidade
+
+> Quick BrightnessSync depende do suporte DDC/CI do monitor e do caminho da conexão. Alguns docks, hubs ou adaptadores podem bloquear comandos de hardware. Se uma tela não responder, teste primeiro com uma conexão HDMI ou DisplayPort direta.
 
 <br>
 
-## Next step
+## Próximo passo
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9P90PPWL7VDJ">Download from Microsoft Store</a>
-  <a class="vp-button alt" href="/pt-br/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
-  <a class="vp-button alt" href="/pt-br/pricing">Compare Editions</a>
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9P90PPWL7VDJ">Baixar na Microsoft Store</a>
+  <a class="vp-button alt" href="/pt-br/products/quick-alwaysontop">Explorar Quick AlwaysOnTop</a>
+  <a class="vp-button alt" href="/pt-br/pricing">Comparar edições</a>
 
 </div>
 

@@ -1,34 +1,34 @@
-# Team & Commercial Support
+# 團隊與商業支援
 
-Quick Utilities products can be discussed for team use, workplace reimbursement, and broader desktop deployment.
+Quick Utilities 產品可用於討論團隊採購、職場報銷以及更大規模的桌面部署。
 
-## Common scenarios
+## 常見場景
 
-- Teams buying for shared or managed workstations
-- Workplaces standardizing tools across multi-monitor desks
-- Departments evaluating utilities for support, operations, development, or office productivity
-- Buyers who need a clear contact path before making a team purchase
+- 為共享或受管理工作站採購的團隊
+- 在多螢幕辦公桌面上標準化工具的工作場所
+- 正在評估支援、運營、開發或辦公效率工具的部門
+- 在團隊採購前需要清晰聯絡路徑的買方
 
-## What to include in an inquiry
+## 詢問時建議包含的資訊
 
-To help us respond faster, include:
+為了讓我們更快回覆，建議附上：
 
-- Which product you are considering: `Quick BrightnessSync`, `Quick AlwaysOnTop`, or `Quick Utilities Suite`
-- Approximate number of users or devices
-- Whether this is an individual reimbursement request or a team / organization purchase
-- Any deployment, invoicing, or licensing questions you already know about
+- 你正在評估的產品：`Quick BrightnessSync`、`Quick AlwaysOnTop` 或 `Quick Utilities Suite`
+- 大致的使用者或設備數量
+- 這是個人報銷申請，還是團隊 / 組織採購
+- 你已知的任何部署、開票或授權問題
 
-## Contact
+## 聯絡方式
 
-For team or commercial inquiries, email [xmulitech@gmail.com](mailto:xmulitech@gmail.com?subject=Quick%20Utilities%20Suite%20Commercial%20Inquiry).
+如需團隊或商業洽詢，請寄信至 [xmulitech@gmail.com](mailto:xmulitech@gmail.com?subject=Quick%20Utilities%20Suite%20Commercial%20Inquiry)。
 
-For product feedback or bug reports, use [GitHub Issues](https://github.com/XMuli/QuickUtilitiesSuite/issues).
+產品回饋或錯誤回報請使用 [GitHub Issues](https://github.com/XMuli/QuickUtilitiesSuite/issues)。
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Compare Editions](/zh-tw/pricing){.vp-button.brand}
-[Explore Quick BrightnessSync](/zh-tw/products/quick-brightnesssync){.vp-button.alt}
-[Explore Quick AlwaysOnTop](/zh-tw/products/quick-alwaysontop){.vp-button.alt}
+[比較版本](/zh-tw/pricing){.vp-button.brand}
+[了解 Quick BrightnessSync](/zh-tw/products/quick-brightnesssync){.vp-button.alt}
+[了解 Quick AlwaysOnTop](/zh-tw/products/quick-alwaysontop){.vp-button.alt}
 
 </div>
 

@@ -40,12 +40,12 @@ Quick Utilities Suite se centra en los puntos de fricción que ralentizan el tra
 - Quick BrightnessSync: sincroniza el brillo real de hardware de monitores externos compatibles.
 - Quick AlwaysOnTop: mantiene visibles las ventanas de referencia sin interrumpir el resto del escritorio.
 - Quick BulkFileCopy y Quick BulkFileDelete: procesan carpetas con muchísimos archivos con más rapidez.
-- Quick SnapTranslate y Quick SnapOCR: convierten capturas de pantalla en flujos de texto reutilizables.
+- Quick SnapTranslate: convierten capturas de pantalla en flujos de texto reutilizables.
 - Quick WindowInspector y Quick ColorPicker: herramientas prácticas para depuración, trabajo de interfaz y detalle de implementación.
 
 ## Incluido en la suite
 
-Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick SnapOCR, Quick ColorPicker
+Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick ColorPicker
 
 ## Empieza aquí
 

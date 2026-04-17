@@ -29,12 +29,10 @@
 | [Quick BulkFileDelete](https://apps.microsoft.com/detail/9NFTW7D786CZ) | — | — | ✓ |
 | [Quick DefenderToggle](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | — | — | ✓ |
 | [Quick SnapTranslate](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | — | — | ✓ |
-| [Quick SnapOCR](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | — | — | ✓ |
 | [Quick ColorPicker](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | — | — | ✓ |
 
 单品版聚焦单一工具，套装版提供更完整的桌面工具组合。
 
-> 提示：Quick SnapOCR 包含在 Quick SnapTranslate 中，并使用同一个 Microsoft Store 下载链接。
 
 ## 团队与工作场景
 

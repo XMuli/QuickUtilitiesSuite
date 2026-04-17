@@ -40,12 +40,12 @@ Quick Utilities Suite richtet sich an die Reibungspunkte, die produktive Desktop
 - Quick BrightnessSync: Hardware-Helligkeit unterstützter externer Monitore über eine einheitliche Steuerung synchronisieren.
 - Quick AlwaysOnTop: Wichtige Referenzfenster sichtbar halten, ohne den restlichen Desktop auszubremsen.
 - Quick BulkFileCopy und Quick BulkFileDelete: Verzeichnisse mit sehr vielen Dateien schneller verarbeiten.
-- Quick SnapTranslate und Quick SnapOCR: Screenshots direkt in lesbare Text-Workflows überführen.
+- Quick SnapTranslate: Screenshots direkt in lesbare Text-Workflows überführen.
 - Quick WindowInspector und Quick ColorPicker: Praktische Helfer für Debugging, UI-Arbeit und Umsetzungsdetails.
 
 ## Im Paket enthalten
 
-Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick SnapOCR, Quick ColorPicker
+Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick ColorPicker
 
 ## Hier starten
 

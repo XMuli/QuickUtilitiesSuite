@@ -1,26 +1,26 @@
-# Compare Editions
+# 比較版本
 
-Choose the Quick Utilities product that best matches the way you work on Windows.
+選擇最符合你 Windows 工作方式的 Quick Utilities 產品。
 
-## Product overview
+## 產品概覽
 
-| Product | Best for | Highlights | Get it |
+| Product | 最適合 | 亮點 | 取得方式 |
 | --- | --- | --- | --- |
-| Quick BrightnessSync | Multi-monitor desks, analysts, developers, traders, and heavy external-display users | Real hardware brightness control for supported monitors from one unified control surface | [Microsoft Store](https://apps.microsoft.com/detail/9P90PPWL7VDJ) |
-| Quick AlwaysOnTop | Focused multitasking, support work, office productivity, development, and live operations | Keep important windows visible above the rest of the desktop with instant toggle control | [Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S) |
-| Quick Utilities Suite | Users who want display control, window tools, file-heavy utilities, capture, translation, and color tools together | A broader desktop toolkit built around fast access and practical daily use | [Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV) |
+| Quick BrightnessSync | 多螢幕桌面、分析師、開發者、交易員與重度外接顯示器使用者 | 透過統一介面控制支援顯示器的真實硬體亮度 | [Microsoft Store](https://apps.microsoft.com/detail/9P90PPWL7VDJ) |
+| Quick AlwaysOnTop | 專注多工、支援工作、辦公協作、開發與即時運營 | 讓重要視窗快速置頂並在桌面上方持續清晰可見 | [Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S) |
+| Quick Utilities Suite | 想把顯示控制、視窗工具、重檔案工具、擷取、翻譯與色彩工具整合在一起的使用者 | 圍繞快速存取與實用日常使用打造的更完整桌面工具組 | [Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV) |
 
-## Which one should you choose
+## 你該選哪一個
 
-- Choose `Quick BrightnessSync` if external monitor brightness control is the main problem you want to solve.
-- Choose `Quick AlwaysOnTop` if you need cleaner multitasking and faster access to reference windows.
-- Choose `Quick Utilities Suite` if you want a broader toolkit for display, file, window, and screen-based workflows in one place.
+- 如果你最想解決的是外接顯示器亮度控制，選擇 `Quick BrightnessSync`。
+- 如果你更在意更乾淨的多工處理與更快的參考視窗存取，選擇 `Quick AlwaysOnTop`。
+- 如果你想要把顯示、檔案、視窗與螢幕工作流相關工具整合在一起，選擇 `Quick Utilities Suite`。
 
-## Full Feature Matrix
+## 完整功能矩陣
 
-Use this table when you want to compare the included tools at a glance and jump straight to each Microsoft Store listing.
+如果你想快速比較內含工具並直接跳轉到各 Microsoft Store 連結，這張表最適合使用。
 
-| Feature / Store | BrightnessSync | AlwaysOnTop | Suite |
+| 功能 / 商店連結 | BrightnessSync | AlwaysOnTop | Suite |
 | --- | --- | --- | --- |
 | [Quick BrightnessSync](https://apps.microsoft.com/detail/9P90PPWL7VDJ) | ✓ | — | ✓ |
 | [Quick AlwaysOnTop](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | — | ✓ | ✓ |
@@ -29,21 +29,19 @@ Use this table when you want to compare the included tools at a glance and jump 
 | [Quick BulkFileDelete](https://apps.microsoft.com/detail/9NFTW7D786CZ) | — | — | ✓ |
 | [Quick DefenderToggle](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | — | — | ✓ |
 | [Quick SnapTranslate](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | — | — | ✓ |
-| [Quick SnapOCR](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | — | — | ✓ |
 | [Quick ColorPicker](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | — | — | ✓ |
 
-Standalone editions focus on one tool. The suite combines the broader desktop toolkit.
+單獨版本聚焦在單一工具，而套裝版則整合更完整的桌面工具組。
 
-> Tip: Quick SnapOCR is included in Quick SnapTranslate and uses the same Microsoft Store link.
 
-## For teams and workplaces
+## 給團隊與工作場所
 
-If you are evaluating Quick Utilities products for reimbursed work use, shared desks, or a larger rollout, the team support page has the best next step.
+如果你正在評估 Quick Utilities 產品是否適合報銷工作用途、共享桌面或更大規模的部署，團隊支援頁面是最佳下一步。
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="/zh-tw/commercial">View Team & Commercial Support</a>
-  <a class="vp-button alt" href="/zh-tw/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
-  <a class="vp-button alt" href="/zh-tw/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+  <a class="vp-button brand" href="/zh-tw/commercial">查看團隊與商業支援</a>
+  <a class="vp-button alt" href="/zh-tw/products/quick-brightnesssync">了解 Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/zh-tw/products/quick-alwaysontop">了解 Quick AlwaysOnTop</a>
 
 </div>
 

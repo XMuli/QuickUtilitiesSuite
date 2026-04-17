@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick AlwaysOnTop.svg" alt="Quick AlwaysOnTop" style="width: 96px; height: 96px;" />
 </div>
 
-**Keep the windows that matter exactly where you need them.**
+**Mantenha as janelas importantes exatamente onde você precisa delas.**
 
 ---
 
-### Designed for focused multitasking
+### Feito para multitarefa focada
 
-Quick AlwaysOnTop gives you a direct way to keep reference windows, meeting panels, calculators, translators, and utility tools visible while the rest of your desktop keeps moving. It fits naturally into daily work because it changes window priority without forcing you to change applications or layout habits.
+Quick AlwaysOnTop oferece uma forma direta de manter janelas de referência, painéis de reunião, calculadoras, tradutores e ferramentas utilitárias visíveis enquanto o resto do seu desktop continua em movimento. Ele se encaixa naturalmente no trabalho diário porque muda a prioridade das janelas sem obrigar você a trocar de aplicativo ou hábito de layout.
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop screenshot"
@@ -20,44 +20,44 @@ Quick AlwaysOnTop gives you a direct way to keep reference windows, meeting pane
 
 ---
 
-### Why it stands out
+### Por que ele se destaca
 
-**Instant pin and release**  
-Use a shortcut or tray action to keep the active window in front, then return it to normal just as quickly.
+**Fixe e solte instantaneamente**  
+Use um atalho ou ação da bandeja para manter a janela ativa na frente e devolvê-la ao normal com a mesma rapidez.
 
-**Clear visual feedback**  
-Highlighted borders and optional prompts confirm pinned state immediately, reducing guesswork.
+**Retorno visual claro**  
+Bordas destacadas e avisos opcionais confirmam imediatamente o estado fixado, reduzindo dúvidas.
 
-**Useful across everyday apps**  
-Works well with documents, browsers, chats, terminals, media panels, and utility windows.
-
----
-
-### Where it fits best
-
-**Development and operations**  
-Keep logs, consoles, or reference docs visible while you work in another application.
-
-**Office productivity**  
-Hold calculators, schedules, and collaboration windows in view without rearranging your desktop.
-
-**Meetings and live support**  
-Keep a call window accessible while you continue working elsewhere.
+**Útil em aplicativos do dia a dia**  
+Funciona bem com documentos, navegadores, chats, terminais, painéis de mídia e janelas utilitárias.
 
 ---
 
-### Also worth pairing with Quick BrightnessSync
+### Onde ele se encaixa melhor
 
-Quick AlwaysOnTop helps you manage attention on the desktop. `Quick BrightnessSync` helps you manage visual comfort across multiple displays. Together they cover two of the most common friction points on a serious Windows workstation.
+**Desenvolvimento e operações**  
+Mantenha logs, consoles ou documentos de referência visíveis enquanto trabalha em outro aplicativo.
+
+**Produtividade de escritório**  
+Mantenha calculadoras, agendas e janelas de colaboração à vista sem reorganizar o desktop.
+
+**Reuniões e suporte ao vivo**  
+Mantenha uma janela de chamada acessível enquanto continua trabalhando em outro lugar.
+
+---
+
+### Também vale combinar com Quick BrightnessSync
+
+Quick AlwaysOnTop ajuda você a administrar a atenção no desktop. `Quick BrightnessSync` ajuda você a administrar o conforto visual em várias telas. Juntos, eles cobrem dois dos pontos de atrito mais comuns em uma estação Windows séria.
 
 <br>
 
-## Next step
+## Próximo passo
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">Download from Microsoft Store</a>
-  <a class="vp-button alt" href="/pt-br/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
-  <a class="vp-button alt" href="/pt-br/pricing">Compare Editions</a>
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">Baixar na Microsoft Store</a>
+  <a class="vp-button alt" href="/pt-br/products/quick-brightnesssync">Explorar Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/pt-br/pricing">Comparar edições</a>
 
 </div>
 

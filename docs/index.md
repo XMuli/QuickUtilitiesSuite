@@ -46,7 +46,7 @@ features:
       light: /images/home_features/QuickBulkFileCopy.svg
       dark: /images/home_features/QuickBulkFileCopy.svg
   - title: Screen capture and language tools
-    details: SnapTranslate, SnapOCR, and ColorPicker extend the suite for cross-language work, visual QA, and fast content capture.
+    details: SnapTranslate + ColorPicker extend the suite for cross-language work, visual QA, and fast content capture.
     icon:
       light: /images/home_features/QuickSnapTranslate.svg
       dark: /images/home_features/QuickSnapTranslate.svg

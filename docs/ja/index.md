@@ -3,89 +3,89 @@ layout: home
 
 hero:
   name: "Quick BrightnessSync"
-  text: "Professional control for multi-monitor brightness"
-  tagline: "Adjust the real hardware brightness of external displays from one clean surface, then keep the rest of your desktop organized with the tools that support serious daily work."
+  text: "マルチモニターの明るさを専門的に制御"
+  tagline: "外部ディスプレイの実際のハードウェアの明るさを 1 つのきれいな表面から調整し、日常の本格的な作業をサポートするツールを使用してデスクトップの残りの部分を整理します。"
   image:
     src: /images/snapshoot/Quick%20BrightnessSync.png
     alt: Quick BrightnessSync
   actions:
     - theme: brand
-      text: Explore BrightnessSync
+      text: BrightnessSync を探索する
       link: /ja/products/quick-brightnesssync
     - theme: alt
-      text: Explore AlwaysOnTop
+      text: AlwaysOnTop を探索する
       link: /ja/products/quick-alwaysontop
     - theme: alt
-      text: Compare Editions
+      text: エディションの比較
       link: /ja/pricing
 
 features:
   - title: Quick BrightnessSync
-    details: Real hardware brightness control for external monitors, designed for desks that run across two, three, or more displays.
+    details: 外部モニター用の実際のハードウェア輝度制御。2 つ、3 つ、またはそれ以上のディスプレイを使用するデスク向けに設計されています。
     icon:
       light: /images/quick-logo/Quick%20BrightnessSync.svg
       dark: /images/quick-logo/Quick%20BrightnessSync.svg
   - title: Quick AlwaysOnTop
-    details: Keep reference windows, meeting panels, calculators, chats, and support tools visible while the rest of your workspace keeps moving.
+    details: ワークスペースの残りの部分が移動し続けている間、参照ウィンドウ、会議パネル、計算機、チャット、およびサポート ツールを表示したままにします。
     icon:
       light: /images/quick-logo/Quick AlwaysOnTop.svg
       dark: /images/quick-logo/Quick AlwaysOnTop.svg
   - title: Quick Utilities Suite
-    details: Bring display control, window tools, file-heavy workflow utilities, capture, translation, and color tools into one product family.
+    details: 表示制御、ウィンドウ ツール、ファイルを大量に使用するワークフロー ユーティリティ、キャプチャ、翻訳、およびカラー ツールを 1 つの製品ファミリーにまとめます。
     icon:
       light: /images/quick-logo/Quick Utilities Suite.svg
       dark: /images/quick-logo/Quick Utilities Suite.svg
-  - title: Window and troubleshooting tools
-    details: WindowInspector and related desktop utilities help technical users work faster without adding heavy, fragmented software.
+  - title: ウィンドウとトラブルシューティング ツール
+    details: WindowInspector と関連デスクトップ ユーティリティは、技術ユーザーが重くて断片的なソフトウェアを追加することなく、より速く作業できるようにします。
     icon:
       light: /images/home_features/QuickWindowInspector.svg
       dark: /images/home_features/QuickWindowInspector.svg
-  - title: File-heavy workflow support
-    details: Bulk copy and bulk delete help with project trees, mirrored assets, package folders, and repeated cleanup tasks.
+  - title: ファイルを大量に使用するワークフローのサポート
+    details: 一括コピーと一括削除は、プロジェクト ツリー、ミラーリングされたアセット、パッケージ フォルダー、および繰り返しのクリーンアップ タスクに役立ちます。
     icon:
       light: /images/home_features/QuickBulkFileCopy.svg
       dark: /images/home_features/QuickBulkFileCopy.svg
-  - title: Screen capture and language tools
-    details: SnapTranslate, SnapOCR, and ColorPicker extend the suite for cross-language work, visual QA, and fast content capture.
+  - title: 画面キャプチャと言語ツール
+    details: SnapTranslate + ColorPicker は、言語を越えた作業、ビジュアル QA、および高速コンテンツ キャプチャのためにスイートを拡張します。
     icon:
       light: /images/home_features/QuickSnapTranslate.svg
       dark: /images/home_features/QuickSnapTranslate.svg
 ---
 
-## Two core experiences for serious Windows desktops
+## 本格的な Windows デスクトップ向けの 2 つのコア エクスペリエンス
 
-`Quick BrightnessSync` and `Quick AlwaysOnTop` represent two of the most practical improvements you can make to a Windows workstation. One makes multi-monitor control cleaner and more comfortable. The other keeps the right window visible at the right time without disrupting the rest of the desktop.
+「Quick BrightnessSync」と「Quick AlwaysOnTop」は、Windows ワークステーションに加えることができる 2 つの最も実用的な改善点を表しています。マルチモニター制御をよりクリーンかつ快適にします。もう 1 つは、デスクトップの残りの部分を中断することなく、適切なウィンドウを適切なタイミングで表示し続けるものです。
 
-## BrightnessSync for multi-monitor desks
+## マルチモニターデスク向けの BrightnessSync
 
-If your setup depends on external displays, Quick BrightnessSync replaces monitor-button routines with a single, direct control surface. It is a practical tool for long work sessions across development, analysis, trading, operations, and content review.
+セットアップが外部ディスプレイに依存している場合、Quick BrightnessSync はモニター ボタン ルーチンを単一の直接コントロール サーフェスに置き換えます。これは、開発、分析、取引、運用、コンテンツ レビューにわたる長時間の作業セッションに実用的なツールです。
 
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <img src="/images/snapshoot/Quick%20BrightnessSync.png" alt="Quick BrightnessSync screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
 </div>
 
-[Explore Quick BrightnessSync](/ja/products/quick-brightnesssync){.vp-button.brand}
+[Quick BrightnessSync を探索する](/ja/products/quick-brightnesssync){.vp-button.brand}
 
-## AlwaysOnTop for focused multitasking
+## 集中的なマルチタスクのための AlwaysOnTop
 
-Quick AlwaysOnTop keeps reference material, live support windows, calculators, translators, and meeting panels within view while you continue working elsewhere. It fits naturally into office, technical, and support workflows because it improves the desktop you already have instead of asking you to work differently.
+Quick AlwaysOnTop では、別の場所で作業を続けながら、参考資料、ライブ サポート ウィンドウ、計算機、翻訳機、会議パネルをビュー内に保持できます。別の作業を要求するのではなく、既存のデスクトップを改善するため、オフィス、技術、サポートのワークフローに自然に適合します。
 
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
 </div>
 
-[Explore Quick AlwaysOnTop](/ja/products/quick-alwaysontop){.vp-button.brand}
+[クイック AlwaysOnTop を探索する](/ja/products/quick-alwaysontop){.vp-button.brand}
 
-## One product family for serious desktop workflows
+## 本格的なデスクトップワークフローに対応する 1 つの製品ファミリー
 
-Quick Utilities Suite brings these tools together with file, window, capture, translation, and color utilities for users who want a more complete professional Windows toolkit.
+Quick Utilities Suite は、より完全なプロフェッショナルな Windows ツールキットを必要とするユーザー向けに、これらのツールをファイル、ウィンドウ、キャプチャ、翻訳、カラー ユーティリティと組み合わせて提供します。
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Compare Editions](/ja/pricing){.vp-button.alt}
-[View Team & Commercial Support](/ja/commercial){.vp-button.alt}
+[エディションの比較](/ja/pricing){.vp-button.alt}
+[チームと商用サポートを見る](/ja/commercial){.vp-button.alt}
 
 </div>
 

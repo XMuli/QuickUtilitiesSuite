@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**A broader Windows toolkit for users who want more than one utility in daily reach.**
+**مجموعة أدوات Windows أوسع للمستخدمين الذين يريدون أكثر من أداة مساعدة واحدة في متناول اليد يوميًا.**
 
 ---
 
-### One family of tools for serious desktop work
+### مجموعة واحدة من الأدوات للعمل الجاد على سطح المكتب
 
-Quick Utilities Suite brings together display control, window management, file-heavy workflow tools, screen capture, translation, OCR, and color utilities in one product family. It is designed for users who prefer a more consistent desktop environment over a collection of unrelated point tools.
+يجمع Quick Utilities Suite بين التحكم في العرض وإدارة النوافذ وأدوات سير العمل ذات الملفات الثقيلة والتقاط الشاشة والترجمة والتعرف الضوئي على الحروف والأدوات المساعدة للألوان في عائلة منتج واحدة. إنه مصمم للمستخدمين الذين يفضلون بيئة سطح مكتب أكثر اتساقًا على مجموعة من أدوات النقاط غير ذات الصلة.
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite screenshot"
@@ -20,38 +20,38 @@ Quick Utilities Suite brings together display control, window management, file-h
 
 ---
 
-### What it includes
+### ما يتضمنه
 
-**Core display and multitasking tools**  
-Quick BrightnessSync, Quick AlwaysOnTop, and Quick WindowInspector support comfortable, focused desktop work.
+**أدوات العرض الأساسية وتعدد المهام**  
+يدعم Quick BrightnessSync وQuick AlwaysOnTop وQuick WindowInspector العمل المريح والمركّز على سطح المكتب.
 
-**File workflow tools**  
-Quick BulkFileCopy and Quick BulkFileDelete help with dependency trees, mirrored folders, archives, packaging directories, and repeated cleanup tasks.
+**أدوات سير عمل الملف**  
+يساعد Quick BulkFileCopy وQuick BulkFileDelete في التعامل مع أشجار التبعية والمجلدات ذات النسخ المتطابقة والمحفوظات وأدلة التعبئة ومهام التنظيف المتكررة.
 
-**Capture and translation tools**  
-Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
+**أدوات الالتقاط والترجمة**  
+يعمل كل من Quick SnapTranslate + ColorPicker على توسيع المجموعة للعمل عبر اللغات وضمان الجودة المرئية والاستخراج السريع مما هو موجود بالفعل على الشاشة.
 
 ---
 
-### Who it is built for
+### لمن تم بناؤه
 
-**Power users and professional desktops**  
-Keep a serious workstation responsive with tools that reduce repeated friction.
+**المستخدمون المتميزون وأجهزة الكمبيوتر المكتبية الاحترافية**  
+حافظ على استجابة محطة العمل الجادة باستخدام الأدوات التي تقلل الاحتكاك المتكرر.
 
-**Developers, operators, and technical teams**  
-Support workflows that move between files, windows, logs, dashboards, and screen-based information.
+**المطورين والمشغلين والفرق الفنية**  
+دعم سير العمل الذي ينتقل بين الملفات والنوافذ والسجلات ولوحات المعلومات والمعلومات المستندة إلى الشاشة.
 
-**Users who want a more complete setup**  
-Choose the suite when you want a broader toolkit rather than a single-purpose utility.
+**المستخدمون الذين يريدون إعدادًا أكثر اكتمالاً**  
+اختر المجموعة عندما تريد مجموعة أدوات أوسع بدلاً من أداة مساعدة ذات غرض واحد.
 
 <br>
 
-## Next step
+## الخطوة التالية
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="/ar/pricing">Compare Editions</a>
-  <a class="vp-button alt" href="/ar/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
-  <a class="vp-button alt" href="/ar/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+  <a class="vp-button brand" href="/ar/pricing">مقارنة الإصدارات</a>
+  <a class="vp-button alt" href="/ar/products/quick-brightnesssync">استكشف Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/ar/products/quick-alwaysontop">استكشف Quick AlwaysOnTop</a>
 
 </div>
 

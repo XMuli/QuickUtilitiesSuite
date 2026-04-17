@@ -1,27 +1,27 @@
-# Use Cases
+# حالات الاستخدام
 
-Quick Utilities products are built for Windows workflows where small desktop interruptions add up quickly.
+تم تصميم منتجات Quick Utilities خصيصًا لسير عمل Windows حيث تتراكم الانقطاعات الصغيرة على سطح المكتب بسرعة.
 
-## Multi-monitor desks
+## مكاتب متعددة الشاشات
 
-`Quick BrightnessSync` fits desks that depend on external monitors all day. It is especially useful for development, analysis, trading, operations, and content review setups where visual comfort changes across long sessions.
+يناسب `Quick BrightnessSync' المكاتب التي تعتمد على الشاشات الخارجية طوال اليوم. إنه مفيد بشكل خاص في إعدادات التطوير والتحليل والتداول والعمليات ومراجعة المحتوى حيث تتغير الراحة البصرية عبر الجلسات الطويلة.
 
-## Focused multitasking
+## تعدد المهام المركزة
 
-`Quick AlwaysOnTop` helps when one window must stay visible while the rest of the workspace keeps changing. It works well for office productivity, live support, meetings, research, and technical workflows.
+يساعد `Quick AlwaysOnTop` عندما يجب أن تظل إحدى النوافذ مرئية بينما تستمر بقية مساحة العمل في التغير. إنه يعمل بشكل جيد لإنتاجية المكتب والدعم المباشر والاجتماعات والبحث وسير العمل الفني.
 
-## Technical and troubleshooting work
+## العمل الفني واستكشاف الأخطاء وإصلاحها
 
-`Quick WindowInspector`, `Quick AlwaysOnTop`, `Quick BulkFileCopy`, and `Quick BulkFileDelete` support environments where logs, tools, package folders, and repeated desktop tasks are part of daily work.
+بيئات الدعم `Quick WindowInspector` و`Quick AlwaysOnTop` و`Quick BulkFileCopy` و`Quick BulkFileDelete` حيث تكون السجلات والأدوات ومجلدات الحزم ومهام سطح المكتب المتكررة جزءًا من العمل اليومي.
 
-## Broader desktop toolkit needs
+## احتياجات مجموعة أدوات سطح المكتب الأوسع
 
-`Quick Utilities Suite` is a better fit when one workstation needs display control, multitasking support, file-heavy utilities, translation, OCR, and capture tools together.
+يعد "Quick Utilities Suite" أكثر ملاءمة عندما تحتاج محطة عمل واحدة إلى التحكم في العرض، ودعم المهام المتعددة، والأدوات المساعدة للملفات الثقيلة، والترجمة، والتعرف الضوئي على الحروف، وأدوات الالتقاط معًا.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Explore Quick BrightnessSync](/ar/products/quick-brightnesssync){.vp-button.brand}
-[Explore Quick AlwaysOnTop](/ar/products/quick-alwaysontop){.vp-button.alt}
+[استكشف Quick BrightnessSync](/ar/products/quick-brightnesssync){.vp-button.brand}
+[استكشف Quick AlwaysOnTop](/ar/products/quick-alwaysontop){.vp-button.alt}
 
 </div>
 

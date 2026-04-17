@@ -29,7 +29,7 @@ Quick BrightnessSync, Quick AlwaysOnTop, and Quick WindowInspector support comfo
 Quick BulkFileCopy and Quick BulkFileDelete help with dependency trees, mirrored folders, archives, packaging directories, and repeated cleanup tasks.
 
 **Capture and translation tools**  
-Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
+Quick SnapTranslate + ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
 
 ---
 

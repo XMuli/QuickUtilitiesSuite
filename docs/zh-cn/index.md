@@ -46,7 +46,7 @@ features:
       light: /images/home_features/QuickBulkFileCopy.svg
       dark: /images/home_features/QuickBulkFileCopy.svg
   - title: 截图、语言与视觉工具
-    details: SnapTranslate、SnapOCR 与 ColorPicker 适合跨语言处理、视觉校验和快速提取屏幕内容。
+    details: SnapTranslate + ColorPicker 适合跨语言处理、视觉校验和快速提取屏幕内容。
     icon:
       light: /images/home_features/QuickSnapTranslate.svg
       dark: /images/home_features/QuickSnapTranslate.svg

@@ -40,12 +40,12 @@
 - Quick BrightnessSync: مزامنة السطوع الحقيقي على مستوى العتاد للشاشات الخارجية المدعومة.
 - Quick AlwaysOnTop: إبقاء النوافذ المرجعية مرئية من دون تعطيل بقية العمل.
 - Quick BulkFileCopy و Quick BulkFileDelete: معالجة المجلدات ذات العدد الكبير من الملفات بسرعة أكبر.
-- Quick SnapTranslate و Quick SnapOCR: تحويل لقطات الشاشة إلى تدفقات نصية قابلة لإعادة الاستخدام.
+- Quick SnapTranslate: تحويل لقطات الشاشة إلى تدفقات نصية قابلة لإعادة الاستخدام.
 - Quick WindowInspector و Quick ColorPicker: أدوات عملية للتصحيح وأعمال الواجهة ودقة التنفيذ.
 
 ## مضمن في الحزمة
 
-Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick SnapOCR, Quick ColorPicker
+Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick ColorPicker
 
 ## ابدأ من هنا
 

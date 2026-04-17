@@ -1,34 +1,34 @@
-# Team & Commercial Support
+# الدعم الجماعي والتجاري
 
-Quick Utilities products can be discussed for team use, workplace reimbursement, and broader desktop deployment.
+يمكن مناقشة منتجات Quick Utilities للاستخدام الجماعي، وسداد تكاليف مكان العمل، والنشر على نطاق أوسع لسطح المكتب.
 
-## Common scenarios
+## السيناريوهات الشائعة
 
-- Teams buying for shared or managed workstations
-- Workplaces standardizing tools across multi-monitor desks
-- Departments evaluating utilities for support, operations, development, or office productivity
-- Buyers who need a clear contact path before making a team purchase
+- تقوم الفرق بشراء محطات العمل المشتركة أو المُدارة
+- تعمل أماكن العمل على توحيد الأدوات عبر مكاتب متعددة الشاشات
+- تقوم الأقسام بتقييم المرافق من حيث الدعم أو العمليات أو التطوير أو إنتاجية المكتب
+- المشترون الذين يحتاجون إلى مسار اتصال واضح قبل إجراء عملية شراء جماعية
 
-## What to include in an inquiry
+## ما يجب تضمينه في التحقيق
 
-To help us respond faster, include:
+لمساعدتنا على الاستجابة بشكل أسرع، قم بتضمين ما يلي:
 
-- Which product you are considering: `Quick BrightnessSync`, `Quick AlwaysOnTop`, or `Quick Utilities Suite`
-- Approximate number of users or devices
-- Whether this is an individual reimbursement request or a team / organization purchase
-- Any deployment, invoicing, or licensing questions you already know about
+- المنتج الذي تفكر فيه: `Quick BrightnessSync` أو `Quick AlwaysOnTop` أو `Quick Utilities Suite`
+- العدد التقريبي للمستخدمين أو الأجهزة
+- سواء كان ذلك طلب سداد فردي أو شراء فريق/مؤسسة
+- أي أسئلة حول النشر أو الفوترة أو الترخيص تعرفها بالفعل
 
-## Contact
+## اتصال
 
-For team or commercial inquiries, email [xmulitech@gmail.com](mailto:xmulitech@gmail.com?subject=Quick%20Utilities%20Suite%20Commercial%20Inquiry).
+للاستفسارات الجماعية أو التجارية، أرسل بريدًا إلكترونيًا إلى [xmulitech@gmail.com](mailto:xmulitech@gmail.com?subject=Quick%20Utilities%20Suite%20Commercial%20Inquiry).
 
-For product feedback or bug reports, use [GitHub Issues](https://github.com/XMuli/QuickUtilitiesSuite/issues).
+للحصول على تعليقات حول المنتج أو تقارير الأخطاء، استخدم [GitHub Issues](https://github.com/XMuli/QuickUtilitiesSuite/issues).
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Compare Editions](/ar/pricing){.vp-button.brand}
-[Explore Quick BrightnessSync](/ar/products/quick-brightnesssync){.vp-button.alt}
-[Explore Quick AlwaysOnTop](/ar/products/quick-alwaysontop){.vp-button.alt}
+[مقارنة الإصدارات](/ar/pricing){.vp-button.brand}
+[استكشف Quick BrightnessSync](/ar/products/quick-brightnesssync){.vp-button.alt}
+[استكشف Quick AlwaysOnTop](/ar/products/quick-alwaysontop){.vp-button.alt}
 
 </div>
 

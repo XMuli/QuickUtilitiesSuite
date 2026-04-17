@@ -29,12 +29,10 @@ Use this table when you want to compare the included tools at a glance and jump 
 | [Quick BulkFileDelete](https://apps.microsoft.com/detail/9NFTW7D786CZ) | — | — | ✓ |
 | [Quick DefenderToggle](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | — | — | ✓ |
 | [Quick SnapTranslate](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | — | — | ✓ |
-| [Quick SnapOCR](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | — | — | ✓ |
 | [Quick ColorPicker](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | — | — | ✓ |
 
 Standalone editions focus on one tool. The suite combines the broader desktop toolkit.
 
-> Tip: Quick SnapOCR is included in Quick SnapTranslate and uses the same Microsoft Store link.
 
 ## For teams and workplaces
 

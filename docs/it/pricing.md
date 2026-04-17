@@ -1,26 +1,26 @@
-# Compare Editions
+# Confronta edizioni
 
-Choose the Quick Utilities product that best matches the way you work on Windows.
+Scegli il prodotto Quick Utilities che meglio si adatta al tuo modo di lavorare su Windows.
 
-## Product overview
+## Panoramica prodotti
 
-| Product | Best for | Highlights | Get it |
+| Product | Ideale per | Punti chiave | Ottienilo |
 | --- | --- | --- | --- |
-| Quick BrightnessSync | Multi-monitor desks, analysts, developers, traders, and heavy external-display users | Real hardware brightness control for supported monitors from one unified control surface | [Microsoft Store](https://apps.microsoft.com/detail/9P90PPWL7VDJ) |
-| Quick AlwaysOnTop | Focused multitasking, support work, office productivity, development, and live operations | Keep important windows visible above the rest of the desktop with instant toggle control | [Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S) |
-| Quick Utilities Suite | Users who want display control, window tools, file-heavy utilities, capture, translation, and color tools together | A broader desktop toolkit built around fast access and practical daily use | [Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV) |
+| Quick BrightnessSync | Scrivanie multi-monitor, analisti, sviluppatori, trader e utenti intensivi di display esterni | Controllo reale della luminosità hardware per monitor supportati da un'unica interfaccia unificata | [Microsoft Store](https://apps.microsoft.com/detail/9P90PPWL7VDJ) |
+| Quick AlwaysOnTop | Multitasking concentrato, supporto, produttività d'ufficio, sviluppo e operazioni live | Mantieni le finestre importanti visibili sopra il resto del desktop con un controllo immediato | [Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S) |
+| Quick Utilities Suite | Utenti che vogliono insieme controllo display, strumenti finestra, utility per file, cattura, traduzione e colore | Un toolkit desktop più ampio costruito attorno ad accesso rapido e uso pratico quotidiano | [Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV) |
 
-## Which one should you choose
+## Quale dovresti scegliere
 
-- Choose `Quick BrightnessSync` if external monitor brightness control is the main problem you want to solve.
-- Choose `Quick AlwaysOnTop` if you need cleaner multitasking and faster access to reference windows.
-- Choose `Quick Utilities Suite` if you want a broader toolkit for display, file, window, and screen-based workflows in one place.
+- Scegli `Quick BrightnessSync` se il controllo della luminosità dei monitor esterni è il problema principale che vuoi risolvere.
+- Scegli `Quick AlwaysOnTop` se ti serve un multitasking più pulito e un accesso più rapido alle finestre di riferimento.
+- Scegli `Quick Utilities Suite` se vuoi un toolkit più ampio per flussi legati a display, file, finestre e schermo in un unico posto.
 
-## Full Feature Matrix
+## Matrice completa delle funzioni
 
-Use this table when you want to compare the included tools at a glance and jump straight to each Microsoft Store listing.
+Usa questa tabella quando vuoi confrontare a colpo d'occhio gli strumenti inclusi e passare direttamente a ogni pagina Microsoft Store.
 
-| Feature / Store | BrightnessSync | AlwaysOnTop | Suite |
+| Funzione / Store | BrightnessSync | AlwaysOnTop | Suite |
 | --- | --- | --- | --- |
 | [Quick BrightnessSync](https://apps.microsoft.com/detail/9P90PPWL7VDJ) | ✓ | — | ✓ |
 | [Quick AlwaysOnTop](https://apps.microsoft.com/detail/9NR3H8Q42N4S) | — | ✓ | ✓ |
@@ -29,21 +29,19 @@ Use this table when you want to compare the included tools at a glance and jump 
 | [Quick BulkFileDelete](https://apps.microsoft.com/detail/9NFTW7D786CZ) | — | — | ✓ |
 | [Quick DefenderToggle](https://apps.microsoft.com/detail/9PFQQ9CPP9P3) | — | — | ✓ |
 | [Quick SnapTranslate](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | — | — | ✓ |
-| [Quick SnapOCR](https://apps.microsoft.com/detail/9NJJX8KCGVN9) | — | — | ✓ |
 | [Quick ColorPicker](https://apps.microsoft.com/detail/9N2XV7TJTN2J) | — | — | ✓ |
 
-Standalone editions focus on one tool. The suite combines the broader desktop toolkit.
+Le edizioni standalone si concentrano su un solo strumento. La suite combina il toolkit desktop più ampio.
 
-> Tip: Quick SnapOCR is included in Quick SnapTranslate and uses the same Microsoft Store link.
 
-## For teams and workplaces
+## Per team e ambienti di lavoro
 
-If you are evaluating Quick Utilities products for reimbursed work use, shared desks, or a larger rollout, the team support page has the best next step.
+Se stai valutando i prodotti Quick Utilities per uso lavorativo rimborsato, scrivanie condivise o un rollout più ampio, la pagina di supporto team è il passo successivo migliore.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="/it/commercial">View Team & Commercial Support</a>
-  <a class="vp-button alt" href="/it/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
-  <a class="vp-button alt" href="/it/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+  <a class="vp-button brand" href="/it/commercial">Vedi supporto team e commerciale</a>
+  <a class="vp-button alt" href="/it/products/quick-brightnesssync">Scopri Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/it/products/quick-alwaysontop">Scopri Quick AlwaysOnTop</a>
 
 </div>
 

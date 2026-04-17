@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick%20BrightnessSync.svg" alt="Quick BrightnessSync" style="width: 96px; height: 96px;" />
 </div>
 
-**Professional brightness control for multi-monitor Windows desktops.**
+**マルチモニター Windows デスクトップ向けのプロフェッショナルな明るさ制御。**
 
 ---
 
-### Built for the desks that keep touching monitor buttons
+### モニターボタンを触り続けるデスク向けに設計
 
-Quick BrightnessSync replaces the slow ritual of reaching for every monitor button. By talking directly to supported displays through DDC/CI, it gives you a fast, consistent way to tune brightness across your setup and keep visual comfort under control from morning to night.
+Quick BrightnessSync は、モニターのすべてのボタンに手を伸ばすという時間のかかる儀式を置き換えます。 DDC/CI を介してサポートされているディスプレイと直接通信することで、セットアップ全体の明るさを迅速かつ一貫して調整し、朝から夜まで視覚的な快適さを制御できます。
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick%20BrightnessSync.png" alt="Quick BrightnessSync screenshot"
@@ -20,50 +20,50 @@ Quick BrightnessSync replaces the slow ritual of reaching for every monitor butt
 
 ---
 
-### Why it stands out
+### なぜ目立つのか
 
-**True hardware brightness control**  
-Adjust actual monitor backlight levels instead of relying on a software overlay that only darkens the image.
+**真のハードウェア輝度制御**  
+画像を暗くするだけのソフトウェア オーバーレイに頼るのではなく、実際のモニターのバックライト レベルを調整します。
 
-**One control surface for multiple displays**  
-Bring several supported external monitors into alignment in seconds and keep the workspace visually consistent.
+**複数のディスプレイに対応する 1 つのコントロール サーフェス**  
+サポートされている複数の外部モニターを数秒で調整し、ワークスペースの視覚的な一貫性を保ちます。
 
-**Quiet, lightweight daily use**  
-Keep it available in the tray so brightness changes stay quick and unobtrusive.
-
----
-
-### Where it fits best
-
-**Developers and technical users**  
-Move between bright dashboards, terminals, IDEs, and documentation without re-adjusting every display manually.
-
-**Analysts, trading desks, and operations**  
-Maintain a comfortable visual setup as ambient light shifts through the day.
-
-**Design and content teams**  
-Review layouts, presentations, and visual systems with steadier display behavior across multiple screens.
+**静かで軽量な日常使用**  
+トレイに常備しておくと、明るさの変化が素早く、目立たなくなります。
 
 ---
 
-### Also worth pairing with Quick AlwaysOnTop
+### 一番フィットするところ
 
-Quick BrightnessSync improves display comfort. `Quick AlwaysOnTop` improves multitasking flow. Together, they create a cleaner desktop experience for users who work across many windows and many hours.
+**開発者と技術ユーザー**  
+すべてのディスプレイを手動で再調整することなく、明るいダッシュボード、ターミナル、IDE、ドキュメントの間を移動できます。
+
+**アナリスト、トレーディングデスク、およびオペレーション**  
+周囲の光が一日を通して変化するため、快適な視覚設定を維持します。
+
+**デザインチームとコンテンツチーム**  
+複数の画面にわたる安定した表示動作を使用して、レイアウト、プレゼンテーション、およびビジュアル システムを確認します。
 
 ---
 
-### Compatibility note
+### Quick AlwaysOnTop と組み合わせる価値もあります
 
-> Quick BrightnessSync depends on DDC/CI support from the monitor and the connection path. Some docks, hubs, or adapters may block hardware commands. If a display does not respond, test it with a direct HDMI or DisplayPort connection first.
+Quick BrightnessSync によりディスプレイの快適さが向上します。 「Quick AlwaysOnTop」はマルチタスク フローを改善します。これらを組み合わせることで、多くのウィンドウで長時間作業するユーザーにとって、よりクリーンなデスクトップ エクスペリエンスが実現されます。
+
+---
+
+### 互換性に関するメモ
+
+> Quick BrightnessSync は、モニターと接続パスからの DDC/CI サポートに依存します。一部のドック、ハブ、アダプ​​ターはハードウェア コマンドをブロックする場合があります。ディスプレイが応答しない場合は、まず HDMI または DisplayPort の直接接続をテストしてください。
 
 <br>
 
-## Next step
+## 次のステップ
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9P90PPWL7VDJ">Download from Microsoft Store</a>
-  <a class="vp-button alt" href="/ja/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
-  <a class="vp-button alt" href="/ja/pricing">Compare Editions</a>
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9P90PPWL7VDJ">Microsoft Storeからダウンロード</a>
+  <a class="vp-button alt" href="/ja/products/quick-alwaysontop">クイック AlwaysOnTop を探索する</a>
+  <a class="vp-button alt" href="/ja/pricing">エディションの比較</a>
 
 </div>
 

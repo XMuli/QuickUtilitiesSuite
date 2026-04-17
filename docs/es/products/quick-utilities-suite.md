@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**A broader Windows toolkit for users who want more than one utility in daily reach.**
+**Un conjunto más amplio de herramientas para Windows para quienes quieren más de una utilidad al alcance cada día.**
 
 ---
 
-### One family of tools for serious desktop work
+### Una familia de herramientas para trabajo serio de escritorio
 
-Quick Utilities Suite brings together display control, window management, file-heavy workflow tools, screen capture, translation, OCR, and color utilities in one product family. It is designed for users who prefer a more consistent desktop environment over a collection of unrelated point tools.
+Quick Utilities Suite reúne control de pantalla, gestión de ventanas, herramientas para flujos con muchos archivos, captura de pantalla, traducción, OCR y utilidades de color en una sola familia de productos. Está pensada para usuarios que prefieren un entorno de escritorio más coherente frente a una colección de herramientas aisladas sin relación.
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite screenshot"
@@ -20,38 +20,38 @@ Quick Utilities Suite brings together display control, window management, file-h
 
 ---
 
-### What it includes
+### Qué incluye
 
-**Core display and multitasking tools**  
-Quick BrightnessSync, Quick AlwaysOnTop, and Quick WindowInspector support comfortable, focused desktop work.
+**Herramientas centrales de pantalla y multitarea**  
+Quick BrightnessSync, Quick AlwaysOnTop y Quick WindowInspector respaldan un trabajo de escritorio cómodo y enfocado.
 
-**File workflow tools**  
-Quick BulkFileCopy and Quick BulkFileDelete help with dependency trees, mirrored folders, archives, packaging directories, and repeated cleanup tasks.
+**Herramientas de flujo de archivos**  
+Quick BulkFileCopy y Quick BulkFileDelete ayudan con árboles de dependencias, carpetas espejo, archivos, directorios de empaquetado y tareas repetidas de limpieza.
 
-**Capture and translation tools**  
-Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
+**Herramientas de captura y traducción**  
+Quick SnapTranslate + ColorPicker amplían la suite para trabajo entre idiomas, QA visual y extracción rápida de lo que ya está en pantalla.
 
 ---
 
-### Who it is built for
+### Para quién está pensada
 
-**Power users and professional desktops**  
-Keep a serious workstation responsive with tools that reduce repeated friction.
+**Usuarios avanzados y escritorios profesionales**  
+Mantén una estación seria ágil con herramientas que reducen la fricción repetida.
 
-**Developers, operators, and technical teams**  
-Support workflows that move between files, windows, logs, dashboards, and screen-based information.
+**Desarrolladores, operadores y equipos técnicos**  
+Respalda flujos que se mueven entre archivos, ventanas, logs, paneles e información en pantalla.
 
-**Users who want a more complete setup**  
-Choose the suite when you want a broader toolkit rather than a single-purpose utility.
+**Usuarios que quieren una configuración más completa**  
+Elige la suite cuando quieras un conjunto más amplio de herramientas en lugar de una utilidad de un solo propósito.
 
 <br>
 
-## Next step
+## Siguiente paso
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="/es/pricing">Compare Editions</a>
-  <a class="vp-button alt" href="/es/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
-  <a class="vp-button alt" href="/es/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+  <a class="vp-button brand" href="/es/pricing">Comparar ediciones</a>
+  <a class="vp-button alt" href="/es/products/quick-brightnesssync">Explorar Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/es/products/quick-alwaysontop">Explorar Quick AlwaysOnTop</a>
 
 </div>
 

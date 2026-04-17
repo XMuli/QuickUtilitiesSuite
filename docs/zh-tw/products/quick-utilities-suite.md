@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**A broader Windows toolkit for users who want more than one utility in daily reach.**
+**給那些希望每天手邊不只一個實用工具的使用者，一套更完整的 Windows 工具組。**
 
 ---
 
-### One family of tools for serious desktop work
+### 一個面向專業桌面工作的工具家族
 
-Quick Utilities Suite brings together display control, window management, file-heavy workflow tools, screen capture, translation, OCR, and color utilities in one product family. It is designed for users who prefer a more consistent desktop environment over a collection of unrelated point tools.
+Quick Utilities Suite 把顯示控制、視窗管理、重檔案工作流工具、螢幕擷取、翻譯、OCR 與色彩工具整合進同一個產品家族。它是為那些更偏好一致桌面環境、而不是一堆彼此無關單點工具的使用者而設計的。
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite screenshot"
@@ -20,38 +20,38 @@ Quick Utilities Suite brings together display control, window management, file-h
 
 ---
 
-### What it includes
+### 它包含什麼
 
-**Core display and multitasking tools**  
-Quick BrightnessSync, Quick AlwaysOnTop, and Quick WindowInspector support comfortable, focused desktop work.
+**核心顯示與多工工具**  
+Quick BrightnessSync、Quick AlwaysOnTop 與 Quick WindowInspector 共同支援更舒適、更專注的桌面工作。
 
-**File workflow tools**  
-Quick BulkFileCopy and Quick BulkFileDelete help with dependency trees, mirrored folders, archives, packaging directories, and repeated cleanup tasks.
+**檔案工作流工具**  
+Quick BulkFileCopy 與 Quick BulkFileDelete 可以幫助處理依賴樹、鏡像資料夾、壓縮檔、封裝目錄與重複清理工作。
 
-**Capture and translation tools**  
-Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
+**擷取與翻譯工具**  
+Quick SnapTranslate + ColorPicker 讓這套工具更適合跨語言工作、視覺 QA 與快速擷取螢幕上的現有內容。
 
 ---
 
-### Who it is built for
+### 它是為誰打造的
 
-**Power users and professional desktops**  
-Keep a serious workstation responsive with tools that reduce repeated friction.
+**進階使用者與專業桌面**  
+用能降低重複摩擦的工具，讓嚴肅工作站始終保持順手與高反應。
 
-**Developers, operators, and technical teams**  
-Support workflows that move between files, windows, logs, dashboards, and screen-based information.
+**開發者、運營人員與技術團隊**  
+支援那些在檔案、視窗、日誌、儀表板與螢幕資訊之間頻繁切換的工作流。
 
-**Users who want a more complete setup**  
-Choose the suite when you want a broader toolkit rather than a single-purpose utility.
+**想要更完整配置的使用者**  
+如果你想要的是更完整的工具組，而不是單一用途小工具，那就選這套。
 
 <br>
 
-## Next step
+## 下一步
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="/zh-tw/pricing">Compare Editions</a>
-  <a class="vp-button alt" href="/zh-tw/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
-  <a class="vp-button alt" href="/zh-tw/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+  <a class="vp-button brand" href="/zh-tw/pricing">比較版本</a>
+  <a class="vp-button alt" href="/zh-tw/products/quick-brightnesssync">了解 Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/zh-tw/products/quick-alwaysontop">了解 Quick AlwaysOnTop</a>
 
 </div>
 

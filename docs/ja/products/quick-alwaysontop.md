@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick AlwaysOnTop.svg" alt="Quick AlwaysOnTop" style="width: 96px; height: 96px;" />
 </div>
 
-**Keep the windows that matter exactly where you need them.**
+**重要なウィンドウを必要な場所に正確に配置します。**
 
 ---
 
-### Designed for focused multitasking
+### 集中的なマルチタスク向けに設計
 
-Quick AlwaysOnTop gives you a direct way to keep reference windows, meeting panels, calculators, translators, and utility tools visible while the rest of your desktop keeps moving. It fits naturally into daily work because it changes window priority without forcing you to change applications or layout habits.
+Quick AlwaysOnTop を使用すると、デスクトップの残りの部分が移動し続けている間、参照ウィンドウ、会議パネル、電卓、翻訳ツール、およびユーティリティ ツールを表示し続ける直接的な方法が得られます。アプリケーションやレイアウトの習慣を変更することなくウィンドウの優先順位を変更できるため、日常の作業に自然にフィットします。
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop screenshot"
@@ -20,44 +20,44 @@ Quick AlwaysOnTop gives you a direct way to keep reference windows, meeting pane
 
 ---
 
-### Why it stands out
+### なぜ目立つのか
 
-**Instant pin and release**  
-Use a shortcut or tray action to keep the active window in front, then return it to normal just as quickly.
+**瞬時に固定してリリース**  
+ショートカットまたはトレイ アクションを使用して、アクティブなウィンドウを前面に保持し、すぐに通常のウィンドウに戻します。
 
-**Clear visual feedback**  
-Highlighted borders and optional prompts confirm pinned state immediately, reducing guesswork.
+**明確な視覚的フィードバック**  
+強調表示された境界線とオプションのプロンプトにより、ピン留めされた状態がすぐに確認できるため、推測が減少します。
 
-**Useful across everyday apps**  
-Works well with documents, browsers, chats, terminals, media panels, and utility windows.
-
----
-
-### Where it fits best
-
-**Development and operations**  
-Keep logs, consoles, or reference docs visible while you work in another application.
-
-**Office productivity**  
-Hold calculators, schedules, and collaboration windows in view without rearranging your desktop.
-
-**Meetings and live support**  
-Keep a call window accessible while you continue working elsewhere.
+**日常的なアプリ全体で役立つ**  
+ドキュメント、ブラウザ、チャット、端末、メディア パネル、ユーティリティ ウィンドウで適切に動作します。
 
 ---
 
-### Also worth pairing with Quick BrightnessSync
+### 一番フィットするところ
 
-Quick AlwaysOnTop helps you manage attention on the desktop. `Quick BrightnessSync` helps you manage visual comfort across multiple displays. Together they cover two of the most common friction points on a serious Windows workstation.
+**開発と運用**  
+別のアプリケーションで作業している間、ログ、コンソール、またはリファレンス ドキュメントを表示したままにします。
+
+**オフィスの生産性**  
+デスクトップを再配置しなくても、電卓、スケジュール、コラボレーション ウィンドウを表示したままにできます。
+
+**ミーティングとライブサポート**  
+他の場所で作業を続けている間も、通話ウィンドウにアクセスできるようにしてください。
+
+---
+
+### Quick BrightnessSync と組み合わせる価値もあります
+
+Quick AlwaysOnTop は、デスクトップ上の注意を管理するのに役立ちます。 「Quick BrightnessSync」は、複数のディスプレイ間で視覚的な快適さを管理するのに役立ちます。これらを組み合わせることで、本格的な Windows ワークステーションで最も一般的な 2 つの問題点をカバーできます。
 
 <br>
 
-## Next step
+## 次のステップ
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">Download from Microsoft Store</a>
-  <a class="vp-button alt" href="/ja/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
-  <a class="vp-button alt" href="/ja/pricing">Compare Editions</a>
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">Microsoft Storeからダウンロード</a>
+  <a class="vp-button alt" href="/ja/products/quick-brightnesssync">Quick BrightnessSync を探索する</a>
+  <a class="vp-button alt" href="/ja/pricing">エディションの比較</a>
 
 </div>
 

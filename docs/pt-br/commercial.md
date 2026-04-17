@@ -1,34 +1,34 @@
-# Team & Commercial Support
+# Suporte comercial e para equipes
 
-Quick Utilities products can be discussed for team use, workplace reimbursement, and broader desktop deployment.
+Os produtos Quick Utilities podem ser discutidos para uso em equipe, reembolso corporativo e implantação mais ampla em desktops.
 
-## Common scenarios
+## Cenários comuns
 
-- Teams buying for shared or managed workstations
-- Workplaces standardizing tools across multi-monitor desks
-- Departments evaluating utilities for support, operations, development, or office productivity
-- Buyers who need a clear contact path before making a team purchase
+- Equipes comprando para estações compartilhadas ou gerenciadas
+- Ambientes de trabalho padronizando ferramentas em mesas com vários monitores
+- Departamentos avaliando utilitários para suporte, operações, desenvolvimento ou produtividade de escritório
+- Compradores que precisam de um canal de contato claro antes de fazer uma compra para a equipe
 
-## What to include in an inquiry
+## O que incluir em uma consulta
 
-To help us respond faster, include:
+Para nos ajudar a responder mais rápido, inclua:
 
-- Which product you are considering: `Quick BrightnessSync`, `Quick AlwaysOnTop`, or `Quick Utilities Suite`
-- Approximate number of users or devices
-- Whether this is an individual reimbursement request or a team / organization purchase
-- Any deployment, invoicing, or licensing questions you already know about
+- Qual produto você está considerando: `Quick BrightnessSync`, `Quick AlwaysOnTop` ou `Quick Utilities Suite`
+- Número aproximado de usuários ou dispositivos
+- Se esta é uma solicitação individual de reembolso ou uma compra para equipe / organização
+- Quaisquer dúvidas de implantação, faturamento ou licenciamento que você já tenha
 
-## Contact
+## Contato
 
-For team or commercial inquiries, email [xmulitech@gmail.com](mailto:xmulitech@gmail.com?subject=Quick%20Utilities%20Suite%20Commercial%20Inquiry).
+Para consultas comerciais ou de equipe, envie um e-mail para [xmulitech@gmail.com](mailto:xmulitech@gmail.com?subject=Quick%20Utilities%20Suite%20Commercial%20Inquiry).
 
-For product feedback or bug reports, use [GitHub Issues](https://github.com/XMuli/QuickUtilitiesSuite/issues).
+Para feedback de produto ou relatos de bug, use [GitHub Issues](https://github.com/XMuli/QuickUtilitiesSuite/issues).
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Compare Editions](/pt-br/pricing){.vp-button.brand}
-[Explore Quick BrightnessSync](/pt-br/products/quick-brightnesssync){.vp-button.alt}
-[Explore Quick AlwaysOnTop](/pt-br/products/quick-alwaysontop){.vp-button.alt}
+[Comparar edições](/pt-br/pricing){.vp-button.brand}
+[Explorar Quick BrightnessSync](/pt-br/products/quick-brightnesssync){.vp-button.alt}
+[Explorar Quick AlwaysOnTop](/pt-br/products/quick-alwaysontop){.vp-button.alt}
 
 </div>
 

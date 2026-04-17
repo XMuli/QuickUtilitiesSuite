@@ -40,12 +40,12 @@ Quick Utilities Suite は、モニター制御の煩雑さ、重いファイル�
 - Quick BrightnessSync: 対応ディスプレイの実際のハードウェア輝度をまとめて調整。
 - Quick AlwaysOnTop: 参照ウィンドウを見失わずに他の作業を継続。
 - Quick BulkFileCopy と Quick BulkFileDelete: ファイル数の多いフォルダー処理を高速化。
-- Quick SnapTranslate と Quick SnapOCR: スクリーンショットをそのまま文字ワークフローに変換。
+- Quick SnapTranslate: スクリーンショットをそのまま文字ワークフローに変換。
 - Quick WindowInspector と Quick ColorPicker: デバッグ、UI 確認、実装作業を軽快に支援。
 
 ## 含まれるツール
 
-Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick SnapOCR, Quick ColorPicker
+Quick BrightnessSync, Quick AlwaysOnTop, Quick WindowInspector, Quick BulkFileCopy, Quick BulkFileDelete, Quick DefenderToggle, Quick SnapTranslate, Quick ColorPicker
 
 ## はじめに
 

@@ -1,34 +1,34 @@
-# Team & Commercial Support
+# 팀 및 상업 지원
 
-Quick Utilities products can be discussed for team use, workplace reimbursement, and broader desktop deployment.
+Quick Utilities 제품은 팀 사용, 직장 환급 및 광범위한 데스크탑 배포에 대해 논의될 수 있습니다.
 
-## Common scenarios
+## 일반적인 시나리오
 
-- Teams buying for shared or managed workstations
-- Workplaces standardizing tools across multi-monitor desks
-- Departments evaluating utilities for support, operations, development, or office productivity
-- Buyers who need a clear contact path before making a team purchase
+- 공유 또는 관리되는 워크스테이션을 구매하는 팀
+- 다중 모니터 책상 전반에 걸쳐 도구를 표준화하는 작업장
+- 지원, 운영, 개발 또는 사무실 생산성을 위해 유틸리티를 평가하는 부서
+- 팀 구매 전 명확한 연락 경로가 필요한 구매자
 
-## What to include in an inquiry
+## 문의사항에 포함할 내용
 
-To help us respond faster, include:
+더 빠르게 대응할 수 있도록 다음을 포함해 주세요.
 
-- Which product you are considering: `Quick BrightnessSync`, `Quick AlwaysOnTop`, or `Quick Utilities Suite`
-- Approximate number of users or devices
-- Whether this is an individual reimbursement request or a team / organization purchase
-- Any deployment, invoicing, or licensing questions you already know about
+- 고려 중인 제품: 'Quick BrightnessSync', 'Quick AlwaysOnTop' 또는 'Quick Utilities Suite'
+- 대략적인 사용자 또는 장치 수
+- 개인별 환급 요청인지, 팀/단체 구매인지
+- 이미 알고 있는 배포, 송장 발행 또는 라이선스 관련 질문
 
-## Contact
+## 연락하다
 
-For team or commercial inquiries, email [xmulitech@gmail.com](mailto:xmulitech@gmail.com?subject=Quick%20Utilities%20Suite%20Commercial%20Inquiry).
+팀 또는 상업적 문의는 [xmulitech@gmail.com](mailto:xmulitech@gmail.com?subject=Quick%20Utilities%20Suite%20Commercial%20Inquiry)로 이메일을 보내주세요.
 
-For product feedback or bug reports, use [GitHub Issues](https://github.com/XMuli/QuickUtilitiesSuite/issues).
+제품 피드백이나 버그 신고는 [GitHub 문제](https://github.com/XMuli/QuickUtilitiesSuite/issues)를 사용하세요.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Compare Editions](/ko/pricing){.vp-button.brand}
-[Explore Quick BrightnessSync](/ko/products/quick-brightnesssync){.vp-button.alt}
-[Explore Quick AlwaysOnTop](/ko/products/quick-alwaysontop){.vp-button.alt}
+[에디션 비교](/ko/pricing){.vp-button.brand}
+[Quick BrightnessSync 살펴보기](/ko/products/quick-brightnesssync){.vp-button.alt}
+[빠른 AlwaysOnTop 살펴보기](/ko/products/quick-alwaysontop){.vp-button.alt}
 
 </div>
 

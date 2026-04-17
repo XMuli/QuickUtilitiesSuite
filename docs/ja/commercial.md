@@ -1,34 +1,34 @@
-# Team & Commercial Support
+# チームおよび商用サポート
 
-Quick Utilities products can be discussed for team use, workplace reimbursement, and broader desktop deployment.
+Quick Utilities 製品については、チームでの使用、職場での償還、および広範なデスクトップ展開について議論できます。
 
-## Common scenarios
+## 一般的なシナリオ
 
-- Teams buying for shared or managed workstations
-- Workplaces standardizing tools across multi-monitor desks
-- Departments evaluating utilities for support, operations, development, or office productivity
-- Buyers who need a clear contact path before making a team purchase
+- 共有または管理されたワークステーションを購入するチーム
+- 職場のマルチモニターデスク全体でツールを標準化
+- サポート、運用、開発、またはオフィスの生産性のためのユーティリティを評価する部門
+- チーム購入を行う前に明確な連絡経路が必要なバイヤー
 
-## What to include in an inquiry
+## お問い合わせに含める内容
 
-To help us respond faster, include:
+より迅速に対応できるよう、以下を含めてください。
 
-- Which product you are considering: `Quick BrightnessSync`, `Quick AlwaysOnTop`, or `Quick Utilities Suite`
-- Approximate number of users or devices
-- Whether this is an individual reimbursement request or a team / organization purchase
-- Any deployment, invoicing, or licensing questions you already know about
+- 検討している製品: 「Quick BrightnessSync」、「Quick AlwaysOnTop」、または「Quick Utilities Suite」
+- ユーザーまたはデバイスのおおよその数
+- これが個人の払い戻しリクエストであるか、チーム/組織の購入であるか
+- 導入、請求、ライセンスに関するすでに知っている質問
 
-## Contact
+## 接触
 
-For team or commercial inquiries, email [xmulitech@gmail.com](mailto:xmulitech@gmail.com?subject=Quick%20Utilities%20Suite%20Commercial%20Inquiry).
+チームまたは商用に関するお問い合わせについては、電子メール [xmulitech@gmail.com](mailto:xmulitech@gmail.com?subject=Quick%20Utilities%20Suite%20Commercial%20 Investigation) までお問い合わせください。
 
-For product feedback or bug reports, use [GitHub Issues](https://github.com/XMuli/QuickUtilitiesSuite/issues).
+製品のフィードバックやバグ レポートについては、[GitHub Issues](https://github.com/XMuli/QuickUtilitiesSuite/issues) を使用してください。
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Compare Editions](/ja/pricing){.vp-button.brand}
-[Explore Quick BrightnessSync](/ja/products/quick-brightnesssync){.vp-button.alt}
-[Explore Quick AlwaysOnTop](/ja/products/quick-alwaysontop){.vp-button.alt}
+[エディションの比較](/ja/pricing){.vp-button.brand}
+[Quick BrightnessSync を探索する](/ja/products/quick-brightnesssync){.vp-button.alt}
+[クイック AlwaysOnTop を探索する](/ja/products/quick-alwaysontop){.vp-button.alt}
 
 </div>
 

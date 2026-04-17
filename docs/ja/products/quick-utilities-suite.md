@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**A broader Windows toolkit for users who want more than one utility in daily reach.**
+**毎日利用できる複数のユーティリティを必要とするユーザー向けの、より広範な Windows ツールキット。**
 
 ---
 
-### One family of tools for serious desktop work
+### 本格的なデスクトップ作業のためのツールの 1 つのファミリー
 
-Quick Utilities Suite brings together display control, window management, file-heavy workflow tools, screen capture, translation, OCR, and color utilities in one product family. It is designed for users who prefer a more consistent desktop environment over a collection of unrelated point tools.
+Quick Utilities Suite は、表示制御、ウィンドウ管理、ファイルを大量に使用するワークフロー ツール、画面キャプチャ、翻訳、OCR、およびカラー ユーティリティを 1 つの製品ファミリーに統合します。無関係なポイント ツールのコレクションよりも、より一貫したデスクトップ環境を好むユーザー向けに設計されています。
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite screenshot"
@@ -20,38 +20,38 @@ Quick Utilities Suite brings together display control, window management, file-h
 
 ---
 
-### What it includes
+### 含まれるもの
 
-**Core display and multitasking tools**  
-Quick BrightnessSync, Quick AlwaysOnTop, and Quick WindowInspector support comfortable, focused desktop work.
+**主要な表示ツールとマルチタスク ツール**  
+Quick BrightnessSync、Quick AlwaysOnTop、および Quick WindowInspector は、快適で集中したデスクトップ作業をサポートします。
 
-**File workflow tools**  
-Quick BulkFileCopy and Quick BulkFileDelete help with dependency trees, mirrored folders, archives, packaging directories, and repeated cleanup tasks.
+**ファイルワークフローツール**  
+Quick BulkFileCopy および Quick BulkFileDelete は、依存関係ツリー、ミラーリングされたフォルダー、アーカイブ、パッケージ化ディレクトリ、および繰り返しのクリーンアップ タスクに役立ちます。
 
-**Capture and translation tools**  
-Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
+**キャプチャおよび翻訳ツール**  
+Quick SnapTranslate + ColorPicker は、言語を超えた作業、視覚的な QA、および画面上にすでに表示されているものからの迅速な抽出のためにスイートを拡張します。
 
 ---
 
-### Who it is built for
+### 誰のために作られたのか
 
-**Power users and professional desktops**  
-Keep a serious workstation responsive with tools that reduce repeated friction.
+**パワーユーザーとプロフェッショナルデスクトップ**  
+繰り返しの摩擦を軽減するツールを使用して、本格的なワークステーションの応答性を維持します。
 
-**Developers, operators, and technical teams**  
-Support workflows that move between files, windows, logs, dashboards, and screen-based information.
+**開発者、オペレーター、技術チーム**  
+ファイル、ウィンドウ、ログ、ダッシュボード、画面ベースの情報の間を移動するワークフローをサポートします。
 
-**Users who want a more complete setup**  
-Choose the suite when you want a broader toolkit rather than a single-purpose utility.
+**より完全なセットアップを希望するユーザー**  
+単一目的のユーティリティではなく、より広範なツールキットが必要な場合は、スイートを選択してください。
 
 <br>
 
-## Next step
+## 次のステップ
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="/ja/pricing">Compare Editions</a>
-  <a class="vp-button alt" href="/ja/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
-  <a class="vp-button alt" href="/ja/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+  <a class="vp-button brand" href="/ja/pricing">エディションの比較</a>
+  <a class="vp-button alt" href="/ja/products/quick-brightnesssync">Quick BrightnessSync を探索する</a>
+  <a class="vp-button alt" href="/ja/products/quick-alwaysontop">クイック AlwaysOnTop を探索する</a>
 
 </div>
 

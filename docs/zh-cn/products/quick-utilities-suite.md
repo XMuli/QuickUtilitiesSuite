@@ -29,7 +29,7 @@ Quick BrightnessSync、Quick AlwaysOnTop 与 Quick WindowInspector 帮助你建�
 Quick BulkFileCopy 与 Quick BulkFileDelete 适合依赖树、镜像目录、压缩包、打包目录与反复清理任务。
 
 **截图与语言工具**  
-Quick SnapTranslate、Quick SnapOCR 与 Quick ColorPicker 适合跨语言处理、视觉校验与快速提取屏幕内容。
+Quick SnapTranslate + ColorPicker 适合跨语言处理、视觉校验与快速提取屏幕内容。
 
 ---
 

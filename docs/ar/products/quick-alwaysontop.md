@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick AlwaysOnTop.svg" alt="Quick AlwaysOnTop" style="width: 96px; height: 96px;" />
 </div>
 
-**Keep the windows that matter exactly where you need them.**
+**احتفظ بالنوافذ المهمة في المكان الذي تحتاج إليها بالضبط.**
 
 ---
 
-### Designed for focused multitasking
+### مصممة للقيام بمهام متعددة مركزة
 
-Quick AlwaysOnTop gives you a direct way to keep reference windows, meeting panels, calculators, translators, and utility tools visible while the rest of your desktop keeps moving. It fits naturally into daily work because it changes window priority without forcing you to change applications or layout habits.
+يمنحك Quick AlwaysOnTop طريقة مباشرة لإبقاء النوافذ المرجعية ولوحات الاجتماعات والآلات الحاسبة والمترجمين وأدوات المساعدة مرئية بينما يستمر باقي سطح المكتب في التحرك. إنه يتناسب بشكل طبيعي مع العمل اليومي لأنه يغير أولوية النافذة دون إجبارك على تغيير التطبيقات أو عادات التخطيط.
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop screenshot"
@@ -20,44 +20,44 @@ Quick AlwaysOnTop gives you a direct way to keep reference windows, meeting pane
 
 ---
 
-### Why it stands out
+### لماذا تبرز
 
-**Instant pin and release**  
-Use a shortcut or tray action to keep the active window in front, then return it to normal just as quickly.
+**دبوس فوري والإفراج**  
+استخدم اختصارًا أو إجراء صينية لإبقاء النافذة النشطة في المقدمة، ثم قم بإعادتها إلى وضعها الطبيعي بنفس السرعة.
 
-**Clear visual feedback**  
-Highlighted borders and optional prompts confirm pinned state immediately, reducing guesswork.
+**ردود فعل مرئية واضحة**  
+تؤكد الحدود المميزة والمطالبات الاختيارية الحالة المثبتة على الفور، مما يقلل من التخمين.
 
-**Useful across everyday apps**  
-Works well with documents, browsers, chats, terminals, media panels, and utility windows.
-
----
-
-### Where it fits best
-
-**Development and operations**  
-Keep logs, consoles, or reference docs visible while you work in another application.
-
-**Office productivity**  
-Hold calculators, schedules, and collaboration windows in view without rearranging your desktop.
-
-**Meetings and live support**  
-Keep a call window accessible while you continue working elsewhere.
+**مفيدة عبر التطبيقات اليومية**  
+يعمل بشكل جيد مع المستندات، والمتصفحات، والمحادثات، والمحطات الطرفية، ولوحات الوسائط، ونوافذ الأدوات المساعدة.
 
 ---
 
-### Also worth pairing with Quick BrightnessSync
+### حيث يناسب أفضل
 
-Quick AlwaysOnTop helps you manage attention on the desktop. `Quick BrightnessSync` helps you manage visual comfort across multiple displays. Together they cover two of the most common friction points on a serious Windows workstation.
+**التطوير والعمليات**  
+احتفظ بالسجلات أو وحدات التحكم أو المستندات المرجعية مرئية أثناء العمل في تطبيق آخر.
+
+**إنتاجية المكتب**  
+يمكنك عرض الآلات الحاسبة والجداول الزمنية ونوافذ التعاون دون إعادة ترتيب سطح المكتب.
+
+**الاجتماعات والدعم المباشر**  
+حافظ على إمكانية الوصول إلى نافذة الاتصال أثناء مواصلة العمل في مكان آخر.
+
+---
+
+### يستحق أيضًا الاقتران مع Quick BrightnessSync
+
+يساعدك Quick AlwaysOnTop على إدارة الانتباه على سطح المكتب. يساعدك Quick BrightnessSync على إدارة الراحة البصرية عبر شاشات العرض المتعددة. وهي تغطي معًا اثنتين من نقاط الاحتكاك الأكثر شيوعًا في محطة عمل Windows المهمة.
 
 <br>
 
-## Next step
+## الخطوة التالية
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">Download from Microsoft Store</a>
-  <a class="vp-button alt" href="/ar/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
-  <a class="vp-button alt" href="/ar/pricing">Compare Editions</a>
+  <a class="vp-button brand" href="https://apps.microsoft.com/detail/9NR3H8Q42N4S">تحميل من متجر مايكروسوفت</a>
+  <a class="vp-button alt" href="/ar/products/quick-brightnesssync">استكشف Quick BrightnessSync</a>
+  <a class="vp-button alt" href="/ar/pricing">مقارنة الإصدارات</a>
 
 </div>
 

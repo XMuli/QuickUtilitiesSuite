@@ -3,89 +3,89 @@ layout: home
 
 hero:
   name: "Quick BrightnessSync"
-  text: "Professional control for multi-monitor brightness"
-  tagline: "Adjust the real hardware brightness of external displays from one clean surface, then keep the rest of your desktop organized with the tools that support serious daily work."
+  text: "Профессиональное управление яркостью нескольких мониторов"
+  tagline: "Настройте реальную аппаратную яркость внешних дисплеев с одной чистой поверхности, а затем наведите порядок на рабочем столе с помощью инструментов, которые подходят для серьезной повседневной работы."
   image:
     src: /images/snapshoot/Quick%20BrightnessSync.png
     alt: Quick BrightnessSync
   actions:
     - theme: brand
-      text: Explore BrightnessSync
+      text: Откройте для себя BrightnessSync
       link: /ru/products/quick-brightnesssync
     - theme: alt
-      text: Explore AlwaysOnTop
+      text: Откройте для себя AlwaysOnTop
       link: /ru/products/quick-alwaysontop
     - theme: alt
-      text: Compare Editions
+      text: Сравнить выпуски
       link: /ru/pricing
 
 features:
   - title: Quick BrightnessSync
-    details: Real hardware brightness control for external monitors, designed for desks that run across two, three, or more displays.
+    details: Реальное аппаратное управление яркостью внешних мониторов, предназначенное для столов с двумя, тремя или более дисплеями.
     icon:
       light: /images/quick-logo/Quick%20BrightnessSync.svg
       dark: /images/quick-logo/Quick%20BrightnessSync.svg
   - title: Quick AlwaysOnTop
-    details: Keep reference windows, meeting panels, calculators, chats, and support tools visible while the rest of your workspace keeps moving.
+    details: Держите справочные окна, панели совещаний, калькуляторы, чаты и инструменты поддержки видимыми, пока остальная часть вашего рабочего пространства продолжает двигаться.
     icon:
       light: /images/quick-logo/Quick AlwaysOnTop.svg
       dark: /images/quick-logo/Quick AlwaysOnTop.svg
   - title: Quick Utilities Suite
-    details: Bring display control, window tools, file-heavy workflow utilities, capture, translation, and color tools into one product family.
+    details: Объедините управление отображением, оконные инструменты, утилиты для обработки большого количества файлов, инструменты захвата, перевода и цвета в одном семействе продуктов.
     icon:
       light: /images/quick-logo/Quick Utilities Suite.svg
       dark: /images/quick-logo/Quick Utilities Suite.svg
-  - title: Window and troubleshooting tools
-    details: WindowInspector and related desktop utilities help technical users work faster without adding heavy, fragmented software.
+  - title: Окно и инструменты устранения неполадок
+    details: WindowInspector и связанные с ним настольные утилиты помогают техническим пользователям работать быстрее без добавления тяжелого фрагментированного программного обеспечения.
     icon:
       light: /images/home_features/QuickWindowInspector.svg
       dark: /images/home_features/QuickWindowInspector.svg
-  - title: File-heavy workflow support
-    details: Bulk copy and bulk delete help with project trees, mirrored assets, package folders, and repeated cleanup tasks.
+  - title: Поддержка рабочего процесса с большим количеством файлов
+    details: Массовое копирование и массовое удаление помогают с деревьями проектов, зеркальными ресурсами, папками пакетов и повторяющимися задачами очистки.
     icon:
       light: /images/home_features/QuickBulkFileCopy.svg
       dark: /images/home_features/QuickBulkFileCopy.svg
-  - title: Screen capture and language tools
-    details: SnapTranslate, SnapOCR, and ColorPicker extend the suite for cross-language work, visual QA, and fast content capture.
+  - title: Снимок экрана и языковые инструменты
+    details: SnapTranslate + ColorPicker расширяют пакет для межъязыковой работы, визуального контроля качества и быстрого захвата контента.
     icon:
       light: /images/home_features/QuickSnapTranslate.svg
       dark: /images/home_features/QuickSnapTranslate.svg
 ---
 
-## Two core experiences for serious Windows desktops
+## Два основных варианта для серьезных настольных компьютеров Windows
 
-`Quick BrightnessSync` and `Quick AlwaysOnTop` represent two of the most practical improvements you can make to a Windows workstation. One makes multi-monitor control cleaner and more comfortable. The other keeps the right window visible at the right time without disrupting the rest of the desktop.
+«Quick BrightnessSync» и «Quick AlwaysOnTop» представляют собой два наиболее практичных улучшения, которые вы можете внести в рабочую станцию ​​Windows. One делает управление несколькими мониторами более понятным и удобным. Другой сохраняет нужное окно видимым в нужное время, не нарушая остальную часть рабочего стола.
 
-## BrightnessSync for multi-monitor desks
+## BrightnessSync для столов с несколькими мониторами
 
-If your setup depends on external displays, Quick BrightnessSync replaces monitor-button routines with a single, direct control surface. It is a practical tool for long work sessions across development, analysis, trading, operations, and content review.
+Если ваша настройка зависит от внешних дисплеев, Quick BrightnessSync заменяет процедуры кнопок монитора единой панелью прямого управления. Это практический инструмент для длительной работы по разработке, анализу, торговле, операциям и просмотру контента.
 
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <img src="/images/snapshoot/Quick%20BrightnessSync.png" alt="Quick BrightnessSync screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
 </div>
 
-[Explore Quick BrightnessSync](/ru/products/quick-brightnesssync){.vp-button.brand}
+[Откройте для себя Quick BrightnessSync](/ru/products/quick-brightnesssync){.vp-button.brand}
 
-## AlwaysOnTop for focused multitasking
+## AlwaysOnTop для целенаправленной многозадачности
 
-Quick AlwaysOnTop keeps reference material, live support windows, calculators, translators, and meeting panels within view while you continue working elsewhere. It fits naturally into office, technical, and support workflows because it improves the desktop you already have instead of asking you to work differently.
+Quick AlwaysOnTop сохраняет справочные материалы, окна поддержки в режиме реального времени, калькуляторы, переводчики и панели совещаний в пределах видимости, пока вы продолжаете работать в другом месте. Он естественным образом вписывается в офисные, технические и вспомогательные рабочие процессы, поскольку улучшает уже имеющийся рабочий стол, а не требует от вас работать по-другому.
 
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
   <img src="/images/snapshoot/Quick AlwaysOnTop.png" alt="Quick AlwaysOnTop screenshot"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
 </div>
 
-[Explore Quick AlwaysOnTop](/ru/products/quick-alwaysontop){.vp-button.brand}
+[Откройте для себя быстрый AlwaysOnTop](/ru/products/quick-alwaysontop){.vp-button.brand}
 
-## One product family for serious desktop workflows
+## Одно семейство продуктов для серьезных рабочих процессов на настольных компьютерах
 
-Quick Utilities Suite brings these tools together with file, window, capture, translation, and color utilities for users who want a more complete professional Windows toolkit.
+Пакет Quick Utilities Suite объединяет эти инструменты с утилитами для работы с файлами, окнами, захватом, переводом и цветом для пользователей, которым нужен более полный профессиональный набор инструментов Windows.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Compare Editions](/ru/pricing){.vp-button.alt}
-[View Team & Commercial Support](/ru/commercial){.vp-button.alt}
+[Сравнить выпуски](/ru/pricing){.vp-button.alt}
+[Посмотреть команду и коммерческую поддержку](/ru/commercial){.vp-button.alt}
 
 </div>
 

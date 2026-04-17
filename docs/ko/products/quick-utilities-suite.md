@@ -4,13 +4,13 @@
   <img src="/images/quick-logo/Quick Utilities Suite.svg" alt="Quick Utilities Suite" style="width: 96px; height: 96px;" />
 </div>
 
-**A broader Windows toolkit for users who want more than one utility in daily reach.**
+**매일 두 개 이상의 유틸리티를 사용하려는 사용자를 위한 광범위한 Windows 도구 키트입니다.**
 
 ---
 
-### One family of tools for serious desktop work
+### 진지한 데스크탑 작업을 위한 단일 도구 제품군
 
-Quick Utilities Suite brings together display control, window management, file-heavy workflow tools, screen capture, translation, OCR, and color utilities in one product family. It is designed for users who prefer a more consistent desktop environment over a collection of unrelated point tools.
+Quick Utilities Suite는 디스플레이 제어, 창 관리, 파일이 많은 작업 흐름 도구, 화면 캡처, 번역, OCR 및 색상 유틸리티를 하나의 제품군에 통합합니다. 관련 없는 포인트 도구 모음보다 더욱 일관된 데스크탑 환경을 선호하는 사용자를 위해 설계되었습니다.
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/images/snapshoot/Quick Setting.png" alt="Quick Utilities Suite screenshot"
@@ -20,38 +20,38 @@ Quick Utilities Suite brings together display control, window management, file-h
 
 ---
 
-### What it includes
+### 포함 내용
 
-**Core display and multitasking tools**  
-Quick BrightnessSync, Quick AlwaysOnTop, and Quick WindowInspector support comfortable, focused desktop work.
+**핵심 디스플레이 및 멀티태스킹 도구**  
+Quick BrightnessSync, Quick AlwaysOnTop 및 Quick WindowInspector는 편안하고 집중적인 데스크탑 작업을 지원합니다.
 
-**File workflow tools**  
-Quick BulkFileCopy and Quick BulkFileDelete help with dependency trees, mirrored folders, archives, packaging directories, and repeated cleanup tasks.
+**파일 워크플로 도구**  
+Quick BulkFileCopy 및 Quick BulkFileDelete는 종속성 트리, 미러링된 폴더, 아카이브, 패키징 디렉터리 및 반복되는 정리 작업에 도움이 됩니다.
 
-**Capture and translation tools**  
-Quick SnapTranslate, Quick SnapOCR, and Quick ColorPicker extend the suite for cross-language work, visual QA, and fast extraction from what is already on screen.
+**캡처 및 번역 도구**  
+Quick SnapTranslate + ColorPicker는 언어 간 작업, 시각적 QA 및 이미 화면에 있는 내용에서 빠른 추출을 위해 제품군을 확장합니다.
 
 ---
 
-### Who it is built for
+### 누구를 위해 만들어졌는가
 
-**Power users and professional desktops**  
-Keep a serious workstation responsive with tools that reduce repeated friction.
+**고급 사용자 및 전문가용 데스크탑**  
+반복적인 마찰을 줄이는 도구를 사용하여 심각한 워크스테이션의 반응성을 유지하십시오.
 
-**Developers, operators, and technical teams**  
-Support workflows that move between files, windows, logs, dashboards, and screen-based information.
+**개발자, 운영자 및 기술팀**  
+파일, 창, 로그, 대시보드, 화면 기반 정보 사이를 이동하는 워크플로를 지원합니다.
 
-**Users who want a more complete setup**  
-Choose the suite when you want a broader toolkit rather than a single-purpose utility.
+**보다 완벽한 설정을 원하는 사용자**  
+단일 목적 유틸리티보다는 더 광범위한 툴킷을 원할 때 제품군을 선택하십시오.
 
 <br>
 
-## Next step
+## 다음 단계
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
-  <a class="vp-button brand" href="/ko/pricing">Compare Editions</a>
-  <a class="vp-button alt" href="/ko/products/quick-brightnesssync">Explore Quick BrightnessSync</a>
-  <a class="vp-button alt" href="/ko/products/quick-alwaysontop">Explore Quick AlwaysOnTop</a>
+  <a class="vp-button brand" href="/ko/pricing">에디션 비교</a>
+  <a class="vp-button alt" href="/ko/products/quick-brightnesssync">Quick BrightnessSync 살펴보기</a>
+  <a class="vp-button alt" href="/ko/products/quick-alwaysontop">빠른 AlwaysOnTop 살펴보기</a>
 
 </div>
 

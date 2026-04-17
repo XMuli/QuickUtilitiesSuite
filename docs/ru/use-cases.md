@@ -1,27 +1,27 @@
-# Use Cases
+# Варианты использования
 
-Quick Utilities products are built for Windows workflows where small desktop interruptions add up quickly.
+Продукты Quick Utilities созданы для рабочих процессов Windows, где небольшие перерывы в работе рабочего стола быстро накапливаются.
 
-## Multi-monitor desks
+## Столы с несколькими мониторами
 
-`Quick BrightnessSync` fits desks that depend on external monitors all day. It is especially useful for development, analysis, trading, operations, and content review setups where visual comfort changes across long sessions.
+«Quick BrightnessSync» подходит для столов, которые весь день зависят от внешних мониторов. Это особенно полезно для разработки, анализа, торговли, операций и просмотра контента, где визуальный комфорт меняется в течение длительных сессий.
 
-## Focused multitasking
+## Целенаправленная многозадачность
 
-`Quick AlwaysOnTop` helps when one window must stay visible while the rest of the workspace keeps changing. It works well for office productivity, live support, meetings, research, and technical workflows.
+«Quick AlwaysOnTop» помогает, когда одно окно должно оставаться видимым, в то время как остальная часть рабочего пространства постоянно меняется. Он хорошо подходит для офисной работы, онлайн-поддержки, встреч, исследований и технических рабочих процессов.
 
-## Technical and troubleshooting work
+## Технические и дефектовочные работы
 
-`Quick WindowInspector`, `Quick AlwaysOnTop`, `Quick BulkFileCopy`, and `Quick BulkFileDelete` support environments where logs, tools, package folders, and repeated desktop tasks are part of daily work.
+Quick WindowInspector, Quick AlwaysOnTop, Quick BulkFileCopy и Quick BulkFileDelete поддерживают среды, в которых журналы, инструменты, папки пакетов и повторяющиеся задачи рабочего стола являются частью повседневной работы.
 
-## Broader desktop toolkit needs
+## Более широкий набор инструментов для настольных компьютеров
 
-`Quick Utilities Suite` is a better fit when one workstation needs display control, multitasking support, file-heavy utilities, translation, OCR, and capture tools together.
+«Quick Utilities Suite» лучше подходит, когда одной рабочей станции требуется совместное управление дисплеем, поддержка многозадачности, утилиты с большим количеством файлов, инструменты перевода, оптического распознавания символов и захвата.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Explore Quick BrightnessSync](/ru/products/quick-brightnesssync){.vp-button.brand}
-[Explore Quick AlwaysOnTop](/ru/products/quick-alwaysontop){.vp-button.alt}
+[Откройте для себя Quick BrightnessSync](/ru/products/quick-brightnesssync){.vp-button.brand}
+[Откройте для себя быстрый AlwaysOnTop](/ru/products/quick-alwaysontop){.vp-button.alt}
 
 </div>
 
