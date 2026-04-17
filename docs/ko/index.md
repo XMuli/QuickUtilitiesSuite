@@ -67,6 +67,13 @@ features:
 
 [Quick BrightnessSync 살펴보기](/ko/products/quick-brightnesssync){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## 집중적인 멀티태스킹을 위한 AlwaysOnTop
 
 Quick AlwaysOnTop은 다른 곳에서 작업을 계속하는 동안 참조 자료, 실시간 지원 창, 계산기, 번역기 및 회의 패널을 보기 내에 유지합니다. 다르게 작업하도록 요구하는 대신 이미 보유하고 있는 데스크탑을 향상시키기 때문에 사무실, 기술 및 지원 워크플로에 자연스럽게 들어맞습니다.
@@ -78,13 +85,21 @@ Quick AlwaysOnTop은 다른 곳에서 작업을 계속하는 동안 참조 자�
 
 [빠른 AlwaysOnTop 살펴보기](/ko/products/quick-alwaysontop){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## 심각한 데스크탑 워크플로우를 위한 단일 제품군
 
 Quick Utilities Suite는 보다 완벽한 전문 Windows 툴킷을 원하는 사용자를 위해 이러한 도구를 파일, 창, 캡처, 번역 및 색상 유틸리티와 함께 ​​제공합니다.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[에디션 비교](/ko/pricing){.vp-button.alt}
+[에디션 비교](/ko[![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
+/pricing){.vp-button.alt}
 [팀 및 상업 지원 보기](/ko/commercial){.vp-button.alt}
 
 </div>

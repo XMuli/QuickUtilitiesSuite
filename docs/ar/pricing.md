@@ -6,9 +6,9 @@
 
 | Product | الأفضل ل | أبرز | احصل عليه |
 | --- | --- | --- | --- |
-| Quick BrightnessSync | مكاتب متعددة الشاشات، ومحللين، ومطورين، وتجار، ومستخدمي شاشات العرض الخارجية بكثافة | تحكم حقيقي في سطوع الأجهزة للشاشات المدعومة من سطح تحكم موحد | [Microsoft Store](https://apps.microsoft.com/detail/9P90PPWL7VDJ) |
-| Quick AlwaysOnTop | التركيز على تعدد المهام ودعم العمل وإنتاجية المكتب والتطوير والعمليات الحية | احتفظ بالنوافذ المهمة مرئية فوق بقية سطح المكتب من خلال التحكم الفوري في التبديل | [Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S) |
-| Quick Utilities Suite | المستخدمون الذين يريدون التحكم في العرض وأدوات النوافذ والأدوات المساعدة للملفات الثقيلة وأدوات الالتقاط والترجمة والألوان معًا | مجموعة أدوات سطح مكتب أوسع مبنية على الوصول السريع والاستخدام اليومي العملي | [Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV) |
+| Quick BrightnessSync | مكاتب متعددة الشاشات، ومحللين، ومطورين، وتجار، ومستخدمي شاشات العرض الخارجية بكثافة | تحكم حقيقي في سطوع الأجهزة للشاشات المدعومة من سطح تحكم موحد | <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Quick BrightnessSync from Microsoft Store" style="height: 56px; min-width: 140px;" /></a> |
+| Quick AlwaysOnTop | التركيز على تعدد المهام ودعم العمل وإنتاجية المكتب والتطوير والعمليات الحية | احتفظ بالنوافذ المهمة مرئية فوق بقية سطح المكتب من خلال التحكم الفوري في التبديل | <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Quick AlwaysOnTop from Microsoft Store" style="height: 56px; min-width: 140px;" /></a> |
+| Quick Utilities Suite | المستخدمون الذين يريدون التحكم في العرض وأدوات النوافذ والأدوات المساعدة للملفات الثقيلة وأدوات الالتقاط والترجمة والألوان معًا | مجموعة أدوات سطح مكتب أوسع مبنية على الوصول السريع والاستخدام اليومي العملي | <a href="https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct" aria-label="Download Quick Utilities Suite from Microsoft Store"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Quick Utilities Suite from Microsoft Store" style="height: 56px; min-width: 140px;" /></a> |
 
 ## أي واحد يجب أن تختار
 

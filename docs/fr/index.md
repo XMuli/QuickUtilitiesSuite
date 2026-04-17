@@ -67,6 +67,13 @@ Si votre configuration dépend d'écrans externes, Quick BrightnessSync remplace
 
 [Découvrir Quick BrightnessSync](/fr/products/quick-brightnesssync){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## AlwaysOnTop pour un multitâche concentré
 
 Quick AlwaysOnTop garde vos documents de référence, fenêtres de support en direct, calculatrices, traducteurs et panneaux de réunion dans le champ de vision pendant que vous continuez à travailler ailleurs. Il s'intègre naturellement aux usages bureautiques, techniques et support, car il améliore votre bureau existant au lieu de vous imposer une autre façon de travailler.
@@ -78,13 +85,21 @@ Quick AlwaysOnTop garde vos documents de référence, fenêtres de support en di
 
 [Découvrir Quick AlwaysOnTop](/fr/products/quick-alwaysontop){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## Une seule famille de produits pour les flux de travail bureautiques exigeants
 
 Quick Utilities Suite rassemble ces outils avec des utilitaires de fichiers, de fenêtres, de capture, de traduction et de couleur pour les utilisateurs qui veulent une boîte à outils Windows plus complète et professionnelle.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Comparer les éditions](/fr/pricing){.vp-button.alt}
+[Comparer les éditions](/fr[![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
+/pricing){.vp-button.alt}
 [Voir le support équipe et commercial](/fr/commercial){.vp-button.alt}
 
 </div>

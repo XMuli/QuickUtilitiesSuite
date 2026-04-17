@@ -67,6 +67,13 @@ features:
 
 [Quick BrightnessSync を探索する](/ja/products/quick-brightnesssync){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## 集中的なマルチタスクのための AlwaysOnTop
 
 Quick AlwaysOnTop では、別の場所で作業を続けながら、参考資料、ライブ サポート ウィンドウ、計算機、翻訳機、会議パネルをビュー内に保持できます。別の作業を要求するのではなく、既存のデスクトップを改善するため、オフィス、技術、サポートのワークフローに自然に適合します。
@@ -78,13 +85,21 @@ Quick AlwaysOnTop では、別の場所で作業を続けながら、参考資�
 
 [クイック AlwaysOnTop を探索する](/ja/products/quick-alwaysontop){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## 本格的なデスクトップワークフローに対応する 1 つの製品ファミリー
 
 Quick Utilities Suite は、より完全なプロフェッショナルな Windows ツールキットを必要とするユーザー向けに、これらのツールをファイル、ウィンドウ、キャプチャ、翻訳、カラー ユーティリティと組み合わせて提供します。
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[エディションの比較](/ja/pricing){.vp-button.alt}
+[エディションの比較](/ja[![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
+/pricing){.vp-button.alt}
 [チームと商用サポートを見る](/ja/commercial){.vp-button.alt}
 
 </div>

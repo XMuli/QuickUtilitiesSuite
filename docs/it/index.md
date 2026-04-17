@@ -67,6 +67,13 @@ Se la tua configurazione dipende da display esterni, Quick BrightnessSync sostit
 
 [Scopri Quick BrightnessSync](/it/products/quick-brightnesssync){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## AlwaysOnTop per multitasking concentrato
 
 Quick AlwaysOnTop mantiene a vista materiale di riferimento, finestre di supporto live, calcolatrici, traduttori e pannelli riunione mentre continui a lavorare altrove. Si integra naturalmente nei flussi d'ufficio, tecnici e di supporto perché migliora il desktop che hai già invece di costringerti a lavorare in modo diverso.
@@ -78,13 +85,21 @@ Quick AlwaysOnTop mantiene a vista materiale di riferimento, finestre di support
 
 [Scopri Quick AlwaysOnTop](/it/products/quick-alwaysontop){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## Una famiglia di prodotti per flussi desktop seri
 
 Quick Utilities Suite riunisce questi strumenti con utility per file, finestre, cattura, traduzione e colore per chi desidera un toolkit Windows professionale più completo.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Confronta edizioni](/it/pricing){.vp-button.alt}
+[Confronta edizioni](/it[![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
+/pricing){.vp-button.alt}
 [Vedi supporto team e commerciale](/it/commercial){.vp-button.alt}
 
 </div>

@@ -67,6 +67,13 @@ features:
 
 [Откройте для себя Quick BrightnessSync](/ru/products/quick-brightnesssync){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## AlwaysOnTop для целенаправленной многозадачности
 
 Quick AlwaysOnTop сохраняет справочные материалы, окна поддержки в режиме реального времени, калькуляторы, переводчики и панели совещаний в пределах видимости, пока вы продолжаете работать в другом месте. Он естественным образом вписывается в офисные, технические и вспомогательные рабочие процессы, поскольку улучшает уже имеющийся рабочий стол, а не требует от вас работать по-другому.
@@ -78,13 +85,21 @@ Quick AlwaysOnTop сохраняет справочные материалы, о
 
 [Откройте для себя быстрый AlwaysOnTop](/ru/products/quick-alwaysontop){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## Одно семейство продуктов для серьезных рабочих процессов на настольных компьютерах
 
 Пакет Quick Utilities Suite объединяет эти инструменты с утилитами для работы с файлами, окнами, захватом, переводом и цветом для пользователей, которым нужен более полный профессиональный набор инструментов Windows.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Сравнить выпуски](/ru/pricing){.vp-button.alt}
+[Сравнить выпуски](/ru[![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
+/pricing){.vp-button.alt}
 [Посмотреть команду и коммерческую поддержку](/ru/commercial){.vp-button.alt}
 
 </div>

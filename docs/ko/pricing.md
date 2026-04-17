@@ -6,9 +6,9 @@ Windows에서 작업하는 방식에 가장 적합한 Quick Utilities 제품을 
 
 | Product | 다음에 가장 적합 | 하이라이트 | 그것을 얻으십시오 |
 | --- | --- | --- | --- |
-| Quick BrightnessSync | 다중 모니터 데스크, 분석가, 개발자, 거래자 및 외부 디스플레이를 많이 사용하는 사용자 | 하나의 통합 제어 표면에서 지원되는 모니터에 대한 실제 하드웨어 밝기 제어 | [Microsoft Store](https://apps.microsoft.com/detail/9P90PPWL7VDJ) |
-| Quick AlwaysOnTop | 멀티 태스킹, 지원 작업, 사무실 생산성, 개발 및 실시간 운영에 집중 | 즉각적인 토글 제어를 통해 중요한 창을 데스크탑의 나머지 부분 위에 표시하세요. | [Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S) |
-| Quick Utilities Suite | 디스플레이 제어, 창 도구, 파일이 많은 유틸리티, 캡처, 번역 및 색상 도구를 함께 원하는 사용자 | 빠른 액세스와 실용적인 일상 사용을 중심으로 구축된 광범위한 데스크탑 툴킷 | [Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV) |
+| Quick BrightnessSync | 다중 모니터 데스크, 분석가, 개발자, 거래자 및 외부 디스플레이를 많이 사용하는 사용자 | 하나의 통합 제어 표면에서 지원되는 모니터에 대한 실제 하드웨어 밝기 제어 | <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Quick BrightnessSync from Microsoft Store" style="height: 56px; min-width: 140px;" /></a> |
+| Quick AlwaysOnTop | 멀티 태스킹, 지원 작업, 사무실 생산성, 개발 및 실시간 운영에 집중 | 즉각적인 토글 제어를 통해 중요한 창을 데스크탑의 나머지 부분 위에 표시하세요. | <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Quick AlwaysOnTop from Microsoft Store" style="height: 56px; min-width: 140px;" /></a> |
+| Quick Utilities Suite | 디스플레이 제어, 창 도구, 파일이 많은 유틸리티, 캡처, 번역 및 색상 도구를 함께 원하는 사용자 | 빠른 액세스와 실용적인 일상 사용을 중심으로 구축된 광범위한 데스크탑 툴킷 | <a href="https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct" aria-label="Download Quick Utilities Suite from Microsoft Store"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Quick Utilities Suite from Microsoft Store" style="height: 56px; min-width: 140px;" /></a> |
 
 ## 어느 것을 선택해야합니까?
 

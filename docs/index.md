@@ -67,6 +67,12 @@ If your setup depends on external displays, Quick BrightnessSync replaces monito
 
 [Explore Quick BrightnessSync](/products/quick-brightnesssync){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
 ## AlwaysOnTop for focused multitasking
 
 Quick AlwaysOnTop keeps reference material, live support windows, calculators, translators, and meeting panels within view while you continue working elsewhere. It fits naturally into office, technical, and support workflows because it improves the desktop you already have instead of asking you to work differently.
@@ -78,12 +84,19 @@ Quick AlwaysOnTop keeps reference material, live support windows, calculators, t
 
 [Explore Quick AlwaysOnTop](/products/quick-alwaysontop){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
 ## One product family for serious desktop workflows
 
 Quick Utilities Suite brings these tools together with file, window, capture, translation, and color utilities for users who want a more complete professional Windows toolkit.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
+[![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
 [Compare Editions](/pricing){.vp-button.alt}
 [View Team & Commercial Support](/commercial){.vp-button.alt}
 

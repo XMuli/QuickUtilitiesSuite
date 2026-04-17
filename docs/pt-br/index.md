@@ -67,6 +67,13 @@ Se a sua configuração depende de monitores externos, o Quick BrightnessSync su
 
 [Explorar Quick BrightnessSync](/pt-br/products/quick-brightnesssync){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## AlwaysOnTop para multitarefa focada
 
 Quick AlwaysOnTop mantém materiais de referência, janelas de suporte ao vivo, calculadoras, tradutores e painéis de reunião à vista enquanto você continua trabalhando em outro lugar. Ele se encaixa naturalmente em fluxos de escritório, técnicos e de suporte porque melhora a área de trabalho que você já tem em vez de exigir que você trabalhe de outra forma.
@@ -78,13 +85,21 @@ Quick AlwaysOnTop mantém materiais de referência, janelas de suporte ao vivo, 
 
 [Explorar Quick AlwaysOnTop](/pt-br/products/quick-alwaysontop){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## Uma família de produtos para fluxos sérios de desktop
 
 Quick Utilities Suite reúne essas ferramentas com utilitários de arquivos, janelas, captura, tradução e cor para usuários que querem um kit profissional de Windows mais completo.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Comparar edições](/pt-br/pricing){.vp-button.alt}
+[Comparar edições](/pt-br[![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
+/pricing){.vp-button.alt}
 [Ver suporte comercial e para equipes](/pt-br/commercial){.vp-button.alt}
 
 </div>

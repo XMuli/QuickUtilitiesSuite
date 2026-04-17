@@ -67,6 +67,12 @@ features:
 
 [了解 Quick BrightnessSync](/zh-cn/products/quick-brightnesssync){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="前往 Microsoft Store 下载 Quick BrightnessSync">
+    <img src="https://get.microsoft.com/images/zh-cn%20dark.svg" alt="前往 Microsoft Store 下载" style="height: 56px;" />
+  </a>
+</div>
+
 ## AlwaysOnTop 负责专注多任务处理
 
 Quick AlwaysOnTop 让参考资料、直播面板、支持窗口、计算器、翻译器和会议工具始终保持在视线范围内。它不会强迫你重新组织桌面，只会让现有工作流更顺手。
@@ -78,12 +84,19 @@ Quick AlwaysOnTop 让参考资料、直播面板、支持窗口、计算器、�
 
 [了解 Quick AlwaysOnTop](/zh-cn/products/quick-alwaysontop){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="前往 Microsoft Store 下载 Quick AlwaysOnTop">
+    <img src="https://get.microsoft.com/images/zh-cn%20dark.svg" alt="前往 Microsoft Store 下载" style="height: 56px;" />
+  </a>
+</div>
+
 ## 一个更完整的专业桌面工具家族
 
 Quick Utilities Suite 将这些核心工具与文件、窗口、截图、翻译和取色能力组合起来，适合希望在同一套 Windows 工具体系内完成更多工作的用户。
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
+[![前往 Microsoft Store 下载](https://get.microsoft.com/images/zh-cn%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
 [查看版本对比](/zh-cn/pricing){.vp-button.alt}
 [查看团队与商业支持](/zh-cn/commercial){.vp-button.alt}
 

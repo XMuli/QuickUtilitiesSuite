@@ -6,9 +6,9 @@ Windows での作業方法に最も適した Quick Utilities 製品を選択し�
 
 | Product | こんな方に最適 | ハイライト | それを得る |
 | --- | --- | --- | --- |
-| Quick BrightnessSync | マルチモニターデスク、アナリスト、開発者、トレーダー、および外部ディスプレイのヘビーユーザー | 1 つの統合されたコントロール サーフェスから、サポートされているモニターの実際のハードウェア輝度制御 | [Microsoft Store](https://apps.microsoft.com/detail/9P90PPWL7VDJ) |
-| Quick AlwaysOnTop | 集中的なマルチタスク、サポート作業、オフィスの生産性、開発、およびライブ運用 | 瞬時の切り替え制御により、重要なウィンドウをデスクトップの他の部分の上に表示したままにします | [Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S) |
-| Quick Utilities Suite | 表示制御、ウィンドウ ツール、ファイルを大量に使用するユーティリティ、キャプチャ、翻訳、およびカラー ツールをまとめて必要とするユーザー | 高速アクセスと実用的な日常使用を中心に構築された広範なデスクトップ ツールキット | [Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV) |
+| Quick BrightnessSync | マルチモニターデスク、アナリスト、開発者、トレーダー、および外部ディスプレイのヘビーユーザー | 1 つの統合されたコントロール サーフェスから、サポートされているモニターの実際のハードウェア輝度制御 | <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Quick BrightnessSync from Microsoft Store" style="height: 56px; min-width: 140px;" /></a> |
+| Quick AlwaysOnTop | 集中的なマルチタスク、サポート作業、オフィスの生産性、開発、およびライブ運用 | 瞬時の切り替え制御により、重要なウィンドウをデスクトップの他の部分の上に表示したままにします | <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Quick AlwaysOnTop from Microsoft Store" style="height: 56px; min-width: 140px;" /></a> |
+| Quick Utilities Suite | 表示制御、ウィンドウ ツール、ファイルを大量に使用するユーティリティ、キャプチャ、翻訳、およびカラー ツールをまとめて必要とするユーザー | 高速アクセスと実用的な日常使用を中心に構築された広範なデスクトップ ツールキット | <a href="https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct" aria-label="Download Quick Utilities Suite from Microsoft Store"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Quick Utilities Suite from Microsoft Store" style="height: 56px; min-width: 140px;" /></a> |
 
 ## どれを選ぶべきか
 

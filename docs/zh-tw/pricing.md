@@ -6,9 +6,9 @@
 
 | Product | 最適合 | 亮點 | 取得方式 |
 | --- | --- | --- | --- |
-| Quick BrightnessSync | 多螢幕桌面、分析師、開發者、交易員與重度外接顯示器使用者 | 透過統一介面控制支援顯示器的真實硬體亮度 | [Microsoft Store](https://apps.microsoft.com/detail/9P90PPWL7VDJ) |
-| Quick AlwaysOnTop | 專注多工、支援工作、辦公協作、開發與即時運營 | 讓重要視窗快速置頂並在桌面上方持續清晰可見 | [Microsoft Store](https://apps.microsoft.com/detail/9NR3H8Q42N4S) |
-| Quick Utilities Suite | 想把顯示控制、視窗工具、重檔案工具、擷取、翻譯與色彩工具整合在一起的使用者 | 圍繞快速存取與實用日常使用打造的更完整桌面工具組 | [Microsoft Store](https://apps.microsoft.com/detail/9PGNXC5HJMCV) |
+| Quick BrightnessSync | 多螢幕桌面、分析師、開發者、交易員與重度外接顯示器使用者 | 透過統一介面控制支援顯示器的真實硬體亮度 | <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Quick BrightnessSync from Microsoft Store" style="height: 56px; min-width: 140px;" /></a> |
+| Quick AlwaysOnTop | 專注多工、支援工作、辦公協作、開發與即時運營 | 讓重要視窗快速置頂並在桌面上方持續清晰可見 | <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Quick AlwaysOnTop from Microsoft Store" style="height: 56px; min-width: 140px;" /></a> |
+| Quick Utilities Suite | 想把顯示控制、視窗工具、重檔案工具、擷取、翻譯與色彩工具整合在一起的使用者 | 圍繞快速存取與實用日常使用打造的更完整桌面工具組 | <a href="https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct" aria-label="Download Quick Utilities Suite from Microsoft Store"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Quick Utilities Suite from Microsoft Store" style="height: 56px; min-width: 140px;" /></a> |
 
 ## 你該選哪一個
 

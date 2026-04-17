@@ -67,6 +67,13 @@ Si tu configuración depende de pantallas externas, Quick BrightnessSync sustitu
 
 [Explorar Quick BrightnessSync](/es/products/quick-brightnesssync){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## AlwaysOnTop para multitarea enfocada
 
 Quick AlwaysOnTop mantiene a la vista material de referencia, ventanas de soporte en vivo, calculadoras, traductores y paneles de reuniones mientras sigues trabajando en otra parte. Encaja de forma natural en flujos de oficina, técnicos y de soporte porque mejora el escritorio que ya tienes en lugar de obligarte a trabajar de otra manera.
@@ -78,13 +85,21 @@ Quick AlwaysOnTop mantiene a la vista material de referencia, ventanas de soport
 
 [Explorar Quick AlwaysOnTop](/es/products/quick-alwaysontop){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## Una familia de productos para flujos serios de escritorio
 
 Quick Utilities Suite reúne estas herramientas con utilidades de archivos, ventanas, captura, traducción y color para usuarios que quieren un kit profesional de Windows más completo.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Comparar ediciones](/es/pricing){.vp-button.alt}
+[Comparar ediciones](/es[![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
+/pricing){.vp-button.alt}
 [Ver soporte comercial y para equipos](/es/commercial){.vp-button.alt}
 
 </div>

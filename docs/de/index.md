@@ -67,6 +67,13 @@ Wenn Ihr Setup von externen Displays abhängt, ersetzt Quick BrightnessSync das 
 
 [Quick BrightnessSync ansehen](/de/products/quick-brightnesssync){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## AlwaysOnTop für fokussiertes Multitasking
 
 Quick AlwaysOnTop hält Referenzmaterial, Live-Support-Fenster, Rechner, Übersetzer und Meeting-Panels im Blick, während Sie anderswo weiterarbeiten. Es passt natürlich in Büro-, Technik- und Support-Workflows, weil es den vorhandenen Desktop verbessert, statt eine andere Arbeitsweise zu erzwingen.
@@ -78,13 +85,21 @@ Quick AlwaysOnTop hält Referenzmaterial, Live-Support-Fenster, Rechner, Überse
 
 [Quick AlwaysOnTop ansehen](/de/products/quick-alwaysontop){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## Eine Produktfamilie für ernsthafte Desktop-Workflows
 
 Quick Utilities Suite bringt diese Werkzeuge zusammen mit Datei-, Fenster-, Capture-, Übersetzungs- und Farb-Utilities für Nutzer, die ein vollständigeres professionelles Windows-Toolkit wollen.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[Editionen vergleichen](/de/pricing){.vp-button.alt}
+[Editionen vergleichen](/de[![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
+/pricing){.vp-button.alt}
 [Team- und Geschäftssupport ansehen](/de/commercial){.vp-button.alt}
 
 </div>

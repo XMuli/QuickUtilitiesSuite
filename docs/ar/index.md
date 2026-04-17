@@ -67,6 +67,13 @@ features:
 
 [استكشف Quick BrightnessSync](/ar/products/quick-brightnesssync){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9P90PPWL7VDJ?mode=direct" aria-label="Download Quick BrightnessSync from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## AlwaysOnTop لتعدد المهام المركزة
 
 يبقي Quick AlwaysOnTop المواد المرجعية ونوافذ الدعم المباشر والآلات الحاسبة والمترجمين ولوحات الاجتماعات ضمن نطاق العرض أثناء مواصلة العمل في مكان آخر. فهو يتناسب بشكل طبيعي مع مهام سير العمل المكتبية والتقنية والدعم لأنه يعمل على تحسين سطح المكتب لديك بالفعل بدلاً من أن يطلب منك العمل بشكل مختلف.
@@ -78,13 +85,21 @@ features:
 
 [استكشف Quick AlwaysOnTop](/ar/products/quick-alwaysontop){.vp-button.brand}
 
+<div style="margin: 1rem 0 2rem;">
+  <a href="https://apps.microsoft.com/detail/9NR3H8Q42N4S?mode=direct" aria-label="Download Quick AlwaysOnTop from Microsoft Store">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" style="height: 56px;" />
+  </a>
+</div>
+
+
 ## عائلة منتجات واحدة لسير عمل سطح المكتب الجاد
 
 يجمع Quick Utilities Suite هذه الأدوات مع الأدوات المساعدة للملفات والنوافذ والالتقاط والترجمة والألوان للمستخدمين الذين يريدون مجموعة أدوات Windows احترافية أكثر اكتمالاً.
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
 
-[مقارنة الإصدارات](/ar/pricing){.vp-button.alt}
+[مقارنة الإصدارات](/ar[![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
+/pricing){.vp-button.alt}
 [عرض الفريق والدعم التجاري](/ar/commercial){.vp-button.alt}
 
 </div>
